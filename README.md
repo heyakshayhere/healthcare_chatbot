@@ -20,7 +20,7 @@
 - First train the model 
 - Then we will add custom indent and actions 
 - Also, we will edit the stories based on how we need the bot according to the requirements 
-- You can take the reference of the previous batch work 
+- You can take the reference of the previous work 
 
 
 ## License
