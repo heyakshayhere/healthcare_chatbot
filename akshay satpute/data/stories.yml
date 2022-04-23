@@ -2,12 +2,17 @@ version: "3.1"
 
 stories:
 
+#this story is edited and we have to create similar to this 
 - story: happy path
   steps:
   - intent: greet
   - action: utter_greet
   - intent: mood_great
   - action: utter_happy
+  - intent: affirm
+  - action: utter_mood_great
+  - intent: affirm
+  - action: utter_affirm
 
 - story: sad path 1
   steps:
