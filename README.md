@@ -12,7 +12,7 @@
  pip install rasa 
  rasa init
 ```
-To install rasa x 
+Install rasa x 
 
 ```bash
  pip install rasa-x -i https://pypi.rasa.com/simple
@@ -23,7 +23,7 @@ learn more
 
 [rasa x](https://rasa.com/docs/rasa-x/installation-and-setup/installation-guide)
 
-### Workflow
+## Workflow
 - Look at the documentation 
     https://rasa.com/docs/rasa/installation/
 - Create a fork 
