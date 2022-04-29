@@ -1,0 +1,83 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - Diabetes
+  - age
+  - Gender
+  - HighBP_YN
+
+responses:
+  utter_greet:
+  - text: "Hey! Which Type of Care you need?"
+    buttons:
+      - title: "Diabetes"
+        payload: "/Diabetes"
+      - title: "COVID"
+        payload: "/Diabetes"
+      - title: "Thyroid"
+        payload: "/Diabetes"
+
+
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_diabetes:
+  - text: "I would like to know a bit more about you. How old are you?"
+    buttons:
+      - title: "<20"
+        payload: "/age"
+      - title: "20-50"
+        payload: "/age"
+      - title: "50>"
+        payload: "/age"
+  utter_age:
+  - text: "You are..."
+    buttons:
+      - title: "Male"
+        payload: "/Gender"
+      - title: "Female"
+        payload: "/Gender"
+      - title: "Other."
+        payload: "/Gender"
+
+  utter_gender:
+  - text: "So, before we proceed...Have you ever been found to have high blood sugar either from a blood test or during a visit to the doctor"
+    buttons:
+      - title: "Yes"
+        payload: "/HighBP_YN"
+      - title: "No"
+        payload: "/HighBP_YN"
+  utter_yn:
+  - text: "You are...?"
+    buttons:
+      - title: "Male"
+        payload: "/Gender"
+      - title: "Female"
+        payload: "/Gender"
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
