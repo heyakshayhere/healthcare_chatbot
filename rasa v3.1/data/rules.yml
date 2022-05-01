@@ -1,0 +1,58 @@
+version: "3.1"
+
+rules:
+
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- rule: common cold rule
+  steps:
+  - intent: common_cold
+  - action: utter_common_cold
+
+- rule: care when it's common cold
+  steps:
+  - action: utter_common_cold
+  - intent : affirm
+  - action: utter_common_cold_treat
+  - action: utter_did_that_help
+
+- rule: Say welcome
+  steps:
+  - intent: thank
+  - action: utter_welcome
+
+- rule: Activate form
+  steps:
+  - intent: request
+  - action: name_form
+  - active_loop: name_form
+
+- rule: Activate form again
+  steps:
+  - intent : nan
+  - action : utter_nan
+  - action : action_reset_bot
+  - active_loop: name_form
+  - slot_was_set:
+    - requested_slot: null
+  - action: utter_slots_values
+
+- rule: Submit form
+  condition:
+  - active_loop: name_form
+  steps:
+  - action: name_form
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+  - action: utter_submit
+  - action: utter_slots_values
+

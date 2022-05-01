@@ -1,0 +1,135 @@
+version: '3.1'
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+#indents from nlu
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- bot_challenge
+- request
+- nan
+- common_cold
+- fever
+- thank
+
+#taking slots for the custom format
+slots:
+  first_name:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_text
+      conditions:
+      - active_loop: name_form
+        requested_slot: first_name
+  last_name:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_text
+      conditions:
+      - active_loop: name_form
+        requested_slot: last_name
+  gender:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_text
+      conditions:
+      - active_loop: name_form
+        requested_slot: gender
+  pain:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_text
+      conditions:
+      - active_loop: name_form
+        requested_slot: pain
+  bp:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_text
+      conditions:
+      - active_loop: name_form
+        requested_slot: bp
+
+#utters by the bot         
+responses:
+  utter_greet:
+  - text: Hey! How are you?
+  utter_goodbye:
+  - text: Bye
+  utter_cheer_up:
+  - image: https://external-preview.redd.it/-S6PjRAbrrAxrSEdpl5zaXYVqLslJyKx_wlmyppmfy0.gif?format=mp4&s=79c37c1fe1b117d00c9df2110fc76ca78a8ec9e7
+    text: 'Here is something to cheer you up:'
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_happy:
+  - text: Great, carry on!
+  utter_iamabot:
+  - text: I am a bot, trying to learn new things.
+  utter_ask_first_name:
+  - text: What is your first name?
+  utter_ask_last_name:
+  - text: So {first_name}, what is your last name?
+  utter_ask_gender:
+  - text: what is your gender?
+  utter_ask_pain:
+  - text: what is the intensity of your pain  ?
+  utter_ask_bp:
+  - text: how much your blood pressure is ?
+  utter_submit:
+  - text: Ok. Thanks!
+  utter_welcome:
+  - text: welcome !
+  - text: you're welcome
+  - text: happy for you :)
+  - text: anything else ?
+  utter_nan:
+  - text: oops! will do that again
+  utter_slots_values:
+  - text: |
+      So {first_name} {last_name} , your are {gender} 
+      your pain intensity is {pain} and your blood pressure level is {bp}
+  utter_common_cold:
+  - text: |
+        {first_name},those are the symptoms of common cold 
+  - text: |
+        {first_name},you are suffering from common cold 
+  utter_common_cold_treat:
+  - text: |
+        Get plenty of rest.
+        Drink plenty of fluids.
+        Use a clean humidifier or cool mist vaporizer.
+        Use saline nasal spray or drops. 
+        IF you are young children, use a rubber suction bulb to clear mucus.
+        Breathe in steam from a bowl of hot water or shower.
+  utter_fever:
+  - text: |
+        {first_name},those are the symptoms of fever
+  - text: |
+        {first_name},you are suffering from fever
+
+
+#actions from actions.py       
+actions:
+- action_reset_bot
+
+#forms sequence and rolling
+forms:
+  name_form:
+    required_slots:
+    - first_name
+    - last_name
+    - gender
+    - pain
+    - bp
