@@ -1,0 +1,1583 @@
+id,Disease,Question 1,Option 1,Answer,Question 2,Option 2,Answer,Question 3,Option 3,Answer,Question 4,Option 4,,Question 5,Option 5,Answer,Question 6,Option 6,Answer,Question 7,Option 7,Answer,Question 8,Option 8,Answer,Question 9,Option 9,Answer,Question 10,Option 10,Answer,Question 11,Option 11,Answer,Question 12,Option 12,Answer,Question 13,Option 13,Answer,Question 14,Option 14,Answer,Question 15,Option 15,Answer,Question 16,Option 16,Answer,Result,,,,,,,,,,,,,,,,,,,,,,,
+1,Diabetes,"I would like to know a bit more about you.
+How old are you?","20 years and less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years and above",20 years and less,You are...,"Male
+Female",Male,"So, before we proceed...
+Have you ever been found to have high blood sugar either from a blood test or during a visit to the doctor?","Yes
+No",Yes,Did your report point out any of these as abnormalities?,"HbA1c
+Blood sugars
+Urine sugar +ve
+I don't remember.",Blood sugars,Can you tell me your last measured fasting blood sugar?,"FBS <100 mg/dl
+FBS 100 -126 mg/dl
+FBS â‰¥ 126 mg/dl
+I don't remember.",FBS 100 -126 mg/dl,How much was your last recorded PPBS (sugar levels post food intake)? ,"PPBS <140 mg /dl
+PPBS 140-199 mg/dl
+PPBS â‰¥ 200 mg/dl
+I don't remember.",PPBS <140 mg /dl,"As you said your blood sugars were found to be high, 
+have you been diagnosed with..","Pre-diabetes
+Diabetes
+None of the above",Pre-diabetes,"Have you experienced the following? 
+Select options that apply to you.","Frequent urination
+Consistently thirsty
+Frequently hungry
+None of the above",Consistently thirsty,Do you experience excessive tiredness along with the above-selected symptoms?ðŸ‘†,"Yes
+No",Yes,"Are these symptoms familiar to you? 
+Select options that apply to you.","Tingling/burning sensation
+Shoulder stiffness/pain
+Unexplained weight loss
+Weight gain
+None of the above",Weight gain,Have you observed any of these skin conditions?,"Skin tags
+Skin thickening/darkening
+None of the above",Skin tags,"Coming to family history, have any of your blood relatives (siblings, parents..) been diagnosed with diabetes?","Yes
+No",Yes,Do you generally...,"Skip meals often
+Eat sugary/fatty junk food
+Consume high carbohydrate diet
+Eat healthy/Follow a meal plan","Consume high carbohydrate diet
+Eat sugary/fatty junk food","Say, how would you describe yourself?","I am underweight
+I am at a healthy weight
+I am a bit overweight
+I am obese",I am a bit overweight,Do you set aside time for exercise?,"No
+Rarely
+Weekends
+Weekdays
+Daily",No,"Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Irregular sleep patterns
+None of the above",Stress,High Risk of Diabetes,,,,,,,,,,,,,,,,,,,,,,,
+2,Diabetes,"I would like to know a bit more about you.:) 
+How old are you?","20 years and less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years and above",21 to 30 years,You are...,"Male
+Female",Female,"So, before we proceed...
+Have you ever been found to have high blood sugar either from a blood test or during a visit to the doctor?","Yes
+No",No,"Have you experienced the following? 
+Select options that apply to you.","Frequent urination
+Consistently thirsty
+Frequently hungry
+None of the above",Frequently hungry,Do you experience excessive tiredness along with the above-selected symptoms?ðŸ‘†,"Yes
+No",No,"Are these symptoms familiar to you? 
+Select options that apply to you.","Tingling/burning sensation
+Shoulder stiffness/pain
+Unexplained weight loss
+Weight gain
+None of the above",Unexplained weight loss,Have you observed any of these skin conditions?,"Skin tags
+Skin thickening/darkening
+None of the above",None of the above,"Coming to family history, have any of your blood relatives (siblings, parents..) been diagnosed with diabetes?","Yes
+No",No,Do you generally...,"Skip meals often
+Eat sugary/fatty junk food
+Consume high carbohydrate diet
+Eat healthy/Follow a meal plan","Skip meals often
+Consume high carbohydrate diet","Say, how would you describe yourself?","I am underweight
+I am at a healthy weight
+I am a bit overweight
+I am obese",I am underweight,Do you set aside time for exercise?,"No
+Rarely
+Weekends
+Weekdays
+Daily",Rarely,"Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Drinking alcohol
+Cigarette smoking
+Irregular sleep patterns
+None of the above","Drinking alcohol
+Cigarette smoking
+Stress",,,,,,,,,,,,,Low Risk of Diabetes,,,,,,,,,,,,,,,,,,,,,,,
+3,Diabetes,"I would like to know a bit more about you.:) 
+How old are you?","20 years and less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years and above",20 years and less,You are...,"Female
+Male",Male,"So, before we proceed...
+Have you ever been found to have high blood sugar either from a blood test or during a visit to the doctor?","Yes
+No",No,"Have you experienced the following? 
+Select options that apply to you.","Frequent urination
+Consistently thirsty
+Frequently hungry
+None of the above",None of the above,"Do you relate to the following symptoms?
+Select options that apply to you.","Excessive tiredness
+Tingling/burning sensation
+Shoulder stiffness/pain
+Unexplained weight loss
+Weight gain
+None of the above",None of the above,Have you observed any of these skin conditions?,"Skin tags
+Skin thickening/darkening
+None of the above",None of the above,"Coming to family history, have any of your blood relatives (siblings, parents..) been diagnosed with diabetes?","Yes
+No",No,Do you generally...,"Skip meals often
+Eat sugary/fatty junk food
+Consume high carbohydrate diet
+Eat healthy/Follow a meal plan",Eat healthy/Follow a meal plan,"Say, how would you describe yourself?","I am underweight
+I am at a healthy weight
+I am a bit overweight
+I am obese",I am at a healthy weight,Do you set aside time for exercise?,"No
+Rarely
+Weekends
+Weekdays
+Daily",Daily,"Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Irregular sleep patterns
+None of the above",None of the above,,,,,,,,,,,,,,,,Moderate Risk of Diabetes,,,,,,,,,,,,,,,,,,,,,,,
+4,Diabetes,"I would like to know a bit more about you.:) 
+How old are you?","20 years and less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years and above",51 years and above,You are...,"Male
+Female",Male,"So, before we proceed...
+Have you ever been found to have high blood sugar either from a blood test or during a visit to the doctor?","Yes
+No",Yes,Did your report point out any of these as abnormalities?,"HbA1c
+Blood sugars
+Urine sugar +ve
+I don't remember.",I don't remember.,"As you said your blood sugars were found to be high, 
+have you been diagnosed with..","Pre-diabetes
+Diabetes
+None of the above",Diabetes,Did you observe or diagnosed with any of these?,"Foot ulcers
+Blurred/Diminished vision
+Kidney issues
+Heart related issues
+None of the above",Heart related issues,"Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Drinking alcohol
+Cigarette smoking
+Irregular sleep patterns
+None of the above","Stress
+Irregular sleep patterns",,,,,,,,,,,,,,,,,,,,,,,,,,,,High Risk of Diabetes,,,,,,,,,,,,,,,,,,,,,,,
+5,Diabetes,"I would like to know a bit more about you.:) 
+How old are you?","20 years and less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years and above",21 to 30 years,You are...,"Male
+Female",Male,"So, before we proceed...
+Have you ever been found to have high blood sugar either from a blood test or during a visit to the doctor?","Yes
+No",Yes,Did your report point out any of these as abnormalities?,"HbA1c
+Blood sugars
+Urine sugar +ve
+I don't remember.","Blood sugars
+Urine sugar +ve",Can you tell me your last measured fasting blood sugar?,"FBS <100 mg/dl
+FBS 100 -126 mg/dl
+FBS â‰¥ 126 mg/dl
+I don't remember.",FBS â‰¥ 126 mg/dl,How much was your last recorded PPBS (sugar levels post food intake)? ,"PPBS <140 mg /dl
+PPBS 140-199 mg/dl
+PPBS â‰¥ 200 mg/dl
+I don't remember.",PPBS â‰¥ 200 mg/dl,"As you said your blood sugars were found to be high, 
+have you been diagnosed with..","Pre-diabetes
+Diabetes
+None of the above",Diabetes,Did you observe or diagnosed with any of these?,"Foot ulcers
+Blurred/Diminished vision
+Kidney issues
+Heart related issues
+None of the above","Blurred/Diminished vision
+Heart related issues","Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Drinking alcohol
+Cigarette smoking
+Irregular sleep patterns
+None of the above",Irregular sleep patterns,,,,,,,,,,,,,,,,,,,,,,High Risk of Diabetes,,,,,,,,,,,,,,,,,,,,,,,
+6,Diabetes,"I would like to know a bit more about you.:) 
+How old are you?","20 years and less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years and above",31 to 40 years,You are...,"Male
+Female",Female,"So, before we proceed...
+Have you ever been found to have high blood sugar either from a blood test or during a visit to the doctor?","Yes
+No",Yes,Did your report point out any of these as abnormalities?,"HbA1c
+Blood sugars
+Urine sugar +ve
+I don't remember.","Urine sugar +ve
+HbA1c",How much was your last measured HBA1c?,"HbA1c â‰¥9%
+HbA1c 6.5% to 9%
+HbA1c 5.9% - 6.4%
+Less than 5.9% HbA1c
+I don't remember",HbA1c â‰¥9%,"As you said your blood sugars were found to be high, 
+have you been diagnosed with..","Pre-diabetes
+Diabetes
+None of the above",Pre-diabetes,"Have you experienced the following? 
+Select options that apply to you.","Frequent urination
+Consistently thirsty
+Frequently hungry
+None of the above","Consistently thirsty
+Frequently hungry
+Frequent urination",Do you experience excessive tiredness along with the above-selected symptoms?ðŸ‘†,"Yes
+No",No,"Are these symptoms familiar to you? 
+Select options that apply to you.","Tingling/burning sensation
+Shoulder stiffness/pain
+Unexplained weight loss
+Weight gain
+None of the above","Shoulder stiffness/pain
+Tingling/burning sensation",Have you observed any of these skin conditions?,"Skin tags
+Skin thickening/darkening
+None of the above",Skin thickening/darkening,"Coming to family history, have any of your blood relatives (siblings, parents..) been diagnosed with diabetes?","Yes
+No",Yes,Do you generally...,"Skip meals often
+Eat sugary/fatty junk food
+Consume high carbohydrate diet
+Eat healthy/Follow a meal plan","Consume high carbohydrate diet
+Skip meals often
+Eat sugary/fatty junk food","Say, how would you describe yourself?","I am underweight
+I am at a healthy weight
+I am a bit overweight
+I am obese",I am obese,Do you set aside time for exercise?,"No
+Rarely
+Weekends
+Weekdays
+Daily",No,"Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Drinking alcohol
+Cigarette smoking
+Irregular sleep patterns
+None of the above","Irregular sleep patterns
+Stress",,,,High Risk of Diabetes,,,,,,,,,,,,,,,,,,,,,,,
+7,Diabetes,"I would like to know a bit more about you.:) 
+How old are you?","20 years and less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years and above",41 to 50 years,You are...,"Male
+Female",Male,"So, before we proceed...
+Have you ever been found to have high blood sugar either from a blood test or during a visit to the doctor?","Yes
+No",No,"Have you experienced the following? 
+Select options that apply to you.","Frequent urination
+Consistently thirsty
+Frequently hungry
+None of the above","Consistently thirsty
+Frequently hungry
+Frequent urination",Do you experience excessive tiredness along with the above-selected symptoms?ðŸ‘†,"Yes
+No",Yes,"Are these symptoms familiar to you? 
+Select options that apply to you.","Tingling/burning sensation
+Shoulder stiffness/pain
+Unexplained weight loss
+Weight gain
+None of the above","Tingling/burning sensation
+Shoulder stiffness/pain
+Unexplained weight loss
+Weight gain",Have you observed any of these skin conditions?,"Skin tags
+Skin thickening/darkening
+None of the above","Skin tags
+Skin thickening/darkening","Coming to family history, have any of your blood relatives (siblings, parents..) been diagnosed with diabetes?","Yes
+No",Yes,Do you generally...,"Skip meals often
+Eat sugary/fatty junk food
+Consume high carbohydrate diet
+Eat healthy/Follow a meal plan","Skip meals often
+Eat sugary/fatty junk food
+Consume high carbohydrate diet","Say, how would you describe yourself?","I am underweight
+I am at a healthy weight
+I am a bit overweight
+I am obese",I am obese,,,,"Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Drinking alcohol
+Cigarette smoking
+Irregular sleep patterns
+None of the above","Stress
+Drinking alcohol
+Cigarette smoking
+Irregular sleep patterns",Have you been diagnosed with any of these conditions?,"Cholesterol issues
+High blood pressure
+Thyroid disorders
+None of the above",Cholesterol issues,,,,,,,,,,High Risk of Diabetes,,,,,,,,,,,,,,,,,,,,,,,
+8,Heart Health,"It's nice to meet you! :) ‚ 
+Please let me know how old you are. ","20 years & less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 to 60 years
+Above 60 years",20 years & less,And you are...,"Male
+Female
+Other",Male,Do you relate with any of these symptoms?,"Pounding heart beat at rest
+Episodes of giddiness/fainting
+Breathlessness while walking
+Chest Pain
+None of the above","Pounding heart beat at rest
+Breathlessness while walking","As you are experiencing a 'pounding heartbeat' even at rest, what was your recorded heart rate?","Below 80
+80 -100
+101 - 140
+Above 140",80 -100,Have you had your cholesterol level tested recently?,"Yes
+No",Yes,"Did your report mention any of these abnormalities? 
+Select applicable options.","High LDL
+Low HDL
+High Total Cholesterol
+High Triglycerides
+Cholesterol levels controlled with medication
+None of the above",Low HDL,"Do you have high blood pressure?
+(Note: More than 130/90mmHg is considered high blood pressure)","Yes, I have high BP
+No, I've always had normal BP
+I have low BP
+I don't know","Yes, I have high BP",Are you on medication for high blood pressure?,"Yes
+No",Yes,Do you smoke or are constantly exposed to passive smoke for the last 12 months?,"Yes
+No
+More than 1 year since I quit",No,Do you drink alcohol?,"Occasionally
+Everyday( > 2 drinks/day)
+I don't drink",Occasionally,,,,"Has anyone in your family (parents, siblings, children) 
+experienced the following diseases or procedures?","Heart attack
+Stroke
+Angioplasty/ Stent placement
+None of the above",Heart attack,Do you have diabetes?,"Yes
+No",No, Have you ever had any of the following cardiac tests?  ,"ECG
+Echocardiogram(Echo)
+Labs (Troponin I/Troponin T)
+None of the above",ECG, Were these tests found to be normal?,"Yes, they were normal.
+No, they were abnormal.","Yes, they were normal.",Which one of the following statements best describes your usual activity?,"20-30mins/day high intensity
+30-40mins/day mild intensity
+I workout only few days/week
+I don't workout",I don't workout,High Risk of Heart Disease,"10 or more servings
+1 to 9 servings
+I don't eat red meat",I don't eat red meat,,,,,,,,,,,,,,,,,,,,,
+9,Heart Health,"It's nice to meet you! :) ‚ 
+Please let me know how old you are. ","20 years & less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 to 60 years
+Above 60 years",20 years & less,And you are...,"Male
+Female
+Other",Male,Do you relate with any of these symptoms?,"Pounding heart beat at rest
+Episodes of giddiness/fainting
+Breathlessness while walking
+Chest Pain
+None of the above",None of the above,Have you had your cholesterol level tested recently?,"Yes
+No",No,"Do you have high blood pressure?
+(Note: More than 130/90mmHg is considered high blood pressure)","Yes, I have high BP
+No, I've always had normal BP
+I have low BP
+I don't know","No, I've always had normal BP",Do you smoke or are constantly exposed to passive smoke for the last 12 months?,"Yes
+No
+More than 1 year since I quit",No,Do you drink alcohol?,"Occasionally
+Everyday( > 2 drinks/day)
+I don't drink",I don't drink,Have you experienced any of the following conditions?,"Heart attack
+Stroke
+None of the above",None of the above,"Has anyone in your family (parents, siblings, children) 
+experienced the following diseases or procedures?","Heart attack
+Stroke
+Angioplasty/ Stent placement
+None of the above",None of the above,Do you have diabetes?,"Yes
+No",No, Have you ever had any of the following cardiac tests?  ,"ECG
+Echocardiogram(Echo)
+Labs (Troponin I/Troponin T)
+None of the above",None of the above,Which one of the following statements best describes your usual activity?,"20-30mins/day high intensity
+30-40mins/day mild intensity
+I workout only few days/week
+I don't workout",30-40mins/day mild intensity,"How many servings of red meat do you eat per month?
+(Eg: mutton, steak, ham, bacon, sausage, etc.) 
+1 serving size: 90 gms or the size of a deck of cards.","10 or more servings
+1 to 9 servings
+I don't eat red meat",1 to 9 servings,,,,,,,,,,Moderate Risk of Heart Disease,,,,,,,,,,,,,,,,,,,,,,,
+10,Heart Health,"It's nice to meet you! :) ‚ 
+Please let me know how old you are. ","20 years & less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 to 60 years
+Above 60 years",20 years & less,And you are...,"Male
+Female
+Other",Male,Do you relate with any of these symptoms?,"Pounding heart beat at rest
+Episodes of giddiness/fainting
+Breathlessness while walking
+Chest Pain
+None of the above",None of the above,Have you had your cholesterol level tested recently?,"Yes
+No",No,"Do you have high blood pressure?
+(Note: More than 130/90mmHg is considered high blood pressure)","Yes, I have high BP
+No, I've always had normal BP
+I have low BP
+I don't know","No, I've always had normal BP",Do you smoke or are constantly exposed to passive smoke for the last 12 months?,"Yes
+No
+More than 1 year since I quit",No,Do you drink alcohol?,"Occasionally
+Everyday( > 2 drinks/day)
+I don't drink",I don't drink,Have you experienced any of the following conditions?,"Heart attack
+Stroke
+None of the above",None of the above,"Has anyone in your family (parents, siblings, children) 
+experienced the following diseases or procedures?","Heart attack
+Stroke
+Angioplasty/ Stent placement
+None of the above",None of the above,Do you have diabetes?,"Yes
+No",No, Have you ever had any of the following cardiac tests?  ,"ECG
+Echocardiogram(Echo)
+Labs (Troponin I/Troponin T)
+None of the above",None of the above,Which one of the following statements best describes your usual activity?,"20-30mins/day high intensity
+30-40mins/day mild intensity
+I workout only few days/week
+I don't workout",30-40mins/day mild intensity,"How many servings of red meat do you eat per month?
+(Eg: mutton, steak, ham, bacon, sausage, etc.) 
+1 serving size: 90 gms or the size of a deck of cards.","10 or more servings
+1 to 9 servings
+I don't eat red meat",1 to 9 servings,,,,,,,,,,High Risk of Heart Disease,,,,,,,,,,,,,,,,,,,,,,,
+11,Heart Health,"It's nice to meet you! :) ‚ 
+Please let me know how old you are. ","20 years & less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 to 60 years
+Above 60 years",21 to 30 years,And you are...,"Male
+Female
+Other",Other,Do you relate with any of these symptoms?,"Pounding heart beat at rest
+Episodes of giddiness/fainting
+Breathlessness while walking
+Chest Pain
+None of the above",Chest Pain,Have you had your cholesterol level tested recently?,"Yes
+No",No,"Do you have high blood pressure?
+(Note: More than 130/90mmHg is considered high blood pressure)","Yes, I have high BP
+No, I've always had normal BP
+I have low BP
+I don't know",I don't know,Do you smoke or are constantly exposed to passive smoke for the last 12 months?,"Yes
+No
+More than 1 year since I quit",Yes,Have you smoked 100 or more cigarettes in your lifetime?,"Yes
+No",Yes,Do you drink alcohol?,"Occasionally
+Everyday( > 2 drinks/day)
+I don't drink",Everyday( > 2 drinks/day),Have you experienced any of the following conditions?,"Heart attack
+Stroke
+None of the above",Heart attack,"Has anyone in your family (parents, siblings, children) 
+experienced the following diseases or procedures?","Heart attack
+Stroke
+Angioplasty/ Stent placement
+None of the above",None of the above,Do you have diabetes?,"Yes
+No",Yes, Have you ever had any of the following cardiac tests?  ,"ECG
+Echocardiogram(Echo)
+Labs (Troponin I/Troponin T)
+None of the above",None of the above,Which one of the following statements best describes your usual activity?,"20-30mins/day high intensity
+30-40mins/day mild intensity
+I workout only few days/week
+I don't workout",30-40mins/day mild intensity,"How many servings of red meat do you eat per month?
+(Eg: mutton, steak, ham, bacon, sausage, etc.) 
+1 serving size: 90 gms or the size of a deck of cards.","10 or more servings
+1 to 9 servings
+I don't eat red meat",10 or more servings,,,,,,,High Risk of Heart Disease,,,,,,,,,,,,,,,,,,,,,,,
+12,COVID,How old are you?,"Below 18 years
+19 - 30 years
+31 - 40 years
+41 - 50 years
+51 - 60 years
+Above 60 years",19 - 30 years, Are you experiencing any of the following problems? ,"Tiredness
+Throat Pain
+Fever
+Loss of Taste/Smell
+Cough
+Breathing Difficulty
+Muscle Pain
+Loose stools
+None of the above","Tiredness
+Throat Pain
+Fever
+Loss of Taste/Smell
+Cough
+Breathing Difficulty",How long have you been feeling tired?,"1 - 3 days
+3 - 5 days
+5 - 7 days
+7 - 14 days",1 - 3 days,Ok. Tell me more about your fever. How long have you had it for?,"1 - 3 days
+3 - 5 d
+5- 7 days
+7- 14 days",1 - 3 days,What was your maximum recorded temperature?,"99-100
+100-101
+102+",100-101,Do you have any chills or shivering?,"Yes
+No",Yes,How long have you had throat pain?,"1 - 3 days
+3- 5 days
+5 -7 days
+7 - 14 days",1 - 3 days,How bad is your throat pain?,"Mild
+Moderate
+Severe
+No pain",Mild,How long have you had loss of taste and/or smell?,"1 - 3 days
+3 - 5 days
+5 - 7 days
+7 - 14 days",1 - 3 days,How long have you had cough?,"1 - 3 days
+3 - 5 days
+5 - 7 days
+7 - 14 days",1 - 3 days,What is the colour of the sputum?,"Green
+Dark Grey
+White
+Yellow
+Red
+No sputum/Dry Cough",Green,Tell me more about your breathing difficulty. How long have you been having this?,"1-6hours
+6-24 hours
+1-3 days
+> 3 days",1-6hours,How did the breathing difficulty start?,"Gradual
+Sudden",Gradual,"Have you travelled in the last 15 days, inside or outside India? ","Yes
+No",No,Have you come in contact with anyone who travelled in the last 15 days?,"Yes
+No
+Don't Know",Don't Know,"Have you met or been in close contact with someone who has had fever, cough, sneezing or throat irritation in the past 15 days? ","Yes
+No
+Don't Know",No,Moderate Risk of COVID,"Yes
+No
+Don't Know",No,"Have you been to any gatherings of more than 50 people - like theatre, shopping mall, marriage, community prayers in the last 15 days? ","Yes
+No",No,Have you been diagnosed with Covid-19?,"Yes, currently Covid +ve
+Recovered from Covid
+Don't Know, Not yet tested
+No","Don't Know, Not yet tested","Before we finish, can you tell me if you have been vaccinated?","Yes - both doses
+Yes - but only 1 dose
+No",No,,,,,,,,,,,,
+13,COVID,How old are you?,"Below 18 years
+19 - 30 years
+31 - 40 years
+41 - 50 years
+51 - 60 years
+Above 60 years",19 - 30 years, Are you experiencing any of the following problems? ,"Tiredness
+Throat Pain
+Fever
+Loss of Taste/Smell
+Cough
+Breathing Difficulty
+Muscle Pain
+Loose stools
+None of the above",None of the above,"Have you travelled in the last 15 days, inside or outside India? ","Yes
+No",No,Have you come in contact with anyone who travelled in the last 15 days?,"Yes
+No
+Don't Know",No,"Have you met or been in close contact with someone who has had fever, cough, sneezing or throat irritation in the past 15 days? ","Yes
+No
+Don't Know",Don't Know,Have you come in contact with anybody who has been diagnosed with COVID-19 in the last 15 days? ,"Yes
+No
+Don't Know",Don't Know,"Have you been to any gatherings of more than 50 people - like theatre, shopping mall, marriage, community prayers in the last 15 days? ","Yes
+No",No,Have you been diagnosed with Covid-19?,"Yes, currently Covid +ve
+Recovered from Covid
+Don't Know, Not yet tested
+No","Don't Know, Not yet tested","Before we finish, can you tell me if you have been vaccinated?","Yes - both doses
+Yes - but only 1 dose
+No",Yes - but only 1 dose,Which vaccine have you taken?,"Covishield
+Sputnik
+Covaxin
+Don't remember",Covishield,,,,,,,,,,,,,,,,,,,Low Risk of COVID,,,,,,,,,,,,,,,,,,,,,,,
+14,COVID,How old are you?,"Below 18 years
+19 - 30 years
+31 - 40 years
+41 - 50 years
+51 - 60 years
+Above 60 years",19 - 30 years, Are you experiencing any of the following problems? ,"Tiredness
+Throat Pain
+Fever
+Loss of Taste/Smell
+Cough
+Breathing Difficulty
+Muscle Pain
+Loose stools
+None of the above","Tiredness
+Throat Pain
+Breathing Difficulty
+Cough
+Muscle Pain
+Fever
+Loss of Taste/Smell
+Loose stools",How long have you been feeling tired?,"1 - 3 days
+3 - 5 days
+5 - 7 days
+7 - 14 days",7 - 14 days,Ok. Tell me more about your fever. How long have you had it for?,"1 - 3 days
+3 - 5 d
+5- 7 days
+7- 14 days",5- 7 days,What was your maximum recorded temperature?,"99-100
+100-101
+102+",102+,Do you have any chills or shivering?,"Yes
+No",Yes,How long have you had throat pain?,"1 - 3 days
+3- 5 days
+5 -7 days
+7 - 14 days",7 - 14 days,How bad is your throat pain?,"Mild
+Moderate
+Severe
+No pain",Moderate,How long have you had loss of taste and/or smell?,"1 - 3 days
+3 - 5 days
+5 - 7 days
+7 - 14 days",5 - 7 days,How long have you had cough?,"1 - 3 days
+3 - 5 days
+5 - 7 days
+7 - 14 days",3 - 5 days,What is the colour of the sputum?,"Green
+Dark Grey
+White
+Yellow
+Red
+No sputum/Dry Cough",No sputum/Dry Cough,Tell me more about your breathing difficulty. How long have you been having this?,"1-6hours
+6-24 hours
+1-3 days
+> 3 days",> 3 days,How did the breathing difficulty start?,"Gradual
+Sudden",Sudden,How long have you had muscle pain?,"1 - 3 days
+3 - 5 days
+5 - 7 days
+7 - 14 days",1 - 3 days,How did the muscle pain start?,"Gradual
+Severe",Gradual,How severe is the muscle pain?,"Mild
+Moderate
+Severe
+No pain",Mild,High Risk of COVID,"Yes
+No",Yes,Have you come in contact with anyone who travelled in the last 15 days?,"Yes
+No
+Don't Know",Don't Know,"Have you met or been in close contact with someone who has had fever, cough, sneezing or throat irritation in the past 15 days? ","Yes
+No
+Don't Know",Don't Know,Have you come in contact with anybody who has been diagnosed with COVID-19 in the last 15 days? ,"Yes
+No
+Don't Know",Don't Know,"Have you been to any gatherings of more than 50 people - like theatre, shopping mall, marriage, community prayers in the last 15 days? ","Yes
+No",No,Have you been diagnosed with Covid-19?,"Yes, currently Covid +ve
+Recovered from Covid
+Don't Know, Not yet tested
+No","Don't Know, Not yet tested","Before we finish, can you tell me if you have been vaccinated?","Yes - both doses
+Yes - but only 1 dose
+No",Yes - both doses,Which vaccine have you taken?,"Sputnik
+Covaxin
+Covishield
+Don't remember",Covishield
+15,COVID,How old are you?,"Below 18 years
+19 - 30 years
+31 - 40 years
+41 - 50 years
+51 - 60 years
+Above 60 years",19 - 30 years, Are you experiencing any of the following problems? ,"Tiredness
+Throat Pain
+Fever
+Loss of Taste/Smell
+Cough
+Breathing Difficulty
+Muscle Pain
+Loose stools
+None of the above","Cough
+Fever",Ok. Tell me more about your fever. How long have you had it for?,"1 - 3 days
+3 - 5 d
+5- 7 days
+7- 14 days",3 - 5 d,What was your maximum recorded temperature?,"99-100
+100-101
+102+",100-101,Do you have any chills or shivering?,"Yes
+No",No,How long have you had cough?,"1 - 3 days
+3 - 5 days
+5 - 7 days
+7 - 14 days",5 - 7 days,What is the colour of the sputum?,"Green
+Dark Grey
+White
+Yellow
+Red
+No sputum/Dry Cough",White,"Have you travelled in the last 15 days, inside or outside India? ","Yes
+No",No,Have you come in contact with anyone who travelled in the last 15 days?,"Yes
+No
+Don't Know",No,"Have you met or been in close contact with someone who has had fever, cough, sneezing or throat irritation in the past 15 days? ","Yes
+No
+Don't Know",Don't Know,Have you come in contact with anybody who has been diagnosed with COVID-19 in the last 15 days? ,"Yes
+No
+Don't Know",No,"Have you been to any gatherings of more than 50 people - like theatre, shopping mall, marriage, community prayers in the last 15 days? ","Yes
+No",Yes, Do you wear a mask while you are outside or when in close contact with others? ,"Yes
+No
+Sometimes",Yes,Have you been diagnosed with Covid-19?,"Yes, currently Covid +ve
+Recovered from Covid
+Don't Know, Not yet tested
+No","Don't Know, Not yet tested","Before we finish, can you tell me if you have been vaccinated?","Yes - both doses
+Yes - but only 1 dose
+No",Yes - but only 1 dose,Which vaccine have you taken?,"Covaxin
+Covishield
+Sputnik
+Don't remember",Covaxin,Moderate Risk of COVID,,,,,,,,,,,,,,,,,,,,,,,
+16,COVID,How old are you?,"Below 18 years
+19 - 30 years
+31 - 40 years
+41 - 50 years
+51 - 60 years
+Above 60 years",19 - 30 years, Are you experiencing any of the following problems? ,"Tiredness
+Throat Pain
+Fever
+Loss of Taste/Smell
+Cough
+Breathing Difficulty
+Muscle Pain
+Loose stools
+None of the above",Fever,Ok. Tell me more about your fever. How long have you had it for?,"1 - 3 days
+3 - 5 d
+5- 7 days
+7- 14 days",3 - 5 d,What was your maximum recorded temperature?,"99-100
+100-101
+102+",99-100,Do you have any chills or shivering?,"Yes
+No",Yes,"Have you travelled in the last 15 days, inside or outside India? ","Yes
+No",Yes,Have you come in contact with anyone who travelled in the last 15 days?,"Yes
+No
+Don't Know",Yes,"Have you met or been in close contact with someone who has had fever, cough, sneezing or throat irritation in the past 15 days? ","Yes
+No
+Don't Know",Don't Know,Have you come in contact with anybody who has been diagnosed with COVID-19 in the last 15 days? ,"Yes
+No
+Don't Know",No,"Have you been to any gatherings of more than 50 people - like theatre, shopping mall, marriage, community prayers in the last 15 days? ","Yes
+No",Yes, Do you wear a mask while you are outside or when in close contact with others? ,"Yes
+No
+Sometimes",No,Have you been diagnosed with Covid-19?,"Yes, currently Covid +ve
+Recovered from Covid
+Don't Know, Not yet tested
+No","Don't Know, Not yet tested","Before we finish, can you tell me if you have been vaccinated?","Yes - both doses
+Yes - but only 1 dose
+No",Yes - both doses,Which vaccine have you taken?,"Covaxin
+Covishield
+Sputnik
+Don't remember",Covishield,,,,,,,Moderate Risk of COVID,,,,,,,,,,,,,,,,,,,,,,,
+17,Breast Cancer,"Nice to meet you! 
+Tell me, how old are you?","20 years & less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years & above",21 to 30 years,"There is a video below that can help assist your exam. Answer the questions accordingly.  It's quick and simple, I promise :) Repeat on the other side.
+</div> </div>
+What irregularities in the size of the breast(s) did you notice?","Unequal breast size
+Swelling
+None of the above",Swelling,"Now, let's examine for nipple issues... 
+</div> </div>
+Which of the following nipple issues did you notice?","Discharge
+Cracked nipple
+Inverted/Retracted nipple
+None of the above",Inverted/Retracted nipple,"Let's examine the skin of your breasts.  
+</div> </div>
+Did you notice any of these changes in your breast's skin?","Dimpling
+Redness
+Cluster(s) of bulging veins
+None of the above",Cluster(s) of bulging veins,"Now it is time to feel for any lumps or nodules in your breasts.
+Make yourself comfortable and lie down for this part of the exam. The video below will instruct you on how to perform this exam to be more accurate. 
+</div> </div>
+During the breast exam, did you feel any lumps or nodules within your breasts?","Yes
+No",Yes,Are you noticing these lumps and nodules during the menstrual cycle or pregnancy?,"Yes
+No",Yes,Do you identify yourself as...,"Underweight
+Normal weight
+Overweight
+Obese",Normal weight,At what age did your periods start?,"9 years old or lesser
+From 10 to 15 years old
+16 years old or more
+I don't remember",16 years old or more,Have you ever been pregnant?,"Yes
+No",No,"Have you ever used oral contraceptives or been on hormonal therapy for any reason? (Eg: Premarin, Diane 35, Yasmin, or Femilon, Hormonal therapy for menopausal symptoms, etc.)","Yes
+No",Yes,Have you ever had a mammogram?,"Yes
+No",No,Have you undergone surgery to remove your uterus or your ovaries?,"Uterus was removed
+Ovaries were removed
+Ovaries & uterus were removed
+None of the above",None of the above,"Have you ever had any of the following breast procedures: needle/ breast biopsy, removal of a lump/ entire breast, or radiation therapy?","Yes
+No",No,"Has anyone in your immediate family been diagnosed with breast cancer or ovarian cancer (Your mother, sister, grandmother, or daughter)?","Yes
+No
+I don't know",No, Do you consume alcohol?,"Occasionally
+Everyday(Atleast 1 drink/day)
+I do not drink.",Occasionally,,,,High Risk of Breast Cancer,,,,,,,,,,,,,,,,,,,,,,,
+18,Breast Cancer,"Tell me, how old are you?","20 years & less, 21 to 30 years, 31 to 40 years, 41 to 50 years, 51 years & above, ",21 to 30 years,"There is a video below that can help assist your exam. Answer the questions accordingly.  It's quick and simple, I promise :) Repeat on the other side.
+</div> </div>
+What irregularities in the size of the breast(s) did you notice?","Unequal breast size, Swelling, None of the above, ",None of the above,Which of the following nipple issues did you notice?,"Discharge, Cracked nipple, Inverted/Retracted nipple, None of the above, ",Discharge,"What kind of discharge, from the nipple, did you see?","Bloody, Yellow and/or mucoid, Clear, Milky, None of the above, ",Yellow and/or mucoid,Did you notice any of these changes in your breast's skin?,"Dimpling, Redness, Cluster(s) of bulging veins, None of the above, ",None of the above,"Now it is time to feel for any lumps or nodules in your breasts.
+Make yourself comfortable and lie down for this part of the exam. The video below will instruct you on how to perform this exam to be more accurate. 
+</div> </div>
+During the breast exam, did you feel any lumps or nodules within your breasts?","Yes, No, ",No,Are you noticing these lumps and nodules during the menstrual cycle or pregnancy?,"Yes, No, ",No,Do you identify yourself as...,"Underweight, Normal weight, Overweight, Obese, ",Underweight,At what age did your periods start?,"9 years old or lesser, From 10 to 15 year old, 16 years old or more, I don't remember, ",16 years old or more,Have you ever been pregnant?,"Yes, No ",Yes,How many children do you have?,"1-2 children, 3-4 children, More than 5 children, I was pregnant, but not full term, ",1-2 children,How old were you when you had your first child?,"20 years & lesser, 20 to 35 years, ",20 to 35 years,And how long did you breastfeed your child/children?,"Less than 3 months, 3 to 6 months, 7 to 11 months, 1 to 2 years, More than 2 years, I did not breastfeed my child, ",3 to 6 months,"Have you ever used oral contraceptives or been on hormonal therapy for any reason? (Eg: Premarin, Diane 35, Yasmin, or Femilon, Hormonal therapy for menopausal symptoms, etc.)","Yes, No, ",,Have you ever had a mammogram?,"Yes, No, ",No,Was your mammogram normal?,"Yes, No, it was abnormal, I am not sure, ",I am not sure,High Risk of Breast Cancer,"Uterus was removed, Ovaries were removed, Ovaries and Uterus were removed, None of the above, ",None of the above,"Have you ever had any of the following breast procedures: needle/ breast biopsy, removal of a lump/ entire breast, or radiation therapy?","Yes, No, ",No,Has anyone in your immediate family been diagnosed with breast cancer or ovarian cancer?,"Yes, No, I don't know, ",I don't know,Do you consume alcohol?,"Occasionally, Everyday(Atleast 1 drink/day), I do not drink., ",Occasionally,,,,,,,,,,,,
+19,Migraine,"Before we begin, I would like to know about you.
+How old are you?","20 years and less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years and above",21 to 30 years,And you are...,"Male
+Female",Male,"Now, I am going to ask you a bit about your headaches.  
+Since how long have you been experiencing headaches?","Rarely
+Less than a month
+2-6 months
+>6 months to a year
+Over 1 year",Less than a month,On which part do you experience the headache?,"One side of my head
+Both sides of my head
+I feel it all over the head
+Varies with each episode",I feel it all over the head,What do you feel when you experience these headaches?,"Pulsating or a hammering pain
+An ache / pressure
+A tight band like feeling
+A dull pain
+Varies with each episode
+None of these",Pulsating or a hammering pain,"On an average, how many headaches do you experience per month?","Less than 2
+2-4
+Greater than 4",2-Apr,How long does your headaches usually last?,"Less than 6 hours
+Half a day
+Whole day
+For few days
+More than a week
+It varies from time to time",Half a day,Does your headache affect your day-to-day life?,"No, it doesn't affect me at all
+Somewhat, but I can still go about my life
+Somewhat, but I take medications
+Severely, but I manage with medications
+Severely. I need rest even with medication","Somewhat, but I can still go about my life",Have you experienced any such symptoms before the headache starts?,"Vomiting, nausea, diarrhea...etc
+Weakness, dizziness, numbness...etc.
+Blurry vision, sensitivity to light... etc.
+Others
+None of the above",Others,Do you observe any of the following during your headaches?,"Runny nose
+Disturbed by light
+Disturbed by noise
+Difficulty concentrating
+Unable to sleep at night
+None of the above","Disturbed by noise
+Difficulty concentrating","Certain factors like stress, gastritis, bright lights, loud noise, alcoholism etc. can worsen headaches.
+
+Are there any such factors that worsen your headaches?","Yes
+No
+Not sure",Yes,Does any of the following make your headaches worse?,"Missing your meals
+Alcohol or smoking
+Certain foods
+Intense exercises
+Prolonged Screen Time
+None of the above",Prolonged Screen Time,Have you observed any of the following worsening your headaches?,"Coughing
+Stress
+Recurrent gastritis
+None of the above",Stress,Which of these external factors worsen your headache?,"Bright / Flickering light
+Weather changes / Sunlight
+Smells or perfume
+Loud noise
+Travelling/ jetlag
+None of the above","Bright / Flickering light
+Loud noise
+Smells or perfume",Does any of the following ease your headaches? ,"Taking rest
+Quiet and dark places
+Massaging the head
+Exercise
+None of the above",Massaging the head,Does anyone in your family have recurring headaches or migraine?,"Yes
+No",Yes,Severe Migraine,"Heart Diseases
+Severe gastritis
+High blood pressure
+Asthma
+None of the above",High blood pressure,,,,,,,,,,,,,,,,,,,,,
+20,Migraine,"Before we begin, I would like to know about you.
+How old are you?","20 years and less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years and above",21 to 30 years,And you are...,"Female
+Male",Male,"Now, I am going to ask you a bit about your headaches.  
+Since how long have you been experiencing headaches?","Rarely
+Less than a month
+2-6 months
+>6 months to a year
+Over 1 year",Rarely,On which part do you experience the headache?,"One side of my head
+Both sides of my head
+I feel it all over the head
+Varies with each episode",Varies with each episode,What do you feel when you experience these headaches?,"Pulsating or a hammering pain
+An ache / pressure
+A tight band like feeling
+A dull pain
+Varies with each episode
+None of these",Pulsating or a hammering pain,"On an average, how many headaches do you experience per month?","Less than 2
+2-4
+Greater than 4",Less than 2,How long does your headaches usually last?,"Less than 6 hours
+Half a day
+Whole day
+For few days
+More than a week
+It varies from time to time",Whole day,Does your headache affect your day-to-day life?,"No, it doesn't affect me at all
+Somewhat, but I can still go about my life
+Somewhat, but I take medications
+Severely, but I manage with medications
+Severely. I need rest even with medication","Somewhat, but I take medications",Have you experienced any such symptoms before the headache starts?,"Vomiting, nausea, diarrhea...etc
+Weakness, dizziness, numbness...etc.
+Blurry vision, sensitivity to light... etc.
+Others
+None of the above","Vomiting, nausea, diarrhea...etc","Certain factors like stress, gastritis, bright lights, loud noise, alcoholism etc. can worsen headaches.
+
+Are there any such factors that worsen your headaches?","Yes
+No
+Not sure",Yes,Does any of the following make your headaches worse?,"Missing your meals
+Alcohol or smoking
+Certain foods
+Intense exercises
+Prolonged Screen Time
+None of the above","Certain foods
+Prolonged Screen Time
+Missing your meals",Have you observed any of the following worsening your headaches?,"Coughing
+Stress
+Recurrent gastritis
+None of the above","Coughing
+Stress",Which of these external factors worsen your headache?,"Bright / Flickering light
+Weather changes / Sunlight
+Smells or perfume
+Loud noise
+Travelling/ jetlag
+None of the above","Bright / Flickering light
+Weather changes / Sunlight
+Smells or perfume
+Loud noise
+Travelling/ jetlag",Does any of the following ease your headaches? ,"Taking rest
+Quiet and dark places
+Massaging the head
+Exercise
+None of the above","Massaging the head
+Taking rest
+Quiet and dark places",Does anyone in your family have recurring headaches or migraine?,"Yes
+No",Yes,Have you been diagnosed with any of the following?,"Heart Diseases
+Severe gastritis
+High blood pressure
+Asthma
+None of the above",None of the above,Severe Migraine,,,,,,,,,,,,,,,,,,,,,,,
+21,Migraine,"Before we begin, I would like to know about you.
+How old are you?","20 years and less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years and above",21 to 30 years,And you are...,"Female
+Male",Male,"Now, I am going to ask you a bit about your headaches.  
+Since how long have you been experiencing headaches?","Rarely
+Less than a month
+2-6 months
+>6 months to a year
+Over 1 year",Rarely,On which part do you experience the headache?,"One side of my head
+Both sides of my head
+I feel it all over the head
+Varies with each episode",Varies with each episode,What do you feel when you experience these headaches?,"Pulsating or a hammering pain
+An ache / pressure
+A tight band like feeling
+A dull pain
+Varies with each episode
+None of these",Varies with each episode,"On an average, how many headaches do you experience per month?","Less than 2
+2-4
+Greater than 4",Less than 2,How long does your headaches usually last?,"Less than 6 hours
+Half a day
+Whole day
+For few days
+More than a week
+It varies from time to time",Less than 6 hours,Does your headache affect your day-to-day life?,"No, it doesn't affect me at all
+Somewhat, but I can still go about my life
+Somewhat, but I take medications
+Severely, but I manage with medications
+Severely. I need rest even with medication","No, it doesn't affect me at all",Have you experienced any such symptoms before the headache starts?,"Vomiting, nausea, diarrhea...etc
+Weakness, dizziness, numbness...etc.
+Blurry vision, sensitivity to light... etc.
+Others
+None of the above",None of the above,"Certain factors like stress, gastritis, bright lights, loud noise, alcoholism etc. can worsen headaches.
+
+Are there any such factors that worsen your headaches?","Yes
+No
+Not sure",No,Does any of the following ease your headaches? ,"Taking rest
+Quiet and dark places
+Massaging the head
+Exercise
+None of the above","Taking rest
+Quiet and dark places
+Massaging the head",Does anyone in your family have recurring headaches or migraine?,"Yes
+No",No,Have you been diagnosed with any of the following?,"Heart Diseases
+Severe gastritis
+High blood pressure
+Asthma
+None of the above","Asthma
+Heart Diseases
+Severe gastritis
+High blood pressure",,,,,,,,,,Non Migraine Headache,,,,,,,,,,,,,,,,,,,,,,,
+22,Migraine,"Before we begin, I would like to know about you.
+How old are you?","20 years and less
+21 to 30 years
+31 to 40 years
+41 to 50 years
+51 years and above",20 years and less,And you are...,"Female
+Male",Male,"Now, I am going to ask you a bit about your headaches.  
+Since how long have you been experiencing headaches?","Rarely
+Less than a month
+2-6 months
+>6 months to a year
+Over 1 year",Over 1 year,On which part do you experience the headache?,"One side of my head
+Both sides of my head
+I feel it all over the head
+Varies with each episode",I feel it all over the head,What do you feel when you experience these headaches?,"Pulsating or a hammering pain
+An ache / pressure
+A tight band like feeling
+A dull pain
+Varies with each episode
+None of these",Varies with each episode,"On an average, how many headaches do you experience per month?","Less than 2
+2-4
+Greater than 4",Greater than 4,How long does your headaches usually last?,"Less than 6 hours
+Half a day
+Whole day
+For few days
+More than a week
+It varies from time to time",Less than 6 hours,Does your headache affect your day-to-day life?,"No, it doesn't affect me at all
+Somewhat, but I can still go about my life
+Somewhat, but I take medications
+Severely, but I manage with medications
+Severely. I need rest even with medication",Severely. I need rest even with medication,Have you experienced any such symptoms before the headache starts?,"Vomiting, nausea, diarrhea...etc
+Weakness, dizziness, numbness...etc.
+Blurry vision, sensitivity to light... etc.
+Others
+None of the above",None of the above,"Certain factors like stress, gastritis, bright lights, loud noise, alcoholism etc. can worsen headaches.
+
+Are there any such factors that worsen your headaches?","Yes
+No
+Not sure",No,Does any of the following ease your headaches? ,"Taking rest
+Quiet and dark places
+Massaging the head
+Exercise
+None of the above",None of the above,Does anyone in your family have recurring headaches or migraine?,"Yes
+No",Yes,Have you been diagnosed with any of the following?,"Heart Diseases
+Severe gastritis
+High blood pressure
+Asthma
+None of the above",Asthma,,,,,,,,,,Non Migraine Headache,,,,,,,,,,,,,,,,,,,,,,,
+23,Thyroid,"Nice to meet you! ðŸ¤  
+How old are you?","Less than 21 years
+21 - 49 years
+50 - 64 years
+Above 65 years",21 - 49 years,You are... ,"Female
+Male",Male,"Tell me, what brings you here?","Weight Gain
+Hair Problems
+Skin Problems
+Tiredness
+Constipation
+Fertility Issues
+I don't have these symptoms.","Tiredness
+Skin Problems
+Hair Problems
+Weight Gain",Since when have you noticed weight gain?,"Less than 3 months
+3 - 6 months
+6 - 11 months
+More than 1 year",3 - 6 months,"Tell me, how many kilos have you gained over last year? 
+Take a shot. ","Less than 5 kgs
+6 - 10 kgs
+11 - 20 kgs
+More than 21 kgs",6 - 10 kgs,"""I eat less but I keep gaining weight.""
+Do you relate to this statement?","Yes
+No",Yes,"What kind of issues are you facing with your hair?
+Select options that apply to you.","Hair Loss
+Hair Thinning
+Coarse/brittle hair
+Other hair issues","Hair Thinning
+Hair Loss
+Coarse/brittle hair",How long have you been facing these issues?,"Less than 3 months
+3 - 6 months
+6 - 11 months
+More than a year",Less than 3 months,"Please describe your skin for me. 
+Select options which apply to you.","Dry skin
+Swollen/puffy skin
+Numbness of skin
+Tingling/burning sensation
+Rashes/ blisters
+Other skin issues",Other skin issues,How long has it been since you've faced these issues?,"Less than 3 months
+3 - 6 months
+6 - 11 months
+More than a year",3 - 6 months,"As you've selected tiredness, would you say you...","Feel a lack of energy.
+Feel sleepy all the time.
+Can't do daily chores.
+Feel low /sad a lot.
+Other issues.","Feel a lack of energy.
+Feel sleepy all the time.
+Feel low /sad a lot.","Do you face any of these signs?
+Select the ones that apply to you.","Feeling Cold Often
+Observed Swelling (face/feet)
+Voice Hoarseness
+Forgetful / Confused
+Swelling in Throat
+None of the above",Forgetful / Confused,Have you checked for TSH and T4 levels?,"Yes
+No",Yes,"Say, did your TSH and T4 report say something like this...","Elevated TSH (> 10 mIU/L) with decreased T4.
+Mild elevated TSH ( 4.5-10 mIU/L) with normal free T4.
+Elevated TSH (> 10 mIU/L) with normal free T4.
+I don't remember.
+My TSH and T4 levels are normal.",Mild elevated TSH ( 4.5-10 mIU/L) with normal free T4.,"Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Regular Exercise
+Overeating
+Disturbed sleep pattern
+Drinking alcohol
+Cigarette smoking
+None of the above","Disturbed sleep pattern
+Regular Exercise
+Stress","Do you know that some conditions increase your risk of hypothyroidism?
+Please let us know if any of these apply to you.","Family history of thyroid issu...
+Past thyroid surgeries
+I've had radiation therapies
+None of the above",Family history of thyroid issue,Moderate Risk of Thyroid,"Diabetes
+Obesity
+Heart Disease
+High Cholesterol
+No chronic conditions",High Cholesterol,,,,,,,,,,,,,,,,,,,,,
+24,Thyroid,"Nice to meet you! ðŸ¤  
+How old are you?","Less than 21 years
+21 - 49 years
+50 - 64 years
+Above 65 years",21 - 49 years,You are... ,"Female
+Male",Male,"Tell me, what brings you here?","Weight Gain
+Hair Problems
+Skin Problems
+Tiredness
+Constipation
+Fertility Issues
+I don't have these symptoms.","Constipation
+Fertility Issues",Since when have you noticed a disruption in bowel movements?,"Less than 3 months
+3 - 6 months
+6 - 11 months
+Over a year",Over a year,Can you tell me how far apart are your bowel movements?,"Daily
+2-3 days apart
+> 3 days apart",2-3 days apart,Do you feel relieved after having medication?,"Yes
+No
+I don't take medication",Yes,"Have you consulted a doctor & undergone any tests for your sexual health?
+Select the options which apply to you.","Consulted with doctor.
+Got the tests done.
+None of the above.",None of the above.,"Do you face any of these signs?
+Select the ones that apply to you.","Feeling Cold Often
+Observed Swelling (face/feet)
+Voice Hoarseness
+Forgetful / Confused
+Swelling in Throat
+None of the above","Swelling in Throat
+Feeling Cold Often
+Observed Swelling (face/feet)
+Voice Hoarseness
+Forgetful / Confused",Have you checked for TSH and T4 levels?,"Yes
+No",No,"Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Regular Exercise
+Overeating
+Disturbed sleep pattern
+Drinking alcohol
+Cigarette smoking
+None of the above",Stress,"Do you know that some conditions increase your risk of hypothyroidism?
+Please let us know if any of these apply to you.","Family history of thyroid issu...
+Past thyroid surgeries
+I've had radiation therapies
+None of the above",None of the above,"Before you go, have you been diagnosed with chronic conditions? 
+Select the ones that apply to you.","Diabetes
+Obesity
+Heart Disease
+High Cholesterol
+No chronic conditions",No chronic conditions,,,,,,,,,,,,,Moderate Risk of Thyroid,,,,,,,,,,,,,,,,,,,,,,,
+25,Thyroid,"Nice to meet you! ðŸ¤  
+How old are you?","Less than 21 years
+21 - 49 years
+50 - 64 years
+Above 65 years",21 - 49 years,You are... ,"Female
+Male",Male,"Tell me, what brings you here?","Weight Gain
+Hair Problems
+Skin Problems
+Tiredness
+Constipation
+Fertility Issues
+I don't have these symptoms.",I don't have these symptoms.,"Do you face any of these signs?
+Select the ones that apply to you.","Feeling Cold Often
+Observed Swelling (face/feet)
+Voice Hoarseness
+Forgetful / Confused
+Swelling in Throat
+None of the above","Voice Hoarseness
+Swelling in Throat
+Observed Swelling (face/feet)",Have you checked for TSH and T4 levels?,"Yes
+No",No,"Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Regular Exercise
+Overeating
+Disturbed sleep pattern
+Drinking alcohol
+Cigarette smoking
+None of the above",Regular Exercise,"Do you know that some conditions increase your risk of hypothyroidism?
+Please let us know if any of these apply to you.","Family history of thyroid issu...
+Past thyroid surgeries
+I've had radiation therapies
+None of the above",None of the above,"Before you go, have you been diagnosed with chronic conditions? 
+Select the ones that apply to you.","Diabetes
+Obesity
+Heart Disease
+High Cholesterol
+No chronic conditions",Diabetes,,,,,,,,,,,,,,,,,,,,,,,,,Low Risk of Thyroid,,,,,,,,,,,,,,,,,,,,,,,
+26,Thyroid,"Nice to meet you! ðŸ¤  
+How old are you?","Less than 21 years
+21 - 49 years
+50 - 64 years
+Above 65 years",Above 65 years,You are... ,"Female
+Male",Female,"Tell me, what brings you here?","Weight Gain
+Hair Problems
+Skin Problems
+Tiredness
+Constipation
+I don't have these symptoms.","Weight Gain
+Hair Problems
+Skin Problems
+Tiredness
+Constipation",Since when have you noticed weight gain?,"Less than 3 months
+3 - 6 months
+6 - 11 months
+More than 1 year",More than 1 year,"Tell me, how many kilos have you gained over last year? 
+Take a shot. ","Less than 5 kgs
+6 - 10 kgs
+11 - 20 kgs
+More than 21 kgs",11 - 20 kgs,"""I eat less but I keep gaining weight.""
+Do you relate to this statement?","Yes
+No",Yes,"What kind of issues are you facing with your hair?
+Select options that apply to you.","Hair Loss
+Hair Thinning
+Coarse/brittle hair
+Other hair issues","Hair Loss
+Hair Thinning",How long have you been facing these issues?,"Less than 3 months
+3 - 6 months
+6 - 11 months
+More than a year",More than a year,"Please describe your skin for me. 
+Select options which apply to you.","Dry skin
+Swollen/puffy skin
+Numbness of skin
+Tingling/burning sensation
+Rashes/ blisters
+Other skin issues","Dry skin
+Rashes/ blisters",How long has it been since you've faced these issues?,"Less than 3 months
+3 - 6 months
+6 - 11 months
+More than a year",More than a year,"As you've selected tiredness, would you say you...","Feel a lack of energy.
+Feel sleepy all the time.
+Can't do daily chores.
+Feel low /sad a lot.
+Other issues.",Other issues.,Since when have you noticed a disruption in bowel movements?,"Less than 3 months
+3 - 6 months
+6 - 11 months
+Over a year",Over a year,Can you tell me how far apart are your bowel movements?,"Daily
+2-3 days apart
+> 3 days apart",2-3 days apart,Do you feel relieved after having medication?,"Yes
+No
+I don't take medication",No,"Coming to menstrual cycles...
+How many days go by in between your periods?","21 - 28 days
+28 - 35 days
+< 21 days
+> 35 days
+Not attained periods
+Attained menopause",21 - 28 days,How many pads or tampons do you use per day during your periods?,"1 to 2
+3 to 4
+5 to 7
+More than 7",3 to 4,Moderate Risk of Thyroid,"Feeling Cold Often
+Observed Swelling (face/feet)
+Voice Hoarseness
+Forgetful / Confused
+Swelling in Throat
+None of the above",Feeling Cold Often,Have you checked for TSH and T4 levels?,"Yes
+No",No,"Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Regular Exercise
+Overeating
+Disturbed sleep pattern
+Drinking alcohol
+Cigarette smoking
+None of the above",None of the above,"Do you know some conditions increase your risk of hypothyroidism? 
+Please let us know if any of these apply to you. ","I am a pregnant woman
+Family history of thyroid issu...
+Past thyroid surgeries
+I've had radiation therapies
+None of the above",None of the above,"Before you go, have you been diagnosed with chronic conditions? 
+Select the ones that apply to you.","Diabetes
+Obesity
+Heart Disease
+High Cholesterol
+No chronic conditions",No chronic conditions,,,,,,,,,
+27,Thyroid,"Nice to meet you! ðŸ¤  
+How old are you?","Less than 21 years
+21 - 49 years
+50 - 64 years
+Above 65 years",21 - 49 years,You are... ,"Female
+Male",Male,"Tell me, what brings you here?","Weight Gain
+Hair Problems
+Skin Problems
+Tiredness
+Constipation
+Fertility Issues
+I don't have these symptoms.",I don't have these symptoms.,"Do you face any of these signs?
+Select the ones that apply to you.","Feeling Cold Often
+Observed Swelling (face/feet)
+Voice Hoarseness
+Forgetful / Confused
+Swelling in Throat
+None of the above",None of the above,Have you checked for TSH and T4 levels?,"Yes
+No",No,"Tell me a little about your lifestyle.
+Select the ones that apply to you.","Stress
+Regular Exercise
+Overeating
+Disturbed sleep pattern
+Drinking alcohol
+Cigarette smoking
+None of the above",None of the above,"Do you know that some conditions increase your risk of hypothyroidism?
+Please let us know if any of these apply to you.","Family history of thyroid issu...
+Past thyroid surgeries
+I've had radiation therapies
+None of the above",Family history of thyroid issue,"Before you go, have you been diagnosed with chronic conditions? 
+Select the ones that apply to you.","Diabetes
+Obesity
+Heart Disease
+High Cholesterol
+No chronic conditions",Obesity,,,,,,,,,,,,,,,,,,,,,,,,,Low Risk of Thyroid,,,,,,,,,,,,,,,,,,,,,,,
+28,PCOD," I would like to know a bit more about you.:) 
+ Pick your age bracket.","Less than 20 years
+21-30 years
+31-40 years
+41- 50 years
+51 years and above",21-30 years," Say, how would you describe yourself?","I am underweight.
+I am at a healthy weight.
+I am a bit overweight.
+I am obese.",I am at a healthy weight.,"Tell me, do you face any of these symptoms?","Irregular or Late Periods
+Excessive Bleeding/ Painful Periods
+Inability to Conceive
+I don't have these symptoms","Excessive Bleeding/ Painful Periods
+Irregular or Late Periods",Since when are you experiencing irregular periods?,"Less than 3 months.
+3-6 months.
+6-12 months.
+More than a year.",3-6 months., How often do you get your periods?,"28 - 32 days
+21 - 28 days
+32 - 38 days
+Less than 21 days
+More than 38 days",28 - 32 days,Can you tell me if you've noticed bleeding anytime other than your period?,"Yes
+No",No, Excessive bleeding! Since when have you noticed it?,"less than 3 months.
+3-6 months.
+6-12 months.
+More than a year.
+I don't face excessive bleeding.",6-12 months.,"Can you tell me, how long does your period last?","< 3 days
+3 - 5 days
+5- 7 days
+>7days",3 - 5 days,How many pads or tampons do you use per day during your period?,"1-2
+3-4
+5-7
+> 7",3-Apr,"Hey, do you face painful periods? Would you say your period pains are...","Mild
+Moderate
+Severe
+No period pains.",Moderate,Is your daily routine affected by the painful periods?,"Yes
+No",Yes,"Say, does medication help reduce your pain?ðŸ’Š ","Yes.
+No.
+I am not on any medication.",Yes.,Clots! Do you notice any during your period?,"Yes, small clots.
+Yes, large clots.
+Nope.","Yes, small clots.",Have you been advised and have gotten abdomen ultrasound done anytime?,"Yes
+No",No,"Do you notice any of these right before your period begins? 
+Select options that apply to you.","Bloating
+Headaches
+Breast pain / tenderness
+Constipation/ diarrhoea
+Abdominal pain
+Sleeplessness
+Mood swings
+None of the above","Headaches
+Sleeplessness
+Mood swings","Let me know a little about your lifestyle! 
+Select options that apply to you.","Smoking
+Alcohol
+Stress
+Regular exercise
+Sexually active
+On contraceptive medication
+None of the above","Stress
+Alcohol",Moderate Risk of PCOD,"Obesity
+Hypothyroidism
+Diabetes
+Excessive facial hair
+Acne/ Hyperpigmentation
+None of the above",None of the above,,,,,,,,,,,,,,,,,,,,,
+29,PCOD," I would like to know a bit more about you.:) 
+ Pick your age bracket.","Less than 20 years
+21-30 years
+31-40 years
+41- 50 years
+51 years and above",21-30 years," Say, how would you describe yourself?","I am underweight.
+I am at a healthy weight.
+I am a bit overweight.
+I am obese.",I am at a healthy weight.,"Tell me, do you face any of these symptoms?","Irregular or Late Periods
+Excessive Bleeding/ Painful Periods
+Inability to Conceive
+I don't have these symptoms",I don't have these symptoms, How often do you get your periods?,"28 - 32 days
+21 - 28 days
+32 - 38 days
+Less than 21 days
+More than 38 days",28 - 32 days,Can you tell me if you've noticed bleeding anytime other than your period?,"Yes
+No",No,"Can you tell me, how long does your period last?","< 3 days
+3 - 5 days
+5- 7 days
+>7days",3 - 5 days,"Hey, do you face painful periods? Would you say your period pains are...","Mild
+Moderate
+Severe
+No period pains.",Mild,Clots! Do you notice any during your period?,"Yes, small clots.
+Yes, large clots.
+Nope.",Nope.,Have you been advised and have gotten abdomen ultrasound done anytime?,"Yes
+No",No,"Do you notice any of these right before your period begins? 
+Select options that apply to you.","Bloating
+Headaches
+Breast pain / tenderness
+Constipation/ diarrhoea
+Abdominal pain
+Sleeplessness
+Mood swings
+None of the above",None of the above,"Let me know a little about your lifestyle! 
+Select options that apply to you.","Smoking
+Alcohol
+Stress
+Regular exercise
+Sexually active
+On contraceptive medication
+None of the above",None of the above,"Before you go, tell me if you've been diagnosed with these. 
+Select the ones that apply to you.","Obesity
+Hypothyroidism
+Diabetes
+Excessive facial hair
+Acne/ Hyperpigmentation
+None of the above",None of the above,,,,,,,,,,,,,Low Risk of PCOD,,,,,,,,,,,,,,,,,,,,,,,
+30,PCOD," I would like to know a bit more about you.:) 
+ Pick your age bracket.","Less than 20 years
+21-30 years
+31-40 years
+41- 50 years
+51 years and above",21-30 years," Say, how would you describe yourself?","I am underweight.
+I am at a healthy weight.
+I am a bit overweight.
+I am obese.",I am a bit overweight.,"Tell me, do you face any of these symptoms?","Irregular or Late Periods
+Excessive Bleeding/ Painful Periods
+Inability to Conceive
+I don't have these symptoms","Excessive Bleeding/ Painful Periods
+Irregular or Late Periods",Since when are you experiencing irregular periods?,"Less than 3 months.
+3-6 months.
+6-12 months.
+More than a year.",More than a year., How often do you get your periods?,"28 - 32 days
+21 - 28 days
+32 - 38 days
+Less than 21 days
+More than 38 days",More than 38 days,Can you tell me if you've noticed bleeding anytime other than your period?,"Yes
+No",Yes, Excessive bleeding! Since when have you noticed it?,"less than 3 months.
+3-6 months.
+6-12 months.
+More than a year.
+I don't face excessive bleeding.",6-12 months.,"Can you tell me, how long does your period last?","< 3 days
+3 - 5 days
+5- 7 days
+>7days",>7days,How many pads or tampons do you use per day during your period?,"1-2
+3-4
+5-7
+> 7",> 7,"Hey, do you face painful periods? Would you say your period pains are...","Mild
+Moderate
+Severe
+No period pains.",Severe,Is your daily routine affected by the painful periods?,"Yes
+No",Yes,"Say, does medication help reduce your pain?ðŸ’Š ","Yes.
+No.
+I am not on any medication.",No.,Clots! Do you notice any during your period?,"Yes, small clots.
+Yes, large clots.
+Nope.","Yes, large clots.",Have you been advised and have gotten abdomen ultrasound done anytime?,"Yes
+No",Yes,"Tell me, did your ultrasound report say something like this?","Multiple cysts in ovaries (suggestive of PCOS/PCOD).
+Single or multiple large cysts in either ovary.
+The scanning was not for ovaries.
+I don't remember.
+I had normal ultrasound report.",Multiple cysts in ovaries (suggestive of PCOS/PCOD).,"Do you notice any of these right before your period begins? 
+Select options that apply to you.","Bloating
+Headaches
+Breast pain / tenderness
+Constipation/ diarrhoea
+Abdominal pain
+Sleeplessness
+Mood swings
+None of the above","Mood swings
+Sleeplessness
+Headaches
+Bloating
+Abdominal pain
+Breast pain / tenderness
+Constipation/ diarrhoea",High Risk of PCOD,"Smoking
+Alcohol
+Stress
+Regular exercise
+Sexually active
+On contraceptive medication
+None of the above","Smoking
+Alcohol
+Stress
+Regular exercise
+On contraceptive medication
+Sexually active","Before you go, tell me if you've been diagnosed with these. 
+Select the ones that apply to you.","Obesity
+Hypothyroidism
+Diabetes
+Excessive facial hair
+Acne/ Hyperpigmentation
+None of the above","Obesity
+Acne/ Hyperpigmentation
+Hypothyroidism",,,,,,,,,,,,,,,,,,
+31,UTI,"Let's begin! :) ‚ 
+How old are you?","20 years and less
+21- 30 years
+31 - 40 years
+41 - 50 years
+51 - 65 years
+Above 65 years","
+21- 30 years",And you are...,"Female
+Male",Male,"Tell me, what brings you here?","Urine related issues
+Abdominal pain
+Fever / Chills
+Discomfort in private parts
+I don't have these","Urine related issues
+Discomfort in private parts",Do you experience any of these?,"Continuous urge to pee
+Pain/ Burning sensation
+Change in colour
+Change in colour
+I don't have these","Change in colour
+Pain/ Burning sensation","As you mentioned pain/burning while urinating, tell me, when exactly does the sensation begin? Is it...","While starting urine
+During passing urine
+Always
+I'm not sure",During passing urine,"As you mentioned there is a change in the color of urine, let me know, is it?","Clear or transparent
+Frothy or cloudy
+Red -  Blood in the urine
+Dark Yellow
+Brown
+I'm not sure",Dark Yellow,"Do you use shared public restrooms frequently? (example: restaurants, travels stops, office, etc.)","Yes
+No",Yes,Do you hold back urine or delay urination even when you have the urge to urinate?,"Yes
+No",Yes,How much water do you regularly consume in a day?,"Less than 1 litre/bottle
+1- 2 litres/ bottles
+Above 3 litres/ bottles
+I'm not sure",1- 2 litres/ bottles,"Which of these apply to you at this moment?
+Select the ones that apply to you.","Previous history of UTI
+Use of urinary catheter
+Prolonged bed stay
+None of the above",Prolonged bed stay,Sorry to hear. ðŸ˜ž Can you tell me from how long have you been confined to bed?,"Less than a month
+1-3 months
+3-6 months
+More than 6 months",Less than a month,"Before you go, have you been diagnosed with chronic conditions? 
+Select the ones that apply to you.","Diabetes
+Renal calculi
+Prostate gland infection
+Urethral stricture disease
+No chronic conditions",No chronic conditions,,,,,,,,,,,,,High Risk of UTI,,,,,,,,,,,,,,,,,,,,,,,
+32,UTI,"Let's begin! :) ‚ 
+How old are you?","20 years and less
+21- 30 years
+31 - 40 years
+41 - 50 years
+51 - 65 years
+Above 65 years",21- 30 years,And you are...,"Female
+Male",Female,"Tell me, what brings you here?","Urine related issues
+Abdominal pain
+Fever / Chills
+Discomfort in private parts
+I don't have these","Discomfort in private parts
+Abdominal pain
+Urine related issues",Do you experience any of these?,"Continuous urge to pee
+Pain/ Burning sensation
+Change in colour
+Frequent urination
+I don't have these","Change in colour
+Pain/ Burning sensation
+Continuous urge to pee
+Frequent urination","As you mentioned pain/burning while urinating, tell me, when exactly does the sensation begin? Is it...","While starting urine
+During passing urine
+Always
+I'm not sure",Always,"As you mentioned there is a change in the color of urine, let me know, is it?","Clear or transparent
+Frothy or cloudy
+Red -  Blood in the urine
+Dark Yellow
+Brown
+I'm not sure",Red -  Blood in the urine,"As you mentioned abdominal pain, which of these areas do you experience the pain?","Upper & middle abdomen
+Lower abdomen
+Lower back pain
+Pain in private parts
+None of the above","Pain in private parts
+Lower abdomen
+Upper & middle abdomen
+Lower back pain","Do you use shared public restrooms frequently? (example: restaurants, travels stops, office, etc.)","Yes
+No",No,Do you hold back urine or delay urination even when you have the urge to urinate?,"Yes
+No",Yes,How much water do you regularly consume in a day?,"Less than 1 litre/bottle
+1- 2 litres/ bottles
+Above 3 litres/ bottles
+I'm not sure",I'm not sure,"For your periods, do you use tampons or menstrual cups?","Yes
+No",Yes,"Which of these apply to you at this moment?
+Select the ones that apply to you.","I am a pregnant woman.
+Previous history of UTI
+Use of urinary catheter
+Prolonged bed stay
+None of the above",None of the above,"Before you go, have you been diagnosed with chronic conditions? 
+Select the ones that apply to you.","Diabetes
+Renal calculi
+Urethral stricture disease
+Vaginal infections
+No chronic conditions",No chronic conditions,,,,,,,,,,High Risk of UTI,,,,,,,,,,,,,,,,,,,,,,,
+33,UTI,"Let's begin! :) ‚ 
+How old are you?","20 years and less
+21- 30 years
+31 - 40 years
+41 - 50 years
+51 - 65 years
+Above 65 years",21- 30 years,And you are...,"Female
+Male",Male,"Tell me, what brings you here?","Urine related issues
+Abdominal pain
+Fever / Chills
+Discomfort in private parts
+I don't have these","Abdominal pain
+Fever / Chills","As you mentioned abdominal pain, which of these areas do you experience the pain?","Upper & middle abdomen
+Lower abdomen
+Lower back pain
+Pain in private parts
+None of the above",Upper & middle abdomen,"Do you use shared public restrooms frequently? (example: restaurants, travels stops, office, etc.)","Yes
+No",No,Do you hold back urine or delay urination even when you have the urge to urinate?,"Yes
+No",No,How much water do you regularly consume in a day?,"Less than 1 litre/bottle
+1- 2 litres/ bottles
+Above 3 litres/ bottles
+I'm not sure",Above 3 litres/ bottles,"Which of these apply to you at this moment?
+Select the ones that apply to you.","Previous history of UTI
+Use of urinary catheter
+Prolonged bed stay
+None of the above",None of the above,"Before you go, have you been diagnosed with chronic conditions? 
+Select the ones that apply to you.","Diabetes
+Renal calculi
+Prostate gland infection
+Urethral stricture disease
+No chronic conditions",No chronic conditions,,,,,,,,,,,,,,,,,,,,,,Low Risk of UTI,,,,,,,,,,,,,,,,,,,,,,,
