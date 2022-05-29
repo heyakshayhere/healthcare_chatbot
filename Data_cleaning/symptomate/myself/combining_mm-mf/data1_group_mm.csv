@@ -1,0 +1,186 @@
+name,common_name,sex_filter,category,seriousness
+Abdominal injury,Recent abdominal injury,both,Risk factors,normal
+Absent COVID-19 vaccination,Absent COVID-19 vaccination,both,Risk factors,normal
+Acceleration-deceleration injury,Whiplash injury,both,Risk factors,serious
+Animal bite,Animal bite,both,Risk factors,serious
+Ankle injury,Ankle injury,both,Risk factors,normal
+Anticoagulant use,Blood thinner use,both,Risk factors,normal
+Arm injury,Arm injury,both,Risk factors,normal
+Atherosclerosis,Atherosclerosis,both,Risk factors,normal
+Atmospheric pressure changes,Activities related to sudden pressure or altitude changes,both,Risk factors,normal
+Back injury,Back injury,both,Risk factors,normal
+Bacterial tonsillitis,Bacterial tonsillitis,both,Risk factors,normal
+Booster shot of COVID-19 vaccination,Booster shot of COVID-19 vaccination,both,Risk factors,normal
+Breastfeeding,Breastfeeding,female,Risk factors,normal
+"Cannabis, marijuana smoking","Cannabis, marijuana smoking",both,Risk factors,normal
+Carbon monoxide exposure,Carbon monoxide exposure,both,Risk factors,serious
+Chest injury,Chest injury,both,Risk factors,normal
+Chronic NSAIDs use,Long-term use of non-steroidal anti-inflammatory drugs,both,Risk factors,normal
+Chronic heavy alcohol use,Chronic heavy alcohol use,both,Risk factors,normal
+Circumcision,Circumcision,male,Risk factors,normal
+Compromised immune system,Weakened immune system,both,Risk factors,normal
+Consumption of foods or drinks that cause bloating,Consumption of foods or drinks that cause bloating,both,Risk factors,normal
+Consumption of fruits or vegetables contaminated with animal feces,Consumption of fruits or vegetables contaminated with animal feces,both,Risk factors,normal
+Consumption of raw or undercooked meat,Consuming raw or undercooked meats,both,Risk factors,normal
+Contact lenses,Contact lenses,both,Risk factors,normal
+Contact with allergen,Contact with allergen,both,Risk factors,normal
+Contact with animals,Contact with animals,both,Risk factors,normal
+"Contact with animals, cat",Contact with cats,both,Risk factors,normal
+Contact with herbicides,Contact with weed killers,both,Risk factors,serious
+Contact with insecticides,Contact with chemicals meant to kill insects,both,Risk factors,normal
+"Contact with sick person, chickenpox",Contact with chickenpox,both,Risk factors,normal
+Dental trauma,Tooth injury,both,Risk factors,normal
+Diagnosed Crohn's disease,Diagnosed Crohn's disease,both,Risk factors,normal
+Diagnosed aortic aneurysm,Diagnosed aortic aneurysm,both,Risk factors,serious
+Diagnosed asthma,Diagnosed asthma,both,Risk factors,normal
+Diagnosed atrial fibrillation,Diagnosed atrial fibrillation,both,Risk factors,normal
+Diagnosed chronic obstructive pulmonary disease,Diagnosed chronic obstructive pulmonary disease,both,Risk factors,normal
+Diagnosed concussion,Diagnosed concussion,both,Risk factors,normal
+Diagnosed coronary disease,Diagnosed coronary disease,both,Risk factors,normal
+Diagnosed diabetes,Diagnosed diabetes,both,Risk factors,normal
+"Diagnosed diabetes mellitus, type 1",Type 1 diabetes mellitus,both,Risk factors,normal
+"Diagnosed diabetes mellitus, type 2",Type 2 diabetes mellitus,both,Risk factors,normal
+"Diagnosed diabetes, other type",Diagnosed other type of diabetes,both,Risk factors,normal
+"Diagnosed diabetes, unknown type",Unknown type of diagnosed diabetes,both,Risk factors,normal
+Diagnosed hemophilia,Diagnosed hemophilia,male,Risk factors,normal
+Diagnosed hypertension,Diagnosed hypertension,both,Risk factors,normal
+Diagnosed osteoporosis or osteopenia,Diagnosed osteoporosis or osteopenia,both,Risk factors,normal
+Diagnosed peripheral vascular disease,Diagnosed peripheral vascular disease,both,Risk factors,normal
+Diagnosed psoriasis,Diagnosed psoriasis,both,Risk factors,normal
+Diagnosed structural heart disease,Structural disorder of heart,both,Risk factors,normal
+Diagnosed ulcerative colitis,Diagnosed ulcerative colitis,both,Risk factors,normal
+Ear injury,Ear injury,both,Risk factors,normal
+Elbow injury,Elbow injury,both,Risk factors,normal
+Enlarged scar,Enlarged scar,both,Risk factors,normal
+Excessive UV exposure,Excessive UV exposure,both,Risk factors,normal
+Family history of Helicobacter pylori infection,Helicobacter pylori infection in family,both,Risk factors,normal
+Family history of bleeding disorders,Family history of bleeding disorders,both,Risk factors,normal
+Finger injury,Finger injury,both,Risk factors,normal
+Foot injury,Foot injury,both,Risk factors,normal
+Forearm injury,Forearm injury,both,Risk factors,normal
+Full COVID-19 vaccination,Full COVID-19 vaccination,both,Risk factors,normal
+"Full COVID-19 vaccination, more than 6 months ago",Full COVID-19 vaccination more than 6 months ago,both,Risk factors,normal
+Genital injury,Genital injury,both,Risk factors,serious
+Hand injury,Hand injury,both,Risk factors,normal
+Head area injury,Head area injury,both,Risk factors,normal
+Heavy metal exposure,Heavy metal exposure,both,Risk factors,serious
+High BMI,Obesity,both,Risk factors,normal
+High cholesterol,High cholesterol,both,Risk factors,normal
+High risk for an ectopic pregnancy,High risk for an ectopic pregnancy,female,Risk factors,normal
+Hip injury,Hip injury,both,Risk factors,normal
+History of COVID infection,History of COVID infection,both,Risk factors,normal
+History of anaphylactic reactions,History of severe allergic reactions,both,Risk factors,normal
+History of chickenpox or VZV vaccination,History of chickenpox or VZV vaccination,both,Risk factors,normal
+History of colectomy,Removal of colon,both,Risk factors,normal
+History of coronarography,Coronarography,both,Risk factors,normal
+History of cystectomy,Removal of bladder,both,Risk factors,normal
+History of deep vein thrombosis,History of deep vein thrombosis,both,Risk factors,normal
+History of depressive episode,History of depressive episode,both,Risk factors,normal
+History of gastrectomy,Removal of stomach,both,Risk factors,normal
+History of head trauma,Severe head injury in the past,both,Risk factors,normal
+History of heart bypass surgery,Heart bypass surgery,both,Risk factors,normal
+History of hernia surgery,Hernia repair,both,Risk factors,normal
+History of hip joint replacement,Hip joint replacement,both,Risk factors,normal
+History of hypertensive crisis,Hypertensive crisis,both,Risk factors,normal
+History of hysterectomy,Uterus removal in the past,female,Risk factors,normal
+History of knee joint replacement,Knee joint replacement,both,Risk factors,normal
+History of laryngectomy,Removal of larynx,both,Risk factors,normal
+History of major skin injury,Serious skin wound,both,Risk factors,serious
+History of mastectomy,Removal of breast,female,Risk factors,normal
+History of minor skin injury,Small skin wound,both,Risk factors,normal
+History of neoplasm,History of cancer,both,Risk factors,normal
+History of nephrectomy,Removal of kidney,both,Risk factors,normal
+History of nephrolithiasis,History of kidney stones,both,Risk factors,normal
+History of orchiectomy,Removal of testicle,male,Risk factors,normal
+History of polypectomy,Removal of polyps,both,Risk factors,normal
+History of prostatectomy,Removal of prostate,male,Risk factors,normal
+History of pulmonary tuberculosis,History of pulmonary tuberculosis,both,Risk factors,normal
+History of pulmonectomy,Removal of lung,both,Risk factors,normal
+History of sepsis,History of sepsis,both,Risk factors,normal
+History of stroke,History of stroke,both,Risk factors,normal
+History of thyroidectomy,Removal of thyroid,both,Risk factors,normal
+History of tonsillectomy,Tonsils removed in the past,both,Risk factors,normal
+History of urinary tract infections,History of urinary tract infections,both,Risk factors,normal
+History of vasectomy,Vasectomy,male,Risk factors,normal
+Hormonal contraceptive or menopausal hormone therapy,Birth control or menopausal hormone therapy,female,Risk factors,normal
+Improper hand hygiene,Poor hand hygiene,both,Risk factors,normal
+Improper oral hygiene,Poor oral hygiene,both,Risk factors,normal
+Incomplete COVID-19 vaccination,Incomplete COVID-19 vaccination,both,Risk factors,normal
+Insect bite,Insect bite,both,Risk factors,normal
+Instituting ACE-inhibitor therapy,Starting new ACE-inhibitor therapy,both,Risk factors,normal
+Intravenous drug use,Intravenous drug use,both,Risk factors,normal
+Knee injury,Knee injury,both,Risk factors,normal
+Last tetanus immunization over 5 years ago,Last tetanus shot over 5 years ago,both,Risk factors,normal
+Limb injury,Limb injury,both,Risk factors,normal
+Lip injury,Lip injury,both,Risk factors,normal
+Local upper limb compression,Local upper limb compression,both,Risk factors,normal
+Low BMI,Low body weight,both,Risk factors,normal
+Lower leg injury,Lower leg injury,both,Risk factors,normal
+Lower limb injury,Leg injury,both,Risk factors,normal
+Major force injury,Major force injury,both,Risk factors,emergency_ambulance
+Male sexual immaturity,Male sexual immaturity,male,Risk factors,normal
+Man,Man,both,Risk factors,normal
+Nail injury,Nail injury,both,Risk factors,normal
+Neck injury,Neck injury,both,Risk factors,normal
+New intensive physical activity,New intensive physical activity,both,Risk factors,normal
+No skin injury,No skin injury,both,Risk factors,normal
+Non-healing wound,Non-healing wound,both,Risk factors,normal
+Non-serious eye injury,Non-serious eye injury,both,Risk factors,normal
+Nose injury,Nose injury,both,Risk factors,normal
+Opioid use,Opioid use,both,Risk factors,normal
+Oral antibiotics in the past 2 weeks,Using antibiotics in the past 2 weeks,both,Risk factors,normal
+Oral iron therapy,Oral iron therapy,both,Risk factors,normal
+Paracetamol overdose,Paracetamol overdose,both,Risk factors,emergency
+Pelvis injury,Pelvis injury,both,Risk factors,normal
+Physical contact with COVID-19 case,Physical contact with COVID-19 positive person,both,Risk factors,normal
+Polytrauma,Multiple injuries,both,Risk factors,emergency_ambulance
+Possible contact with COVID-19 case,Possible contact with COVID-19 positive person,both,Risk factors,normal
+Postpartum period,Recent childbirth,female,Risk factors,normal
+Pregnancy,Pregnancy,female,Risk factors,normal
+"Pregnancy, I trimester",First trimester of pregnancy,female,Risk factors,normal
+"Pregnancy, II trimester",Second trimester of pregnancy,female,Risk factors,normal
+"Pregnancy, III trimester",Third trimester of pregnancy,female,Risk factors,normal
+Prior myocardial infarction,Prior heart attack,both,Risk factors,normal
+Profuse bleeding recently,Bleeding a lot recently,both,Risk factors,serious
+Prolonged exposure to sunlight and heat,Prolonged exposure to sunlight and heat,both,Risk factors,normal
+Prolonged lower limb immobilization,Leg immobilization,both,Risk factors,normal
+Psychological trauma,Psychological trauma,both,Risk factors,normal
+Recent COVID-19 infection,Recent COVID-19 infection,both,Risk factors,normal
+Recent beetroot consumption,Recent beet consumption,both,Risk factors,normal
+Recent burn,Recent burn,both,Risk factors,normal
+Recent excessive alcohol consumption,Recent excessive alcohol consumption,both,Risk factors,normal
+Recent head injury,Recent head injury,both,Risk factors,normal
+Recent immunization,Recent vaccination,both,Risk factors,normal
+Recent physical injury,Recent physical injury,both,Risk factors,normal
+Recent surgery,Recent surgery,both,Risk factors,normal
+"Recent travel to Asia excluding Middle East, Russia, Mongolia and Kazakhstan","Recent travel to Asia excluding Middle East, Russia, Mongolia and Kazakhstan",both,Risk factors,normal
+Recent travel to Australia and Oceania,Recent travel to Australia and Oceania,both,Risk factors,normal
+Recent travel to Central Africa,Recent travel to Central Africa,both,Risk factors,normal
+Recent travel to Central or South America,Recent travel to Central or South America,both,Risk factors,normal
+Recent travel to Europe,Recent travel to Europe,both,Risk factors,normal
+Recent travel to Northern Africa,Recent travel to Northern Africa,both,Risk factors,normal
+"Recent travel to Russia, Kazakhstan or Mongolia","Recent travel to Russia, Kazakhstan or Mongolia",both,Risk factors,normal
+Recent travel to Southern Africa,Recent travel to Southern Africa,both,Risk factors,normal
+Recent travel to the Middle East,Recent travel to the Middle East,both,Risk factors,normal
+Recent travel to the United States or Canada,Recent travel to the United States or Canada,both,Risk factors,normal
+Recent upper respiratory tract infection,Recent upper respiratory tract infection,both,Risk factors,normal
+Rheumatic fever,Rheumatic fever,both,Risk factors,normal
+Risky sexual behaviour,Risky sexual behaviour,both,Risk factors,normal
+Salicylate overdose,Salicylate overdose,both,Risk factors,normal
+Sedative or hypnotic withdrawal,Sedative or hypnotic withdrawal,both,Risk factors,normal
+Serious eye injury,Serious eye injury,both,Risk factors,serious
+Shoulder injury,Shoulder injury,both,Risk factors,normal
+Smoking cigarettes,Smoking cigarettes,both,Risk factors,normal
+Stimulants use,Stimulants use,both,Risk factors,normal
+Taking sleeping pills or sedatives,Taking sleeping pills or sedatives,both,Risk factors,normal
+Thigh injury,Thigh injury,both,Risk factors,normal
+Time spent at more than 2500 meters or 8200 ft above sea level,Time spent at more than 2500 meters or 8200 ft above sea level,both,Risk factors,normal
+Toe injury,Toe injury,both,Risk factors,normal
+Trunk injury,Trunk injury,both,Risk factors,normal
+Unbalanced vegetarian diet,Unbalanced vegetarian diet,both,Risk factors,normal
+Unspecified conditions marker,Unspecified conditions marker,both,Risk factors,normal
+Upper limb injury,Upper limb injury,both,Risk factors,normal
+Weather sensitivity,Weather change sensitivity,both,Risk factors,normal
+Wild mushroom consumption,Wild mushroom consumption,both,Risk factors,normal
+Woman,Woman,both,Risk factors,normal
+Wrist injury,Wrist injury,both,Risk factors,normal
