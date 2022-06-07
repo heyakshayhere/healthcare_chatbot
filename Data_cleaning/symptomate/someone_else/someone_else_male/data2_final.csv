@@ -1,0 +1,1364 @@
+id,name,common_name,sex_filter,category,seriousness
+s_1558,Abdominal guarding,Abdominal guarding,both,Signs and symptoms,emergency
+s_299,Abdominal mass,Lump in stomach,both,Signs and symptoms,normal
+s_13,Abdominal pain,Stomach pain,both,Signs and symptoms,normal
+s_1598,"Abdominal pain, below belly button",Lower stomach pain,both,Signs and symptoms,normal
+s_1802,"Abdominal pain, burning or gnawing",Burning or gnawing stomach pain,both,Signs and symptoms,normal
+s_1848,"Abdominal pain, colicky",Colic stomach pain,both,Signs and symptoms,normal
+s_1860,"Abdominal pain, crampy",Crampy stomach pain,both,Signs and symptoms,normal
+s_1557,"Abdominal pain, diffuse",Widespread stomach pain,both,Signs and symptoms,normal
+s_1387,"Abdominal pain, epigastric",Upper central stomach pain,both,Signs and symptoms,normal
+s_1207,"Abdominal pain, exacerbating after caffeine consumption",Stomach pain worsening after caffeine consumption,both,Signs and symptoms,normal
+s_15,"Abdominal pain, exacerbating during coughing or movement",Stomach pain worsens when coughing or moving,both,Signs and symptoms,normal
+s_1202,"Abdominal pain, exacerbating during deep breath",Stomach pain worsens with deep breath,both,Signs and symptoms,normal
+s_14,"Abdominal pain, exacerbating on an empty stomach",Stomach pain on empty stomach,both,Signs and symptoms,normal
+s_1844,"Abdominal pain, gradual onset",Slow and gradual stomach pain,both,Signs and symptoms,normal
+s_1852,"Abdominal pain, lasting 2 to 7 days",Stomach pain lasting 2 to 7 days,both,Signs and symptoms,normal
+s_1853,"Abdominal pain, lasting 8 to 14 days",Stomach pain lasting 8 to 14 days,both,Signs and symptoms,normal
+s_1840,"Abdominal pain, lasting less than 2 days",Stomach pain lasting less than 2 days,both,Signs and symptoms,normal
+s_1842,"Abdominal pain, lasting more than 2 weeks",Stomach pain lasting more than 2 weeks,both,Signs and symptoms,normal
+s_1729,"Abdominal pain, left lower quadrant",Lower left side stomach pain,both,Signs and symptoms,normal
+s_1854,"Abdominal pain, left side",Left side stomach pain,both,Signs and symptoms,normal
+s_1591,"Abdominal pain, left upper quadrant",Upper left side stomach pain,both,Signs and symptoms,normal
+s_2275,"Abdominal pain, localised",Localised stomach pain,both,Signs and symptoms,normal
+s_1859,"Abdominal pain, midcycle",Painful ovulation,female,Signs and symptoms,normal
+s_1851,"Abdominal pain, migrating to the right lower quadrant","Stomach pain, moved to the lower right side",both,Signs and symptoms,emergency
+s_1782,"Abdominal pain, mild",Mild stomach pain,both,Signs and symptoms,normal
+s_1783,"Abdominal pain, moderate",Moderate stomach pain,both,Signs and symptoms,normal
+s_2311,"Abdominal pain, no exacerbation factor",Stomach pain not worsening,both,Signs and symptoms,normal
+s_1532,"Abdominal pain, periumbilical",Central stomach pain,both,Signs and symptoms,normal
+s_16,"Abdominal pain, postprandial",Stomach pain after eating,both,Signs and symptoms,normal
+s_17,"Abdominal pain, premenstrual",Cramps before period,female,Signs and symptoms,normal
+s_1845,"Abdominal pain, radiating to left shoulder or shoulder blade",Stomach pain spreading to the left shoulder area,both,Signs and symptoms,emergency
+s_1846,"Abdominal pain, radiating to lower or middle part of the back",Stomach pain spreading to the lower or middle back,both,Signs and symptoms,serious
+s_471,"Abdominal pain, radiating to right shoulder or shoulder blade",Stomach pain spreading to the right shoulder area,both,Signs and symptoms,emergency
+s_1847,"Abdominal pain, recurrent",Recurrent stomach pain,both,Signs and symptoms,normal
+s_57,"Abdominal pain, reduced by defecation or relieving flatulence",Stomach pain improves after bowel movement or passing gas,both,Signs and symptoms,normal
+s_1531,"Abdominal pain, right lower quadrant",Lower right side stomach pain,both,Signs and symptoms,normal
+s_1855,"Abdominal pain, right side",Right side stomach pain,both,Signs and symptoms,normal
+s_1528,"Abdominal pain, right upper quadrant",Upper right side stomach pain,both,Signs and symptoms,normal
+s_1195,"Abdominal pain, severe",Severe stomach pain,both,Signs and symptoms,normal
+s_1369,"Abdominal pain, sharp and stabbing",Sharp and stabbing stomach pain,both,Signs and symptoms,normal
+s_1843,"Abdominal pain, sudden onset",Sudden stomach pain,both,Signs and symptoms,normal
+s_1929,"Abdominal pain, unbearable",Unbearable stomach pain,both,Signs and symptoms,emergency
+s_2288,"Abdominal pain, unknown character",Stomach pain of unspecific character,both,Signs and symptoms,normal
+s_2558,"Abdominal pain, unknown onset",Unknown onset of stomach pain,both,Signs and symptoms,normal
+s_2281,"Abdominal pain, unspecified location","Abdominal pain, unspecified location",both,Signs and symptoms,normal
+s_1514,Abdominal tenderness,Pain when pressing the stomach,both,Signs and symptoms,normal
+s_2463,"Abdominal tenderness, epigastric region",Pain when pressing upper middle part of the stomach,both,Signs and symptoms,normal
+s_1400,"Abdominal tenderness, hypogastric region",Pain when pressing lower part of the stomach,both,Signs and symptoms,normal
+s_2252,"Abdominal tenderness, left lower quadrant",Pain when pressing lower left part of the stomach,both,Signs and symptoms,normal
+s_1589,"Abdominal tenderness, left upper quadrant",Pain when pressing upper left part of the stomach,both,Signs and symptoms,normal
+s_1856,"Abdominal tenderness, right lower quadrant",Pain when pressing lower right part of the stomach,both,Signs and symptoms,normal
+s_1392,"Abdominal tenderness, right upper quadrant",Pain when pressing upper right part of the stomach,both,Signs and symptoms,normal
+s_328,Abnormal vaginal discharge,Abnormal vaginal discharge,female,Signs and symptoms,normal
+s_2369,Abnormal wound drainage,Abnormal wound drainage,both,Signs and symptoms,normal
+s_598,Abscess,"Reddened, swollen and painful skin change",both,Signs and symptoms,normal
+s_1072,Absence of deep reflexes,Absence of deep reflexes,both,Signs and symptoms,normal
+s_1502,Achilles tendon hyperreflexia,Achilles tendon hyperreflexia,both,Signs and symptoms,normal
+s_2121,Acid reflux,Acidic taste in mouth,both,Signs and symptoms,normal
+s_3,Activity related to sex despite negative consequences,Activity related to sex despite negative consequences,both,Signs and symptoms,normal
+s_1111,Adenoid face,Adenoid face,both,Signs and symptoms,normal
+s_145,Agitation,Agitation,both,Signs and symptoms,normal
+s_833,Agnosia,"Inability to recognize objects, people, sounds, shapes, or smells",both,Signs and symptoms,serious
+s_884,Agoraphobia,"Fear of places and situations that might cause panic, helplessness or embarrassment",both,Signs and symptoms,normal
+s_1012,Agraphia,Loss of writing ability,both,Signs and symptoms,normal
+s_817,Alcohol craving,Constant urge to drink alcohol,both,Signs and symptoms,normal
+s_588,Alcohol tolerance,Need of higher alcohol quantities to get drunk,both,Signs and symptoms,normal
+s_818,Alcohol withdrawal syndrome,Symptoms following  a reduction in alcohol use,both,Signs and symptoms,normal
+s_1272,Allen-Cleckley sign,Allen-Cleckley sign,both,Signs and symptoms,normal
+s_837,Alogia,Poverty of speech,both,Signs and symptoms,normal
+s_1458,"Amenorrhea, primary",Absence of first menstrual period at age 16,female,Signs and symptoms,normal
+s_1457,"Amenorrhea, secondary",Absence of menstrual period for more than 3 months,female,Signs and symptoms,normal
+s_1370,"Amenorrhea, secondary, 12 months or more",Absence of menstrual period for 1 year or more,female,Signs and symptoms,normal
+s_1032,Amusia,Inability to produce or recognize musical sounds,both,Signs and symptoms,normal
+s_608,Angular cheilitis,Cracked corners of lips,both,Signs and symptoms,normal
+s_508,Anhedonia,Inability to enjoy life,both,Signs and symptoms,normal
+s_1123,Anhidrosis,Lack of sweating,both,Signs and symptoms,normal
+s_669,"Anhidrosis, face, unilateral",Lack of sweating on one side of the face,both,Signs and symptoms,normal
+s_2170,Anicteric presentation,Anicteric presentation,both,Signs and symptoms,normal
+s_497,Anisocoria,Asymmetric pupils,both,Signs and symptoms,emergency
+s_1647,Annular skin lesions,Ring-shaped skin changes,both,Signs and symptoms,normal
+s_436,Anorectal pain,Anorectal pain,both,Signs and symptoms,normal
+s_120,Anxiety,Anxiety,both,Signs and symptoms,normal
+s_582,Anxiety attack,Anxiety attack,both,Signs and symptoms,normal
+s_4,Apathy,"Lack of interest, enthusiasm, or concern",both,Signs and symptoms,normal
+s_477,Aphonia,Loss of voice,both,Signs and symptoms,serious
+s_6,Appetite for salty foods,Appetite for salty foods,both,Signs and symptoms,normal
+s_1010,Apraxia,Apraxia,both,Signs and symptoms,emergency
+s_1116,Ascites,Ascites,both,Signs and symptoms,serious
+s_651,Ataxia,Problems with coordinating movement,both,Signs and symptoms,normal
+s_2278,"Ataxia, acute",Recent coordination problems,both,Signs and symptoms,emergency_ambulance
+s_2280,"Ataxia, chronic",Coordination problems for more than 1 year,both,Signs and symptoms,normal
+s_2279,"Ataxia, subacute","Coordination problems since several days, weeks, or months ago",both,Signs and symptoms,serious
+s_474,Audible wheezing,Whistling sound made while breathing,both,Signs and symptoms,serious
+s_1028,Auditory verbal agnosia,Auditory verbal agnosia,both,Signs and symptoms,emergency
+s_857,Auscultative fine crackles over the thorax,Auscultative fine crackles over the thorax,both,Signs and symptoms,normal
+s_1316,Auscultative rhonchi over the thorax,Auscultative rhonchi over the thorax,both,Signs and symptoms,normal
+s_856,Auscultative wheezes over the thorax,Auscultative wheezes over the thorax,both,Signs and symptoms,normal
+s_710,"Avoiding actions, places, or people that bring back memories of a traumatic experience","Avoiding actions, places, or people that bring back memories of a traumatic experience",both,Signs and symptoms,normal
+s_719,Avoiding eating in someone else's presence,Avoiding eating in someone else's presence,both,Signs and symptoms,normal
+s_718,Avoiding eating or drinking in public,Avoiding eating or drinking in public,both,Signs and symptoms,normal
+s_717,Avoiding public appearances,Avoiding public appearances,both,Signs and symptoms,normal
+s_720,Avoiding talking to authority figures,Avoiding talking to authority figures,both,Signs and symptoms,normal
+s_709,"Avoiding thoughts, feelings, or conversations related to a traumatic experience","Avoiding thoughts, feelings, or conversations related to a traumatic experience",both,Signs and symptoms,normal
+s_1322,Axillary or inguinal freckles,Freckles in the groins or armpits,both,Signs and symptoms,normal
+s_1023,Babinski sign,Babinski sign,both,Signs and symptoms,normal
+s_1190,Back pain,Back pain,both,Signs and symptoms,normal
+s_159,"Back pain, exacerbated by physical exertion",Back pain worsening after physical activity,both,Signs and symptoms,normal
+s_1206,"Back pain, improves with rest",Back pain decreases during rest,both,Signs and symptoms,normal
+s_1205,"Back pain, lasting several hours",Back pain lasting several hours,both,Signs and symptoms,normal
+s_53,"Back pain, lumbar",Lower back pain,both,Signs and symptoms,normal
+s_38,"Back pain, lumbar, radiates to back of the thigh",Lower back pain spreading to the back of the thigh or knee,both,Signs and symptoms,normal
+s_663,"Back pain, lumbar, radiating to the groin",Lower back pain spreading to the groin,both,Signs and symptoms,normal
+s_2314,"Back pain, lumbar, unknown radiating direction",Lower back pain unknown spreading direction,both,Signs and symptoms,normal
+s_2284,"Back pain, nocturnal",Nighttime back pain,both,Signs and symptoms,normal
+s_1189,"Back pain, recurrent",Back pain that comes and goes,both,Signs and symptoms,normal
+s_1192,"Back pain, severe",Severe back pain,both,Signs and symptoms,serious
+s_1198,"Back pain, sudden",Sudden back pain,both,Signs and symptoms,normal
+s_1772,"Back pain, thoracic",Middle or upper back pain,both,Signs and symptoms,normal
+s_2085,"Back pain, worsens on palpation",Back pain worsens by touching or pressing the affected area,both,Signs and symptoms,normal
+s_561,Belching,Burping,both,Signs and symptoms,normal
+s_1073,Bilateral absence of Achilles tendon reflex,Bilateral absence of Achilles tendon reflex,both,Signs and symptoms,normal
+s_698,Bilateral enophthalmos,Both eyes sunken,both,Signs and symptoms,normal
+s_1291,Bilateral muscle paralysis,Bilateral muscle paralysis,both,Signs and symptoms,emergency
+s_1257,Bing's sign,Bing's sign,both,Signs and symptoms,normal
+s_137,Binge eating,Binge eating,both,Signs and symptoms,normal
+s_568,"Binge eating, followed by self-disgust",Self-disgust after binge eating,both,Signs and symptoms,normal
+s_769,Bizarre delusion,Bizarre delusion,both,Signs and symptoms,normal
+s_71,Black coloured stool,Black stool,both,Signs and symptoms,normal
+s_1119,Bladder sphincter dysfunction,Bladder sphincter dysfunction,both,Signs and symptoms,normal
+s_152,Bleeding after intercourse,Bleeding after intercourse,female,Signs and symptoms,normal
+s_115,Bleeding from anus,Bleeding from anus,both,Signs and symptoms,normal
+s_2277,"Bleeding from anus, heavy",Heavy bleeding from anus,both,Signs and symptoms,emergency
+s_2276,"Bleeding from anus, light",Light bleeding from anus,both,Signs and symptoms,normal
+s_111,Bleeding gums,Bleeding gums,both,Signs and symptoms,normal
+s_1386,Bleeding into muscles,Bleeding into muscles,both,Signs and symptoms,normal
+s_192,Blepharoptosis,Drooping eyelids,both,Signs and symptoms,normal
+s_2508,"Blepharoptosis, acute",Recent dropping eyelids,both,Signs and symptoms,serious
+s_2511,"Blepharoptosis, chronic",Dropping eyelids for more than 7 days,both,Signs and symptoms,normal
+s_1807,Blisters,Blisters on the skin or in the mouth,both,Signs and symptoms,normal
+s_1803,"Blisters, bulla",Large blisters more than 0.5 cm,both,Signs and symptoms,normal
+s_1804,"Blisters, vesicle",Small blisters less than 0.5 cm,both,Signs and symptoms,normal
+s_309,Bloating,Bloating,both,Signs and symptoms,normal
+s_2388,"Blood oxygen saturation, between 80% and 89%",Blood oxygen level between 80 and 89%,both,Signs and symptoms,emergency_ambulance
+s_2387,"Blood oxygen saturation, between 90% and 94%",Blood oxygen level between 90 and 94%,both,Signs and symptoms,emergency
+s_2389,"Blood oxygen saturation, lower than 80%",Blood oxygen level lower than 80%,both,Signs and symptoms,emergency_ambulance
+s_2376,"Blood oxygen saturation, normal",Normal blood oxygen level,both,Signs and symptoms,normal
+s_2375,"Blood oxygen saturation, not measured",Blood oxygen level not measured,both,Signs and symptoms,normal
+s_2390,"Blood oxygen saturation, sudden worsening",Sudden worsening of blood oxygen saturation,both,Signs and symptoms,emergency
+s_2408,"Blood pressure, between 140 and 179 mmHg",Blood pressure between 140 and 179 mmHg,both,Signs and symptoms,normal
+s_543,"Blood pressure, elevated",High blood pressure,both,Signs and symptoms,normal
+s_1933,"Blood pressure, more than 180 mmHg",Very high blood pressure,both,Signs and symptoms,serious
+s_2272,"Blood pressure, normal or prehypertension",Normal blood pressure,both,Signs and symptoms,normal
+s_2273,"Blood pressure, not measured",Blood pressure not measured,both,Signs and symptoms,normal
+s_771,Blunted affect,Blunted affect,both,Signs and symptoms,normal
+s_1835,Body aches,Body aches,both,Signs and symptoms,normal
+s_2180,"Bone deformation, non-traumatic",Bone deformation not associated with a recent trauma,both,Signs and symptoms,normal
+s_2181,"Bone deformation, post-traumatic",Bone deformation after a recent injury,both,Signs and symptoms,emergency
+s_612,Bone pain,Bone pain,both,Signs and symptoms,normal
+s_2070,"Bone pain, lasting less than a week",Bone pain lasting less than a week,both,Signs and symptoms,normal
+s_2071,"Bone pain, lasting more than 1 week",Bone pain lasting more than 1 week,both,Signs and symptoms,normal
+s_641,Bowel incontinence,Loss of bowel control,both,Signs and symptoms,normal
+s_1553,"Bowel sounds, decreased",Decreased bowel sounds,both,Signs and symptoms,normal
+s_1552,"Bowel sounds, hyperactive, high-pitched",Excessive bowel sounds,both,Signs and symptoms,normal
+s_534,Bradycardia,Slow heart rate,both,Signs and symptoms,normal
+s_2234,Breast asymmetry in size or shape,Asymmetrical breasts,female,Signs and symptoms,normal
+s_1480,"Breast pain or tenderness, bilateral",Pain or tenderness in both breasts,both,Signs and symptoms,normal
+s_609,"Breast pain or tenderness, unilateral",Pain or tenderness in only one breast,female,Signs and symptoms,normal
+s_1671,Broken hair,Broken hair,both,Signs and symptoms,normal
+s_2521,Brown coloured stool,Brown stool,both,Signs and symptoms,normal
+s_1310,Brown nail discolouration,Brown nail discolouration,both,Signs and symptoms,normal
+s_1690,Brudzinski's sign,Brudzinski's sign,both,Signs and symptoms,emergency
+s_2341,Bruise,Bruise,both,Signs and symptoms,normal
+s_1960,Bruising after trauma,Bruise after an injury,both,Signs and symptoms,normal
+s_2283,Bruxism,Teeth grinding,both,Signs and symptoms,normal
+s_1013,Buccofacial or orofacial apraxia,Buccofacial or orofacial apraxia,both,Signs and symptoms,emergency
+s_1717,Bulge protruding through vaginal opening,Vaginal bulge,female,Signs and symptoms,normal
+s_1165,Burning skin,Burning sensation on skin,both,Signs and symptoms,normal
+s_1684,"Burning skin, face",Burning sensation on face,both,Signs and symptoms,normal
+s_200,Burning tongue,Burning sensation on tongue,both,Signs and symptoms,normal
+s_1795,Burrows in the skin,Burrows in the skin,both,Signs and symptoms,normal
+s_1918,Buttocks pain,Buttocks pain,both,Signs and symptoms,normal
+s_1330,Café au lait macules,At least 6 light brown marks on skin,both,Signs and symptoms,normal
+s_1620,Calf pain,Pain in calf,both,Signs and symptoms,normal
+s_1878,"Calf pain, above the heel",Pain in calf just above the heel,both,Signs and symptoms,normal
+s_232,"Calf pain, severe while walking",Severe pain in calf while walking,both,Signs and symptoms,serious
+s_732,"Calf pain, severe while walking, intermittent claudication",Pain in calf during exertion and relieved by rest,both,Signs and symptoms,serious
+s_1720,Cardiac murmurs,Cardiac murmurs,both,Signs and symptoms,serious
+s_1576,Carotid bruit,Cervical artery murmur,both,Signs and symptoms,serious
+s_589,Ceasing or limiting alcohol consumption,Ceasing or limiting alcohol consumption,both,Signs and symptoms,normal
+s_2469,Ceasing or limiting opioid intake,Limiting or stopping opioid use,both,Signs and symptoms,normal
+s_996,Cervical dystonia,Cervical dystonia,both,Signs and symptoms,normal
+s_1258,Chaddock's sign,Chaddock's sign,both,Signs and symptoms,normal
+s_346,Change in colour of a tooth,Change in colour of a tooth,both,Signs and symptoms,normal
+s_2396,"Change in colour of a tooth, brown","Change in colour of a tooth, brown",both,Signs and symptoms,normal
+s_2393,"Change in colour of a tooth, white","Change in colour of a tooth, white",both,Signs and symptoms,normal
+s_345,Change in handwriting,Change in handwriting,both,Signs and symptoms,normal
+s_2214,Chemical burn,Chemical burn,both,Signs and symptoms,emergency
+s_1091,Chemosis,Chemosis,both,Signs and symptoms,normal
+s_50,Chest pain,Chest pain,both,Signs and symptoms,normal
+s_2096,"Chest pain, burning",Burning chest pain,both,Signs and symptoms,normal
+s_31,"Chest pain, continuing during rest",Chest pain continuing after rest,both,Signs and symptoms,normal
+s_51,"Chest pain, diffuse",Widespread chest pain,both,Signs and symptoms,normal
+s_35,"Chest pain, during physical exertion",Chest pain during physical activity,both,Signs and symptoms,normal
+s_2051,"Chest pain, exacerbated by chest wall movement",Chest pain worsening during chest wall movement,both,Signs and symptoms,normal
+s_1763,"Chest pain, exacerbated by stress",Chest pain worsened by stress,both,Signs and symptoms,normal
+s_2006,"Chest pain, exacerbating when lying down",Chest pain worsening when lying down,both,Signs and symptoms,normal
+s_30,"Chest pain, exacerbating with deep breath or cough",Chest pain worsening with deep breath or cough,both,Signs and symptoms,normal
+s_2019,"Chest pain, lasting between 30 minutes and 8 hours",Chest pain lasting between 30 minutes and 8 hours,both,Signs and symptoms,normal
+s_2018,"Chest pain, lasting less than 30 minutes",Chest pain lasting less than 30 minutes,both,Signs and symptoms,normal
+s_2022,"Chest pain, lasting more than 8 hours",Chest pain lasting more than 8 hours,both,Signs and symptoms,normal
+s_1925,"Chest pain, pressure",Pressing chest pain,both,Signs and symptoms,normal
+s_37,"Chest pain, radiating between shoulder blades",Chest pain spreading to between the shoulder blades,both,Signs and symptoms,emergency_ambulance
+s_2074,"Chest pain, radiating to left upper limb","Chest pain, spreading  to the left upper limb",both,Signs and symptoms,emergency
+s_36,"Chest pain, radiating to the neck",Chest pain spreading to the neck,both,Signs and symptoms,emergency_ambulance
+s_1952,"Chest pain, recurrent",Recurrent chest pain,both,Signs and symptoms,normal
+s_1197,"Chest pain, severe",Severe chest pain,both,Signs and symptoms,serious
+s_1601,"Chest pain, stabbing",Stabbing chest pain,both,Signs and symptoms,normal
+s_48,"Chest pain, subsides during rest",Chest pain subsiding during rest,both,Signs and symptoms,normal
+s_1509,"Chest pain, substernal",Chest pain behind breastbone,both,Signs and symptoms,normal
+s_1200,"Chest pain, sudden",Sudden chest pain,both,Signs and symptoms,normal
+s_1178,"Chest pain, worsens on palpation",Chest pain worsening when touching or pressing,both,Signs and symptoms,normal
+s_1580,"Chest pain, worsens on palpation of costochondral joints",Chest pain worsening on palpation of costochondral joints,both,Signs and symptoms,normal
+s_1546,Cheyne-Stokes respiration,Cheyne-Stokes respiration,both,Signs and symptoms,emergency
+s_81,Chills,Chills,both,Signs and symptoms,normal
+s_2296,Choking,Choking,both,Signs and symptoms,emergency
+s_1456,Chorea,Chorea,both,Signs and symptoms,normal
+s_867,Chvostek's sign,Chvostek's sign,both,Signs and symptoms,normal
+s_1281,Clasp-knife spasticity,Clasp-knife spasticity,both,Signs and symptoms,serious
+s_734,Claudication in upper leg,Acute thigh or buttock pain appearing during exertion and relieving after short rest,both,Signs and symptoms,normal
+s_1094,Clearing the throat,Hawking,both,Signs and symptoms,normal
+s_429,Clicking or cracking in the jaw when opening or closing the mouth,Clicking or cracking in the jaw when opening or closing the mouth,both,Signs and symptoms,normal
+s_276,Clogged ear,Clogged ear,both,Signs and symptoms,normal
+s_2256,Close contact with COVID-19 case,Close contact with COVID-19 positive person,both,Signs and symptoms,normal
+s_288,Close family or friends pointing out excessive drinking,Close family or friends pointing out excessive drinking,both,Signs and symptoms,normal
+s_869,Clubfoot,Clubfoot,both,Signs and symptoms,normal
+s_610,Coated tonsils,White spots on tonsils,both,Signs and symptoms,normal
+s_1184,Coating on tongue,White tongue,both,Signs and symptoms,normal
+s_2108,Cognitive disturbances,Cognitive disturbances,both,Signs and symptoms,normal
+s_1283,Cogwheel muscle rigidity,Cogwheel muscle rigidity,both,Signs and symptoms,serious
+s_1926,Cold and clammy skin,Cold and clammy skin,both,Signs and symptoms,normal
+s_408,Cold feet and toes,Cold feet and toes,both,Signs and symptoms,normal
+s_2196,"Cold feet and toes, unilateral",Cold foot,both,Signs and symptoms,serious
+s_556,Cold hands or fingers,Cold hands or fingers,both,Signs and symptoms,normal
+s_118,Cold sensitivity,Cold sensitivity,both,Signs and symptoms,normal
+s_1328,Colour vision deficiency,Colour blind,both,Signs and symptoms,normal
+s_2109,Coma,Coma,both,Signs and symptoms,emergency
+s_1934,"Complete vision loss, recent",Recent complete vision loss,both,Signs and symptoms,emergency
+s_303,Compulsive behaviour,Compulsive behaviour,both,Signs and symptoms,normal
+s_831,Confabulation,Confabulation,both,Signs and symptoms,normal
+s_1345,"Confusion, after trauma",Confusion after an injury,both,Signs and symptoms,emergency
+s_2034,Consciousness disturbances,Confusion or disorientation,both,Signs and symptoms,normal
+s_2072,"Consciousness disturbances, acute",Disorientation or confusion starting recently,both,Signs and symptoms,serious
+s_2073,"Consciousness disturbances, chronic",Disorientation or confusion lasting more than a week,both,Signs and symptoms,normal
+s_181,Constant need for sex,Constant need for sex,both,Signs and symptoms,normal
+s_329,Constipation,Constipation,both,Signs and symptoms,normal
+s_2162,"Constipation, chronic",Chronic constipation,both,Signs and symptoms,normal
+s_2164,Consumption of expired food or drink,Spoiled food or drink consumption,both,Signs and symptoms,normal
+s_635,Contentiousness,Causing or likely to cause disagreement,both,Signs and symptoms,normal
+s_1228,Convergent strabismus,Crossed eyes,both,Signs and symptoms,normal
+s_1676,Corn or callus,Corn or callus,both,Signs and symptoms,normal
+s_1268,Corneal reflex weak or absent,Corneal reflex weak or absent,both,Signs and symptoms,normal
+s_1273,Cornell's sign,Cornell's sign,both,Signs and symptoms,normal
+s_102,Cough,Cough,both,Signs and symptoms,normal
+s_2268,"Cough, alternating productivity",Wet and dry cough appearing alternately,both,Signs and symptoms,normal
+s_105,"Cough, dry",Dry cough,both,Signs and symptoms,normal
+s_1858,"Cough, lasting 3 to 8 weeks",Cough lasting 3 to 8 weeks,both,Signs and symptoms,normal
+s_103,"Cough, lasting less than 3 weeks",Cough lasting less than 3 weeks,both,Signs and symptoms,normal
+s_106,"Cough, lasting more than 8 weeks",Cough lasting more than 8 weeks,both,Signs and symptoms,normal
+s_1985,"Cough, nocturnal",Nighttime cough,both,Signs and symptoms,normal
+s_1924,"Cough, paroxysmal",Severe and sudden coughing attacks,both,Signs and symptoms,normal
+s_104,"Cough, productive",Coughing up phlegm,both,Signs and symptoms,normal
+s_662,"Cough, productive in the morning",Coughing up phlegm in the morning,both,Signs and symptoms,normal
+s_670,"Cough, productive with pink, frothy sputum",Coughing up pink phlegm,both,Signs and symptoms,emergency
+s_526,"Cough, productive with yellow or green sputum","Coughing up thick, yellow or green phlegm",both,Signs and symptoms,normal
+s_270,Creaking joints during movement,Creaking joints during movement,both,Signs and symptoms,normal
+s_2495,Crenated tongue,Scalloped tongue,both,Signs and symptoms,normal
+s_28,Crotch pain,Pain in crotch,both,Signs and symptoms,normal
+s_60,"Crotch pain, glans penis",Pain in head of penis,male,Signs and symptoms,normal
+s_34,"Crotch pain, sudden",Sudden pain in crotch,both,Signs and symptoms,serious
+s_52,"Crotch pain, testicular or scrotal",Pain in scrotum or testicle,male,Signs and symptoms,serious
+s_1829,"Crotch pain, vulvovaginal",Pain in vagina or vulva,female,Signs and symptoms,normal
+s_195,Current cigarette smoking,Current cigarette smoking,both,Signs and symptoms,normal
+s_437,Cyanosis,Bluish-grey coloured skin,both,Signs and symptoms,normal
+s_1105,Cyanosis under the eyes,Dark circles under eyes,both,Signs and symptoms,normal
+s_553,"Cyanosis, fingers",Greyish-blue fingers,both,Signs and symptoms,normal
+s_1413,Cystoid macular edema,Cystoid macular edema,both,Signs and symptoms,normal
+s_1338,Damage to 2 separate areas of innervation,Damage to 2 separate areas of innervation,both,Signs and symptoms,normal
+s_1555,Dance's sign,Dance's sign,both,Signs and symptoms,emergency
+s_1616,Dandruff,Dandruff,both,Signs and symptoms,normal
+s_1171,Darier's sign,Darier's sign,both,Signs and symptoms,normal
+s_611,Dark urine,Dark urine,both,Signs and symptoms,normal
+s_1417,Dark-red spots in optic disc vessels,Dark-red spots in optic disc vessels,both,Signs and symptoms,normal
+s_208,Decreased hearing,Decreased hearing,both,Signs and symptoms,normal
+s_1484,"Decreased hearing, progressive hearing loss",Progressive hearing loss without fluctuation,both,Signs and symptoms,normal
+s_1538,"Decreased hearing, sudden hearing loss",Sudden hearing loss without obvious cause,both,Signs and symptoms,serious
+s_935,"Decreased hearing, variable intensity and duration",Hearing loss with variable intensity and duration,both,Signs and symptoms,serious
+s_1693,Decreased intensity of breath sounds,Decreased intensity of breath sounds,both,Signs and symptoms,normal
+s_1395,"Decreased intensity of breath sounds, right basilar lung zones","Decreased intensity of breath sounds, right basilar lung zones",both,Signs and symptoms,normal
+s_236,Decreased libido,Loss of interest in sex,both,Signs and symptoms,normal
+s_661,Decreased motivation,Decreased motivation,both,Signs and symptoms,normal
+s_634,Decreased need for sleep,Decreased need for sleep,both,Signs and symptoms,normal
+s_535,Decreased pupillary light reflex,Decreased pupillary light reflex,both,Signs and symptoms,normal
+s_697,Decreased skin turgor,Decreased skin elasticity,both,Signs and symptoms,serious
+s_1277,Decreased tongue motility,Difficulty moving tongue,both,Signs and symptoms,normal
+s_967,Decreased visual acuity,Decreased vision,both,Signs and symptoms,normal
+s_97,Deep filling of treated tooth,Deep filling of treated tooth,both,Signs and symptoms,normal
+s_652,"Deep tendon reflexes, decreased",Decreased deep tendon reflexes,both,Signs and symptoms,normal
+s_878,"Deep tendon reflexes, increased",Increased deep tendon reflexes,both,Signs and symptoms,normal
+s_108,Deepening of periodontal pockets,Deepened spaces between the gums and the teeth,both,Signs and symptoms,normal
+s_422,Deepening of voice,Deepened voice,female,Signs and symptoms,normal
+s_768,Delusion of guilt or sin,Delusion of guilt or sin,both,Signs and symptoms,normal
+s_774,Delusion of impoverishment,Delusion of impoverishment,both,Signs and symptoms,serious
+s_2098,Delusions,Delusions,both,Signs and symptoms,normal
+s_677,Delusions of grandeur,Delusions of grandeur,both,Signs and symptoms,serious
+s_680,Delusions of influence,Delusions of influence,both,Signs and symptoms,serious
+s_675,Delusions of persecution,Delusions of persecution,both,Signs and symptoms,serious
+s_676,Delusions of reference,Delusions of reference,both,Signs and symptoms,normal
+s_839,"Delusions of thought insertion, thought withdrawal, thought broadcasting","Delusions of thought insertion, thought withdrawal, thought broadcasting",both,Signs and symptoms,normal
+s_1409,Demarcation of retinal detachment (pigmented or nonpigmented),Demarcation of retinal detachment (pigmented or nonpigmented),both,Signs and symptoms,normal
+s_1106,Dennie-Morgan fold,Dennie-Morgan fold,both,Signs and symptoms,normal
+s_203,Dental plaque,Fuzzy teeth,both,Signs and symptoms,normal
+s_1587,Depersonalization,Feeling detached from own body,both,Signs and symptoms,normal
+s_169,Depressed mood,Depressed mood,both,Signs and symptoms,normal
+s_916,"Depressed mood, more than 2 weeks",Consistently depressed for more than 2 weeks,both,Signs and symptoms,normal
+s_514,Derealization,Feeling detached from one's surroundings,both,Signs and symptoms,normal
+s_241,Dermatological changes,Skin changes,both,Signs and symptoms,normal
+s_1761,"Dermatological changes, aggravated by stress",Skin changes worsening under stress,both,Signs and symptoms,normal
+s_398,"Dermatological changes, entire body",Skin changes all over the body,both,Signs and symptoms,normal
+s_1692,"Dermatological changes, exacerbated by alcohol consumption",Skin changes worsening after alcohol consumption,both,Signs and symptoms,normal
+s_1921,"Dermatological changes, exacerbated by sunlight exposure",Skin changes appearing or worsening after exposure to sunlight,both,Signs and symptoms,normal
+s_483,"Dermatological changes, eyelid",Skin changes on eyelid,both,Signs and symptoms,normal
+s_1923,"Dermatological changes, feet",Skin changes on feet,both,Signs and symptoms,normal
+s_2110,"Dermatological changes, female genital area",Skin changes on or around female genital area,female,Signs and symptoms,normal
+s_350,"Dermatological changes, forming a line",Skin changes forming a line,both,Signs and symptoms,normal
+s_1982,"Dermatological changes, hands",Skin changes on hands,both,Signs and symptoms,normal
+s_1510,"Dermatological changes, hot to the touch",Skin change hot to the touch,both,Signs and symptoms,normal
+s_1680,"Dermatological changes, hyperpigmentation of the skin",Dark skin changes,both,Signs and symptoms,normal
+s_352,"Dermatological changes, in direct contact with buttons, fasteners, or cosmetics","Skin changes in direct contact with buttons, fasteners, jewelry, or cosmetics",both,Signs and symptoms,normal
+s_2382,"Dermatological changes, localised",Skin changes on specific part of body,both,Signs and symptoms,normal
+s_1602,"Dermatological changes, located in genital area, chancre",Painless genital ulcer,both,Signs and symptoms,normal
+s_1810,"Dermatological changes, located in the genital area",Skin changes on or around genitals,both,Signs and symptoms,normal
+s_1808,"Dermatological changes, located on the face",Skin changes located on the face,both,Signs and symptoms,normal
+s_2267,"Dermatological changes, lower extremities excluding feet","Dermatological changes on the hip, thigh, knee, calf, or ankle",both,Signs and symptoms,normal
+s_2111,"Dermatological changes, male genital area",Skin changes on or around male genital area,male,Signs and symptoms,normal
+s_694,"Dermatological changes, mouth",Changes in the mouth,both,Signs and symptoms,normal
+s_221,"Dermatological changes, on genitals resembling cauliflower",Bumps on genitals resembling a cauliflower,both,Signs and symptoms,normal
+s_1571,"Dermatological changes, painful",Painful skin changes,both,Signs and symptoms,normal
+s_400,"Dermatological changes, preceded by pain or itching",Skin changes preceded by pain or itching,both,Signs and symptoms,normal
+s_402,"Dermatological changes, recurring during infections or menstrual period",Skin changes recurring during period or infections,female,Signs and symptoms,normal
+s_404,"Dermatological changes, rough and irregular surface","Skin changes with rough, irregular surface",both,Signs and symptoms,normal
+s_245,"Dermatological changes, scabs",Scab or crust,both,Signs and symptoms,normal
+s_2059,"Dermatological changes, scalp",Skin changes on the scalp,both,Signs and symptoms,normal
+s_1988,"Dermatological changes, spreading",Enlarging or spreading skin changes,both,Signs and symptoms,normal
+s_2412,"Dermatological changes, tongue",Dermatological changes on the tongue,both,Signs and symptoms,normal
+s_2060,"Dermatological changes, trunk",Skin changes located on trunk,both,Signs and symptoms,normal
+s_2266,"Dermatological changes, upper extremities excluding hands","Dermatological changes on the shoulder, arm, forearm, elbow, or wrist",both,Signs and symptoms,normal
+s_1191,"Dermatological changes, with flare-ups and remissions",Skin changes that come and go,both,Signs and symptoms,normal
+s_1957,Destructive thoughts towards other people or things,Destructive thoughts towards other people or things,both,Signs and symptoms,serious
+s_8,Diarrhea,Diarrhea,both,Signs and symptoms,normal
+s_412,"Diarrhea, foamy",Foamy diarrhea,both,Signs and symptoms,normal
+s_2194,"Diarrhea, lasting 2 to 14 days",Diarrhea lasting 2 to 14 days,both,Signs and symptoms,normal
+s_2328,"Diarrhea, lasting 2 to 4 weeks",Diarrhea lasting 2 to 4 weeks,both,Signs and symptoms,serious
+s_2126,"Diarrhea, lasting less than 48 hours",Diarrhea lasting less than 48 hours,both,Signs and symptoms,normal
+s_2322,"Diarrhea, lasting more than 4 weeks",Diarrhea lasting more than 4 weeks,both,Signs and symptoms,normal
+s_1979,"Diarrhea, more than 6 stools a day",Diarrhea with more than 6 stools a day,both,Signs and symptoms,normal
+s_1376,"Diarrhea, rice water",Diarrhea that looks like rice water,both,Signs and symptoms,normal
+s_2316,"Diarrhea, unknown character","Diarrhea, unknown character",both,Signs and symptoms,normal
+s_1798,Difference in size of testicles,Difference in size of testicles,male,Signs and symptoms,normal
+s_1574,Difficulty achieving orgasm,Difficulty achieving orgasm,both,Signs and symptoms,normal
+s_269,Difficulty acquiring new information,Difficulty learning new things,both,Signs and symptoms,normal
+s_266,Difficulty biting and chewing,Difficulty biting and chewing,both,Signs and symptoms,normal
+s_727,Difficulty bonding with infant,Difficulty bonding with baby,both,Signs and symptoms,normal
+s_1154,Difficulty completely closing eye,Difficulty completely closing eye,both,Signs and symptoms,serious
+s_284,Diminished appetite,Diminished appetite,both,Signs and symptoms,normal
+s_1035,Diminished fear responses,Diminished fear responses,both,Signs and symptoms,normal
+s_1021,Diminished superficial reflexes,Diminished superficial reflexes,both,Signs and symptoms,normal
+s_207,Diplopia,Double vision,both,Signs and symptoms,normal
+s_1232,Diplopia while looking down and medially,Double vision while looking down and toward the nose,both,Signs and symptoms,serious
+s_1235,Diplopia while looking in any direction,Double vision while looking in any direction,both,Signs and symptoms,serious
+s_1229,Diplopia with horizontal image dispersion,Double vision with images appearing side by side,both,Signs and symptoms,serious
+s_2200,"Diplopia, lasting less than 24 hours",Double vision lasting less than 24 hours,both,Signs and symptoms,emergency
+s_2201,"Diplopia, lasting more than 24 hours",Double vision lasting more than 24 hours,both,Signs and symptoms,serious
+s_2254,Direct care to COVID-19 case,Direct care to COVID-19 positive person,both,Signs and symptoms,normal
+s_297,Discharge from ear,Discharge from ear,both,Signs and symptoms,serious
+s_1577,"Discharge from ear, bloody",Bleeding from ear,both,Signs and symptoms,serious
+s_1994,"Discharge from ear, purulent",Yellow or green discharge from ear,both,Signs and symptoms,serious
+s_302,Discharge from periodontal pockets,Discharge from spaces between the gums and teeth,both,Signs and symptoms,normal
+s_369,Discharge from urethra,Discharge from urethra,male,Signs and symptoms,normal
+s_1109,Discharge in tympanic cavity,Discharge in tympanic cavity,both,Signs and symptoms,normal
+s_301,Discharge under foreskin,Discharge under foreskin,male,Signs and symptoms,normal
+s_1007,Disinhibition,Disinhibition,both,Signs and symptoms,normal
+s_731,Disorganised behaviour,Disorganised behaviour,both,Signs and symptoms,normal
+s_1265,Dissociated sensory loss,Dissociated sensory loss,both,Signs and symptoms,serious
+s_501,Distance misjudgment,Problems judging distances,both,Signs and symptoms,normal
+s_730,Diurnal mood variation,Mood better in the evening than in the morning,both,Signs and symptoms,normal
+s_1236,Divergent strabismus,One or both eyes turning outward,both,Signs and symptoms,serious
+s_1731,"Dix-Hallpike maneuver, rotatory nystagmus","Dix-Hallpike maneuver, rotatory nystagmus",both,Signs and symptoms,normal
+s_370,Dizziness,Dizzy,both,Signs and symptoms,normal
+s_1479,"Dizziness, head rotation",Dizziness while turning the head,both,Signs and symptoms,normal
+s_2023,"Dizziness, recurrent",Recurrent dizziness,both,Signs and symptoms,normal
+s_2118,"Dizziness, unbearable",Unbearable dizziness,both,Signs and symptoms,emergency
+s_936,"Dizziness, vertigo",Vertigo,both,Signs and symptoms,normal
+s_828,Drinking alcohol alone,Drinking alcohol alone,both,Signs and symptoms,normal
+s_827,Drinking alcohol at work,Drinking alcohol at work,both,Signs and symptoms,normal
+s_819,Drinking alcohol despite awareness of harmful effects,Drinking alcohol despite awareness of harmful effects,both,Signs and symptoms,normal
+s_109,Drinking alcohol to ease hangover,Drinking alcohol to ease hangover,both,Signs and symptoms,normal
+s_198,Drinking large quantities of alcohol,Drinking large quantities of alcohol,both,Signs and symptoms,normal
+s_199,Drinking large quantities of alcohol at one time,Drinking large quantities of alcohol at one time,both,Signs and symptoms,normal
+s_2473,Drive for muscularity,Desire to be highly muscular,male,Signs and symptoms,normal
+s_432,Drooping mouth corner,Drooping mouth corner,both,Signs and symptoms,emergency
+s_974,Drop attack,Sudden spontaneous fall,both,Signs and symptoms,serious
+s_823,Drunk driving,Drunk driving,both,Signs and symptoms,normal
+s_489,Dry discharge on eyelids,Dry discharge on eyelids,both,Signs and symptoms,normal
+s_2094,Dry eyes,Dry eyes,both,Signs and symptoms,normal
+s_247,Dry mouth,Dry mouth,both,Signs and symptoms,normal
+s_542,Dry skin,Dry skin,both,Signs and symptoms,normal
+s_385,"Dry, cracked skin, bleeding occasionally","Dry, cracked skin, bleeding occasionally",both,Signs and symptoms,normal
+s_59,Dysmenorrhea,Painful periods,female,Signs and symptoms,normal
+s_1432,Dyspepsia,Indigestion,both,Signs and symptoms,normal
+s_962,Dysphagia,Difficulty swallowing,both,Signs and symptoms,normal
+s_1779,"Dysphagia, esophageal",Feeling of food getting stuck several seconds after swallowing,both,Signs and symptoms,normal
+s_1776,"Dysphagia, oropharyngeal",Difficulty initiating a swallow,both,Signs and symptoms,normal
+s_68,Dysphonia,Hoarse voice,both,Signs and symptoms,normal
+s_1958,"Dysphonia, more than 2 weeks",Hoarseness lasting more than 2 weeks,both,Signs and symptoms,serious
+s_88,Dyspnea,Shortness of breath,both,Signs and symptoms,normal
+s_2075,"Dyspnea, acute, after trauma",Sudden breathing problems after an injury,both,Signs and symptoms,emergency
+s_2203,"Dyspnea, after a few minutes of walking",Shortness of breath after a few minutes of walking,both,Signs and symptoms,serious
+s_2205,"Dyspnea, at rest",Shortness of breath at rest,both,Signs and symptoms,serious
+s_2176,"Dyspnea, lasting 1 to 24 hours",Shortness of breath lasting 1 to 24 hours,both,Signs and symptoms,serious
+s_90,"Dyspnea, lasting between 1 day and 4 weeks",Shortness of breath lasting between 1 day and 1 month,both,Signs and symptoms,serious
+s_1625,"Dyspnea, lasting more than 4 weeks",Shortness of breath lasting more than 4 weeks,both,Signs and symptoms,normal
+s_2204,"Dyspnea, on exertion",Shortness of breath on effort,both,Signs and symptoms,normal
+s_563,"Dyspnea, orthopnea",Shortness of breath when lying down,both,Signs and symptoms,serious
+s_1317,"Dyspnea, paroxysmal nocturnal",Shortness of breath while sleeping,both,Signs and symptoms,serious
+s_92,"Dyspnea, started 1 hour ago",Shortness of breath starting within the hour,both,Signs and symptoms,serious
+s_2368,"Dyspnea, sudden worsening",Sudden worsening of dyspnea,both,Signs and symptoms,emergency
+s_2231,"Dyspnea, unknown severity",Shortness of breath of unknown severity,both,Signs and symptoms,serious
+s_1185,"Dyspnea, with flare-ups and remissions",Shortness of breath that comes and goes,both,Signs and symptoms,serious
+s_1298,Dystonia,Dystonia,both,Signs and symptoms,normal
+s_291,Ear canal swelling,Swelling inside the ear,both,Signs and symptoms,normal
+s_47,Earache,Earache,both,Signs and symptoms,normal
+s_476,"Earache, tenderness around the ear",Pain when pressing area around the ear,both,Signs and symptoms,normal
+s_234,Easy bruising,Easy bruising,both,Signs and symptoms,normal
+s_700,Edema,Swelling,both,Signs and symptoms,normal
+s_623,"Edema, both ankles",Swollen ankles,both,Signs and symptoms,normal
+s_1995,"Edema, both feet",Swollen feet,both,Signs and symptoms,normal
+s_2093,"Edema, both hands",Swollen hands,both,Signs and symptoms,normal
+s_175,"Edema, both lower limbs",Swollen legs,both,Signs and symptoms,normal
+s_1581,"Edema, costochondral junctions",Swelling in the middle of the chest,both,Signs and symptoms,normal
+s_701,"Edema, daytime",Daytime swelling,both,Signs and symptoms,normal
+s_699,"Edema, dependent on the body position",Swelling dependent on the position of the body,both,Signs and symptoms,normal
+s_1635,"Edema, elbow joint",Swollen elbow,both,Signs and symptoms,normal
+s_616,"Edema, face",Swollen face,both,Signs and symptoms,normal
+s_1311,"Edema, finger",Swollen finger,both,Signs and symptoms,normal
+s_1652,"Edema, hip joint",Hip swelling,both,Signs and symptoms,normal
+s_170,"Edema, knee joint",Swollen knee,both,Signs and symptoms,normal
+s_1433,"Edema, lip",Swollen lips,both,Signs and symptoms,normal
+s_363,"Edema, neck",Swollen neck,both,Signs and symptoms,normal
+s_1996,"Edema, nose",Swollen nose,both,Signs and symptoms,normal
+s_171,"Edema, one ankle",Swollen ankle,both,Signs and symptoms,normal
+s_2103,"Edema, one foot",Swollen foot,both,Signs and symptoms,normal
+s_1464,"Edema, one hand",Swollen hand,both,Signs and symptoms,normal
+s_173,"Edema, one lower limb",Swollen leg,both,Signs and symptoms,normal
+s_2207,"Edema, penis",Swollen penis,male,Signs and symptoms,normal
+s_1442,"Edema, periorbital",Swelling around the eyes,both,Signs and symptoms,normal
+s_562,"Edema, pitting",Pitting edema,both,Signs and symptoms,normal
+s_176,"Edema, scrotum",Swollen scrotum,male,Signs and symptoms,serious
+s_1655,"Edema, shoulder joint",Swollen shoulder,both,Signs and symptoms,normal
+s_1997,"Edema, toe",Swollen toe,both,Signs and symptoms,normal
+s_1447,"Edema, upper limb",Swelling of the upper limb,both,Signs and symptoms,normal
+s_1431,"Edema, wrist joint",Swollen wrist,both,Signs and symptoms,normal
+s_1989,Electrical burn,Electrical burn,both,Signs and symptoms,emergency
+s_633,Elevated mood,Elevated mood,both,Signs and symptoms,normal
+s_1166,Enamel hypoplasia,Enamel hypoplasia,both,Signs and symptoms,normal
+s_2381,Enamel lesions,Tooth lesion,both,Signs and symptoms,normal
+s_272,"Enamel lesions, caries",Cavities,both,Signs and symptoms,normal
+s_2391,"Enamel lesions, spots",Spots on tooth,both,Signs and symptoms,normal
+s_2292,Enlarged axillary lymph nodes,Enlarged lymph nodes in the armpit,both,Signs and symptoms,serious
+s_219,Enlarged breasts,Enlarged breasts,female,Signs and symptoms,normal
+s_2248,Enlarged cervical lymph nodes,Enlarged lymph nodes in the neck,both,Signs and symptoms,normal
+s_2247,Enlarged front of neck,Swollen front of neck,both,Signs and symptoms,normal
+s_1052,Enlarged kidneys,Enlarged kidneys,both,Signs and symptoms,serious
+s_220,Enlarged lymph nodes,Enlarged lymph nodes,both,Signs and symptoms,normal
+s_1057,Enlarged salivary glands,Enlarged salivary glands,both,Signs and symptoms,serious
+s_2465,Enlarged side of neck,Swollen side of neck,both,Signs and symptoms,normal
+s_290,"Enlarged vein of limb, chest or abdomen","Enlarged vein of limb, chest or abdomen",both,Signs and symptoms,normal
+s_2467,Enlarged whole neck,Swollen whole neck,both,Signs and symptoms,normal
+s_480,"Enlargement of hands, feet, or face","Enlargement of hands, feet, or face",both,Signs and symptoms,normal
+s_1390,"Enlargement of palatine tonsil, unilateral",Swollen throat on one side,both,Signs and symptoms,normal
+s_1102,"Enlargement of palatine tonsils, bilateral",Swelling on both sides of throat,both,Signs and symptoms,normal
+s_1103,Enlargement of the lymphoid tissue in the pharynx,Enlargement of the lymphoid tissue in the pharynx,both,Signs and symptoms,normal
+s_733,Erectile dysfunction,Erectile dysfunction,male,Signs and symptoms,normal
+s_229,Erythema,Redness of skin,both,Signs and symptoms,normal
+s_202,Erythema migrans,Expanding red spot with regular skin or clearing in the middle,both,Signs and symptoms,serious
+s_759,"Erythema, V-shaped on chest",V-shaped redness on the chest,both,Signs and symptoms,normal
+s_1955,"Erythema, around eyes",Redness around eyes,both,Signs and symptoms,normal
+s_1468,"Erythema, facial",Red skin on face,both,Signs and symptoms,normal
+s_230,"Erythema, facial, butterfly-shaped",Redness only on the cheeks and nose,both,Signs and symptoms,normal
+s_1314,"Erythema, finger",Red finger,both,Signs and symptoms,normal
+s_433,"Erythema, foreskin or head of the penis",Reddened foreskin or head of the penis,male,Signs and symptoms,normal
+s_557,"Erythema, hand",Red hand,both,Signs and symptoms,normal
+s_323,"Erythema, joint",Redness of skin over joint,both,Signs and symptoms,normal
+s_1469,"Erythema, large portion of body",Redness and scaling on almost the entire body,both,Signs and symptoms,serious
+s_325,"Erythema, limb",Red skin on arms or legs,both,Signs and symptoms,normal
+s_1125,"Erythema, palmar",Red skin on palms,both,Signs and symptoms,normal
+s_1791,"Erythema, scalp",Red patches on scalp,both,Signs and symptoms,normal
+s_758,"Erythema, shoulders and nape of neck",Redness on the shoulders and the back of the neck,both,Signs and symptoms,normal
+s_2003,"Erythema, toe",Red toe,both,Signs and symptoms,normal
+s_2371,"Erythema, unspecified",Unspecified redness of the skin,both,Signs and symptoms,normal
+s_1999,"Erythema, vulva",Reddened vulva,female,Signs and symptoms,normal
+s_1498,Erythematous tonsils,Unusually red tonsils,both,Signs and symptoms,normal
+s_132,Excess hair growth,Excessive hair,female,Signs and symptoms,normal
+s_723,Excessive fear in public situations,Excessive fear in public situations,both,Signs and symptoms,normal
+s_1304,Excessive saliva production,Excessive salivation,both,Signs and symptoms,normal
+s_216,Excessive sweating,Excessive sweating,both,Signs and symptoms,normal
+s_122,Excessive tear production,Watery eyes,both,Signs and symptoms,normal
+s_725,Excessive worry about the health of a child,Excessive worry about the health of a child,female,Signs and symptoms,normal
+s_1163,Exophthalmos,Protruding eye,both,Signs and symptoms,serious
+s_2141,Eye discharge,Eye discharge,both,Signs and symptoms,normal
+s_2188,"Eye discharge, purulent",Purulent eye discharge,both,Signs and symptoms,serious
+s_2329,"Eye discharge, thick and clear",Non-purulent eye discharge,both,Signs and symptoms,normal
+s_606,Eye flashes,Eye flashes,both,Signs and symptoms,normal
+s_493,Eye pain,Eye pain,both,Signs and symptoms,normal
+s_2242,"Eye pain, unbearable",Unbearable eye pain,both,Signs and symptoms,emergency
+s_1983,"Eyelid lesion, itching",Itchy skin changes on eyelid,both,Signs and symptoms,normal
+s_485,"Eyelid lesion, painful",Painful skin changes on eyelid,both,Signs and symptoms,normal
+s_486,"Eyelid lesion, red and warm",Red and warm skin changes on eyelid,both,Signs and symptoms,normal
+s_484,"Eyelid lesion, red lump with yellow tip",Red lump with yellow tip on eyelid,both,Signs and symptoms,normal
+s_235,Eyelid twitching,Trembling eyelids,both,Signs and symptoms,normal
+s_488,Eyes sensitive to light,Light sensitivity,both,Signs and symptoms,normal
+s_1156,Facial muscle paresis,Facial muscle weakness,both,Signs and symptoms,normal
+s_2349,"Facial muscle paresis, lasting between 24 hours and 4 weeks",Facial muscle weakness lasting between 24 hours and 4 weeks,both,Signs and symptoms,serious
+s_2348,"Facial muscle paresis, lasting less than 24 hours",Facial muscle weakness lasting less than 24 hours,both,Signs and symptoms,emergency
+s_2350,"Facial muscle paresis, lasting over 4 weeks",Facial muscle weakness lasting over 4 weeks,both,Signs and symptoms,normal
+s_149,"Facial muscle paresis, unilateral",Facial muscle weakness on one side of face,both,Signs and symptoms,emergency
+s_1425,Facial muscle spasms,Facial muscle spasms,both,Signs and symptoms,normal
+s_478,Facial pain,Face pain,both,Signs and symptoms,normal
+s_2544,"Facial pain, constant",Constant face pain,both,Signs and symptoms,normal
+s_1203,"Facial pain, longer than a couple of hours",Face pain lasting longer than a couple of hours,both,Signs and symptoms,normal
+s_1436,"Facial pain, paranasal sinus",Sinus pain or pressure,both,Signs and symptoms,normal
+s_427,"Facial pain, periodic",Periodic face pain,both,Signs and symptoms,normal
+s_1194,"Facial pain, severe",Severe face pain,both,Signs and symptoms,serious
+s_425,"Facial pain, stabbing",Stabbing face pain,both,Signs and symptoms,serious
+s_426,"Facial pain, triggered by eating, or touching or brushing teeth","Face pain triggered by eating, or touching or brushing teeth",both,Signs and symptoms,normal
+s_424,"Facial pain, unilateral",Face pain on one side,both,Signs and symptoms,normal
+s_2543,"Facial pain, unprovoked",Spontaneous face pain,both,Signs and symptoms,normal
+s_2100,Fatigue,Fatigue,both,Signs and symptoms,normal
+s_1547,"Fatigue, more than 6 months",Fatigue lasting more than 6 months,both,Signs and symptoms,normal
+s_1332,"Fatigue, weakness after exercise",Weakness worsening after exercise,both,Signs and symptoms,normal
+s_2470,Fear of ageing,Fear of growing older or ageing,both,Signs and symptoms,normal
+s_516,Fear of dying,Fear of dying,both,Signs and symptoms,normal
+s_1087,Fear of going insane,Fear of going insane,both,Signs and symptoms,normal
+s_1088,Fear of losing control,Fear of losing control,both,Signs and symptoms,normal
+s_157,Fear of obesity,Fear of obesity,both,Signs and symptoms,normal
+s_244,"Fear of object, situation, action",Specific fear,both,Signs and symptoms,normal
+s_721,Fear of public appearances,Fear of public appearances,both,Signs and symptoms,normal
+s_274,Feeling hot,Feeling hot,both,Signs and symptoms,normal
+s_205,Feeling of guilt,Feeling of guilt,both,Signs and symptoms,normal
+s_206,Feeling of guilt or shame after drinking alcohol,Feeling of guilt or shame after drinking alcohol,both,Signs and symptoms,normal
+s_629,Feeling of helplessness,Feeling of helplessness,both,Signs and symptoms,normal
+s_632,Feeling of hopelessness,Feeling of hopelessness,both,Signs and symptoms,normal
+s_435,Feeling of incomplete evacuation of the bladder,Bladder not emptying completely,both,Signs and symptoms,normal
+s_1565,Feeling of rectal fullness,Feeling of rectal fullness,both,Signs and symptoms,normal
+s_201,Feeling of sand under eyelids,Feeling of sand under eyelids,both,Signs and symptoms,normal
+s_1716,Feeling of vaginal fullness,Vaginal fullness,female,Signs and symptoms,normal
+s_1175,Feeling of weight in scrotum,Feeling of weight in scrotum,male,Signs and symptoms,normal
+s_419,Feeling overweight despite normal to low weight,Feeling overweight despite normal to low weight,both,Signs and symptoms,normal
+s_279,Feeling pressure or pulsation inside the tooth,Feeling pressure or pulsation inside the tooth,both,Signs and symptoms,serious
+s_2186,Female genital burn,Female genital burn,female,Signs and symptoms,emergency
+s_7,Female infertility,Female infertility,female,Signs and symptoms,normal
+s_2010,Fetal membranes rupture,Water breaking,female,Signs and symptoms,emergency
+s_2125,"Fetal membranes rupture, purulent or malodorous amniotic fluid",Smelly or coloured waters,both,Signs and symptoms,emergency
+s_98,Fever,Fever,both,Signs and symptoms,normal
+s_100,"Fever, between 100.4 and 104°F or 38 and 40°C",Fever between 100.4 and 104°F or 38 and 40°C,both,Signs and symptoms,normal
+s_99,"Fever, between 98.6 and 100.4°F or 37 and 38°C",Subfebrile temperature between 98.6 and 100.4°F or 37 and 38°C,both,Signs and symptoms,normal
+s_1186,"Fever, flare-ups and remissions",Fever that comes and goes,both,Signs and symptoms,normal
+s_2000,"Fever, higher than 104°F or 40°C",Fever higher than 104°F or 40°C,both,Signs and symptoms,serious
+s_2320,"Fever, lasting 3 to 7 days",Fever lasting 3 to 7 days,both,Signs and symptoms,normal
+s_2319,"Fever, lasting less than 3 days",Fever lasting less than 3 days,both,Signs and symptoms,normal
+s_2321,"Fever, lasting more than 7 days",Fever lasting more than 7 days,both,Signs and symptoms,serious
+s_1172,"Fever, periodic",Periodic fever,both,Signs and symptoms,serious
+s_1820,"Fever, temperature not measured",Fever not measured,both,Signs and symptoms,normal
+s_636,Financial recklessness,Financial recklessness,both,Signs and symptoms,normal
+s_660,Fits of anger,Fits of anger,both,Signs and symptoms,normal
+s_2182,Flank pain,Pain on sides of body,both,Signs and symptoms,normal
+s_772,Flat affect,Flat affect,both,Signs and symptoms,normal
+s_2253,Flat foot,Flat foot,both,Signs and symptoms,normal
+s_504,Foamy urine,Foamy urine,both,Signs and symptoms,normal
+s_1909,Foot drop,Dropping the front of the foot,both,Signs and symptoms,serious
+s_578,Foot pain,Pain in one foot,both,Signs and symptoms,normal
+s_1645,"Foot pain, pain in back of foot during single-leg heel raise",Pain in the back of foot while standing on toes,both,Signs and symptoms,normal
+s_204,Forward-leaning posture,Forward-leaning posture,both,Signs and symptoms,normal
+s_525,Foul-smelling stools,Foul-smelling stools,both,Signs and symptoms,normal
+s_505,Frequent infections,Frequent infections,both,Signs and symptoms,normal
+s_532,"Frequent infections, lower respiratory tract",Frequent bronchitis,both,Signs and symptoms,normal
+s_531,"Frequent infections, upper respiratory tract","Frequent runny nose, cough",both,Signs and symptoms,normal
+s_215,Frequent urination,Urinating often,both,Signs and symptoms,normal
+s_990,Frontal release signs,Frontal release signs,both,Signs and symptoms,normal
+s_2336,Galactorrhea in men,Milky discharge from the nipple,male,Signs and symptoms,normal
+s_547,Galactorrhea in women,Milky discharge from the nipple outside of breastfeeding period,female,Signs and symptoms,normal
+s_2032,Gambling,Gambling,both,Signs and symptoms,normal
+s_2029,"Gambling, lying about extent",Lying about the extent of gambling,both,Signs and symptoms,normal
+s_2024,"Gambling, pathological",Excessive gambling,both,Signs and symptoms,normal
+s_2271,"Gastric symptoms, after gluten ingestion",Gastric symptoms after eating foods containing gluten,both,Signs and symptoms,normal
+s_1570,"Gastric symptoms, after lactose ingestion",Gastric symptoms after eating or drinking foods containing lactose,both,Signs and symptoms,normal
+s_1767,"Gastric symptoms, stress-related",Stress-related gastric symptoms,both,Signs and symptoms,normal
+s_583,General anxiety,General anxiety,both,Signs and symptoms,normal
+s_2246,Genital injury in female,Genital injury in female,female,Signs and symptoms,serious
+s_2245,Genital injury in male,Genital injury in male,male,Signs and symptoms,serious
+s_253,Genital itch,Itching in crotch,both,Signs and symptoms,normal
+s_1226,Genu varum,Bowlegs,both,Signs and symptoms,normal
+s_2260,Gingival recession,Receding gums,both,Signs and symptoms,normal
+s_1090,Glassy eyes,Glassy eyes,both,Signs and symptoms,normal
+s_513,Globus sensation,Feeling of lump in throat,both,Signs and symptoms,normal
+s_1302,Goldflam's sign,Goldflam's sign,both,Signs and symptoms,emergency
+s_1263,Gonda-Allen sign,Gonda-Allen sign,both,Signs and symptoms,normal
+s_1254,Gordon's sign,Gordon's sign,both,Signs and symptoms,emergency
+s_756,Gottron's papules,"Red, painful, or scaly bumps over hand and finger joints",both,Signs and symptoms,normal
+s_639,Grandiosity,Grandiosity,both,Signs and symptoms,normal
+s_322,Gum erythema,Red gums,both,Signs and symptoms,normal
+s_19,Gum pain,Gum pain,both,Signs and symptoms,normal
+s_586,Gynecomastia,Breast enlargement in man,male,Signs and symptoms,normal
+s_121,Hair loss,Hair loss,both,Signs and symptoms,normal
+s_2520,"Hair loss, androgenetic",Hair loss on the temples or at the top of the head,both,Signs and symptoms,normal
+s_1665,"Hair loss, generalized",Generalized hair volume loss,both,Signs and symptoms,normal
+s_618,Hairy leukoplakia,Hairy leukoplakia,both,Signs and symptoms,serious
+s_65,Halitosis,Bad breath,both,Signs and symptoms,normal
+s_686,Hallucinations,Hallucinations,both,Signs and symptoms,emergency
+s_682,"Hallucinations, auditory",Auditory hallucinations,both,Signs and symptoms,emergency
+s_683,"Hallucinations, gustatory",Gustatory hallucinations,both,Signs and symptoms,emergency
+s_684,"Hallucinations, olfactory",Olfactory hallucinations,both,Signs and symptoms,emergency
+s_685,"Hallucinations, tactile",Tactile hallucinations,both,Signs and symptoms,emergency
+s_681,"Hallucinations, visual",Visual hallucinations,both,Signs and symptoms,emergency
+s_2041,Halos around lights,Halos around lights,both,Signs and symptoms,normal
+s_1246,Hard lump in inguinal region,Hard lump in groin,both,Signs and symptoms,normal
+s_1248,"Hard lump in inguinal region, dark or bluish discolouration",Dark or bluish hard lump in groin,both,Signs and symptoms,serious
+s_1247,"Hard lump in inguinal region, irreducible",Lump in groin cannot be pushed back in groin,both,Signs and symptoms,normal
+s_1249,"Hard lump in inguinal region, tender",Painful hard lump in groin,both,Signs and symptoms,serious
+s_1346,Hard retinal exudates,Hard retinal exudates,both,Signs and symptoms,normal
+s_191,Head drop,Head drop,both,Signs and symptoms,serious
+s_1230,Head tilt in order to avoid diplopia,Double vision improves while tilting head,both,Signs and symptoms,serious
+s_85,Head tremors,Head tremors,both,Signs and symptoms,normal
+s_21,Headache,Headache,both,Signs and symptoms,normal
+s_1535,"Headache, chronic",Headaches history longer than 3 months,both,Signs and symptoms,normal
+s_1901,"Headache, chronic, lasting 3 to 7 days",Headache attacks lasting 3 to 7 days,both,Signs and symptoms,normal
+s_1870,"Headache, chronic, lasting 4 to 72 hours",Headache attack lasting 4 to 72 hours,both,Signs and symptoms,normal
+s_1868,"Headache, chronic, lasting 5 minutes to 4 hours",Headache lasting between 5 minutes and 4 hours,both,Signs and symptoms,normal
+s_1907,"Headache, chronic, lasting less than 5 minutes",Headache lasting less than 5 minutes,both,Signs and symptoms,normal
+s_1762,"Headache, exacerbated by increased stress",Headache worsened by stress,both,Signs and symptoms,normal
+s_1871,"Headache, exacerbated by physical activity",Headache worsened by physical activity,both,Signs and symptoms,normal
+s_625,"Headache, exacerbated by tilting head forwards",Headache worsened by tilting head forward,both,Signs and symptoms,normal
+s_1864,"Headache, excruciating",Worst headache ever,both,Signs and symptoms,emergency
+s_1349,"Headache, forehead",Headache located near the forehead,both,Signs and symptoms,normal
+s_24,"Headache, generalized",Headache located all over head,both,Signs and symptoms,normal
+s_604,"Headache, lancinating",Stabbing headache,both,Signs and symptoms,normal
+s_1780,"Headache, mild",Mild headache,both,Signs and symptoms,normal
+s_1781,"Headache, moderate",Moderate headache,both,Signs and symptoms,normal
+s_970,"Headache, occipital",Headache located at back of head,both,Signs and symptoms,normal
+s_23,"Headache, pressing",Pressing or squeezing headache,both,Signs and symptoms,normal
+s_25,"Headache, pulsating",Pulsing headache,both,Signs and symptoms,normal
+s_1912,"Headache, recent",Headaches history shorter than 3 months,both,Signs and symptoms,normal
+s_2190,"Headache, recent, lasting 1 to 24 hours",Headache lasting between 1 hour and 1 day,both,Signs and symptoms,normal
+s_2189,"Headache, recent, lasting less than 1 hour",Headache lasting less than 1 hour,both,Signs and symptoms,normal
+s_2191,"Headache, recent, lasting more than 1 day",Headache lasting for more than 1 day,both,Signs and symptoms,normal
+s_605,"Headache, series over a period of time",Series of headaches,both,Signs and symptoms,normal
+s_1193,"Headache, severe",Severe headache,both,Signs and symptoms,normal
+s_1905,"Headache, sudden onset",Sudden headache,both,Signs and symptoms,normal
+s_1911,"Headache, temporal region",Headache located over the temples,both,Signs and symptoms,normal
+s_22,"Headache, unilateral",Headache located on only one side,both,Signs and symptoms,normal
+s_799,"Headache, worse in the morning",Morning headache,both,Signs and symptoms,normal
+s_841,Hearing voices arguing,Hearing voices arguing,both,Signs and symptoms,emergency
+s_840,Hearing voices commenting,Hearing voices commenting,both,Signs and symptoms,emergency
+s_338,Heartburn,Heartburn,both,Signs and symptoms,normal
+s_273,Heavy legs at the end of the day,Heavy legs at the end of the day,both,Signs and symptoms,normal
+s_158,Heavy or prolonged menstrual periods,Heavy or prolonged periods,female,Signs and symptoms,normal
+s_1922,Heel drop test,Stomach pain after dropping hard on heels,both,Signs and symptoms,emergency
+s_1170,Hemarthrosis,Bleeding into joints,both,Signs and symptoms,normal
+s_306,Hematemesis,Vomiting blood,both,Signs and symptoms,emergency
+s_814,Hemianopsia bitemporalis,Hemianopsia bitemporalis,both,Signs and symptoms,serious
+s_116,Hemoptysis,Coughing up blood,both,Signs and symptoms,emergency
+s_1051,Hepatomegaly,Hepatomegaly,both,Signs and symptoms,normal
+s_2546,Heterochromic irides,Different eye colours,both,Signs and symptoms,normal
+s_1295,Hiccups,Hiccups,both,Signs and symptoms,normal
+s_1108,High-arched palate,High-arched palate,both,Signs and symptoms,normal
+s_147,History of anemia,History of anemia,both,Signs and symptoms,normal
+s_757,Holster sign,Redness on hips or sides of thighs,both,Signs and symptoms,normal
+s_957,Homonymous hemianopsia,Visual field loss on the same side of both eyes,both,Signs and symptoms,normal
+s_373,Honey-coloured crust on the skin,Honey-coloured scabs on the skin,both,Signs and symptoms,normal
+s_280,Hot flashes,Hot flashes,both,Signs and symptoms,normal
+s_1481,Hyperalgesia,Hyperalgesia,both,Signs and symptoms,normal
+s_760,Hyperkeratosis on hands,Thickened and cracked skin on hands,both,Signs and symptoms,normal
+s_1891,Hypersensitivity to smells,Oversensitivity to smells,both,Signs and symptoms,normal
+s_1150,Hypersensitivity to sound,Oversensitivity to sound,both,Signs and symptoms,normal
+s_679,Hypochondriacal delusions,Hypochondriacal delusions,both,Signs and symptoms,normal
+s_1876,Hypomenorrhea,Short or scanty periods,female,Signs and symptoms,normal
+s_180,Hypopigmentation of the skin,Lightening of the skin,both,Signs and symptoms,normal
+s_570,Hypopyon,Collection of pus in front of the eye,both,Signs and symptoms,serious
+s_533,Hypotension,Low blood pressure,both,Signs and symptoms,normal
+s_842,Ignoring consequences and social norms,Ignoring consequences and social norms,both,Signs and symptoms,normal
+s_341,Illusion of surroundings being bigger or smaller than they actually are,Illusion of surroundings being bigger or smaller than they actually are,both,Signs and symptoms,normal
+s_317,Impaired balance while walking,Stumbling or losing balance while walking,both,Signs and symptoms,normal
+s_631,Impaired concentration,Poor concentration,both,Signs and symptoms,normal
+s_1241,Impaired downward eye motion,Difficulty looking down,both,Signs and symptoms,serious
+s_1227,Impaired lateral eye motion,Difficulty looking sideways away from the nose,both,Signs and symptoms,serious
+s_1240,Impaired medial eye motion,Difficulty looking inwards towards the nose,both,Signs and symptoms,serious
+s_316,Impaired memory,Impaired memory,both,Signs and symptoms,normal
+s_825,"Impaired memory, alcohol-related amnesia",Alcohol-related amnesia,both,Signs and symptoms,normal
+s_619,"Impaired memory, finding everyday objects",Difficulty finding everyday objects,both,Signs and symptoms,normal
+s_830,"Impaired memory, short-term",Impaired short-term memory,both,Signs and symptoms,normal
+s_1095,Impaired smell,Inability to smell properly,both,Signs and symptoms,normal
+s_716,Impaired social functioning,"Difficulty functioning at home, work, or school",both,Signs and symptoms,normal
+s_1239,Impaired upward eye motion,Difficulty looking up,both,Signs and symptoms,serious
+s_320,Impaired vision,Visual impairment,both,Signs and symptoms,normal
+s_2464,"Impaired vision, bilateral",Visual impairment in both eyes,both,Signs and symptoms,normal
+s_1819,"Impaired vision, one eye",Visual impairment in one eye,both,Signs and symptoms,serious
+s_1818,"Impaired vision, recent onset",Recent visual impairment,both,Signs and symptoms,serious
+s_1146,"Impaired vision, temple pain on side with vision problem",Temple pain on side with visual impairment,both,Signs and symptoms,serious
+s_1384,Impulsive behaviour,Impulsive behaviour,both,Signs and symptoms,normal
+s_2086,"Inability to bear weight, after trauma",Inability to stand on either foot after injury,both,Signs and symptoms,serious
+s_1385,Inability to complete tasks,Inability to complete tasks,both,Signs and symptoms,normal
+s_1551,Inability to pass flatus,Inability to pass gas,both,Signs and symptoms,normal
+s_711,Inability to remember important aspects of a traumatic experience,Difficulty remembering traumatic experiences,both,Signs and symptoms,normal
+s_150,Inability to stop drinking alcohol,Inability to stop drinking alcohol,both,Signs and symptoms,normal
+s_223,Inability to stop flow of urine,Inability to stop flow of urine,both,Signs and symptoms,normal
+s_277,Increased abdominal girth,Increased abdominal size,both,Signs and symptoms,normal
+s_311,Increased appetite,Increased appetite,both,Signs and symptoms,normal
+s_1488,Increased expiratory phase,Increased expiratory phase,both,Signs and symptoms,serious
+s_421,Increased libido,Increased sex drive,both,Signs and symptoms,normal
+s_991,Increased masseter reflex,Jaw jerk,both,Signs and symptoms,normal
+s_361,Increased need in sexual experiences or sensations to attain desired effect,Increased need in sexual experiences or sensations to attain desired effect,both,Signs and symptoms,normal
+s_1278,Increased palatine reflex,Increased palatine reflex,both,Signs and symptoms,normal
+s_1279,Increased pharyngeal reflex,Increased pharyngeal reflex,both,Signs and symptoms,normal
+s_310,Increased thirst,Increased thirst,both,Signs and symptoms,normal
+s_506,Insect bite or sting,Insect bite or sting,both,Signs and symptoms,normal
+s_917,Insomnia,Insomnia,both,Signs and symptoms,normal
+s_1383,"Intense, non-committal relationships","Intense, non-committal relationships",both,Signs and symptoms,normal
+s_358,Intermittent urine flow,Intermittent urine flow,male,Signs and symptoms,normal
+s_1084,"Interosseous muscles atrophy, feet","Interosseous muscles atrophy, feet",both,Signs and symptoms,normal
+s_1083,"Interosseous muscles atrophy, hands","Interosseous muscles atrophy, hands",both,Signs and symptoms,normal
+s_1416,Intraretinal microvascular abnormalities,Intraretinal microvascular abnormalities,both,Signs and symptoms,normal
+s_1411,Iris neovascularization,Iris neovascularization,both,Signs and symptoms,normal
+s_1440,Irregular menstruations,Irregular periods,female,Signs and symptoms,normal
+s_540,Irritability,Irritability,both,Signs and symptoms,normal
+s_80,"Irritability, when unable to engage in sexual activities",Irritable when unable to have sex,both,Signs and symptoms,normal
+s_614,Itching after a hot shower or bath,Itchy skin after a hot shower or bath,both,Signs and symptoms,normal
+s_249,Itching around anus,Itchy anus,both,Signs and symptoms,normal
+s_1563,Itching eye,Itchy eye,both,Signs and symptoms,normal
+s_255,Itching inside ear,Itchy inner ear,both,Signs and symptoms,normal
+s_252,Itching nose or throat,Itchy nose or throat,both,Signs and symptoms,normal
+s_1271,Jacobsohn sign,Finger flexion when tapping distal base of radius bone,both,Signs and symptoms,normal
+s_1718,Janeway lesion,Janeway lesion,both,Signs and symptoms,normal
+s_332,Jaundice,Yellow skin,both,Signs and symptoms,serious
+s_336,"Jaundice, during infectious disease",Yellow skin during infectious disease,both,Signs and symptoms,serious
+s_335,"Jaundice, following intense physical exertion",Yellow skin after physical activity,both,Signs and symptoms,serious
+s_334,"Jaundice, stress-related",Yellow skin during times of increased stress,both,Signs and symptoms,serious
+s_1961,Jaw pain,Jaw pain,both,Signs and symptoms,normal
+s_359,"Joint deformation, non-traumatic",Joint deformation not associated with recent trauma,both,Signs and symptoms,normal
+s_2087,"Joint deformation, post-traumatic",Deformed joints after an injury,both,Signs and symptoms,emergency
+s_44,Joint pain,Joint pain,both,Signs and symptoms,normal
+s_576,"Joint pain, aggravated by cold or damp weather",Joint pain aggravated by cold or damp weather,both,Signs and symptoms,normal
+s_1621,"Joint pain, ankle",Ankle pain,both,Signs and symptoms,normal
+s_1623,"Joint pain, during ankle movement",Pain when moving ankle,both,Signs and symptoms,normal
+s_1634,"Joint pain, during elbow movement",Pain when moving elbow,both,Signs and symptoms,normal
+s_1823,"Joint pain, during hip movement",Pain when moving hip,both,Signs and symptoms,normal
+s_1610,"Joint pain, during knee movement",Pain when moving knee,both,Signs and symptoms,normal
+s_1805,"Joint pain, during shoulder movement",Pain when moving shoulder,both,Signs and symptoms,normal
+s_1641,"Joint pain, during thumb movement",Pain when moving thumb,both,Signs and symptoms,normal
+s_1636,"Joint pain, during wrist movement",Pain when moving wrist,both,Signs and symptoms,normal
+s_1632,"Joint pain, elbow",Elbow pain,both,Signs and symptoms,normal
+s_79,"Joint pain, hallux",Big toe pain,both,Signs and symptoms,normal
+s_11,"Joint pain, hip",Hip pain,both,Signs and symptoms,normal
+s_2299,"Joint pain, inflammatory",Joint pain worsened by immobility,both,Signs and symptoms,normal
+s_581,"Joint pain, knee",Knee pain,both,Signs and symptoms,normal
+s_2298,"Joint pain, mechanical",Joint pain worsened by movement and improved with rest,both,Signs and symptoms,normal
+s_41,"Joint pain, severe, after trauma",Severe joint pain after an injury,both,Signs and symptoms,normal
+s_1654,"Joint pain, shoulder",Shoulder pain,both,Signs and symptoms,normal
+s_1201,"Joint pain, sudden",Sudden joint pain,both,Signs and symptoms,normal
+s_1656,"Joint pain, tenderness",Pain when pressing joint,both,Signs and symptoms,normal
+s_1639,"Joint pain, thumb",Thumb pain,both,Signs and symptoms,normal
+s_1430,"Joint pain, wrist",Wrist pain,both,Signs and symptoms,normal
+s_575,Joint stiffness,Stiff joints,both,Signs and symptoms,normal
+s_258,"Joint stiffness, hand stiffness in the morning",Stiff hands in the morning,both,Signs and symptoms,normal
+s_259,"Joint stiffness, subsides after exercising",Joint stiffness disappears after exercise,both,Signs and symptoms,normal
+s_1472,Kayser–Fleischer ring,Dark rings appearing around the iris of the eye,both,Signs and symptoms,serious
+s_1689,Kernig's sign,Kernig's sign,both,Signs and symptoms,emergency
+s_1745,Knee instability,Unstable knee,both,Signs and symptoms,normal
+s_664,Koplik's spots,Small white spots surrounded by red ring on the insides of cheeks,both,Signs and symptoms,normal
+s_1451,Kussmaul breathing,"Abnormally deep, laboured, and gasping breathing",both,Signs and symptoms,emergency
+s_778,Lack of boundaries in interpersonal relations,Lack of boundaries in relationships,both,Signs and symptoms,normal
+s_1006,"Lack of initiative, motivation, or drive","Lack of initiative, motivation, or drive",both,Signs and symptoms,normal
+s_964,Lateropulsion,Falling or losing gait on one side,both,Signs and symptoms,emergency
+s_1282,Lead-pipe rigidity,Constant muscle stiffness in a limb,both,Signs and symptoms,serious
+s_550,Lens clouding,Cloudy eyes,both,Signs and symptoms,normal
+s_666,Leopard-like spots on skin,Brick-coloured spots resembling leopard spots,both,Signs and symptoms,serious
+s_1378,Levine's sign,Levine's sign,both,Signs and symptoms,normal
+s_1054,Lhermitte's sign,Lhermitte's sign,both,Signs and symptoms,normal
+s_1793,Lice eggs or nits on hair shafts,Lice eggs or nits,both,Signs and symptoms,normal
+s_1324,Lisch nodules,Lisch nodules,both,Signs and symptoms,normal
+s_763,Livedo reticularis,"Blotchy, red-purplish marbling of the skin",both,Signs and symptoms,normal
+s_1407,Local dark retinal blood vessels that lie in folds,Local dark retinal blood vessels that lie in folds,both,Signs and symptoms,normal
+s_1405,Local elevation of retina,Local elevation of retina,both,Signs and symptoms,normal
+s_1406,Local grey discolouration of retina,Local grey discolouration of retina,both,Signs and symptoms,normal
+s_1408,Local retinal undulation,Local retinal undulation,both,Signs and symptoms,normal
+s_2453,Loose dental filling,Loose dental filling,both,Signs and symptoms,normal
+s_228,Loose tooth unrelated to a tooth exchange,Loose teeth,both,Signs and symptoms,normal
+s_1115,Loss of body hair,Loss of body hair,both,Signs and symptoms,normal
+s_1543,Loss of consciousness,Loss of consciousness,both,Signs and symptoms,serious
+s_2472,"Loss of consciousness, during exercise",Fainting during exercise,both,Signs and symptoms,serious
+s_2468,"Loss of consciousness, during prolonged standing",Fainting during prolonged standing,both,Signs and symptoms,serious
+s_2471,"Loss of consciousness, in a sitting or lying position",Fainting while sitting or lying down,both,Signs and symptoms,serious
+s_2474,"Loss of consciousness, in a warm place",Fainting in a warm place,both,Signs and symptoms,serious
+s_2303,"Loss of consciousness, more than 1 minute","Loss of consciousness, more than 1 minute",both,Signs and symptoms,emergency_ambulance
+s_2302,"Loss of consciousness, transient",Fainting,both,Signs and symptoms,serious
+s_2475,"Loss of consciousness, under stress",Fainting during stress,both,Signs and symptoms,serious
+s_190,"Loss of consciousness, with urination or defecation",Fainting with loss of bladder or bowel control,both,Signs and symptoms,emergency_ambulance
+s_287,"Loss of interest in activities previously enjoyed, lasting at least 2 weeks",Loss of interest,both,Signs and symptoms,normal
+s_622,Loss of muscle mass,Loss of muscles,both,Signs and symptoms,normal
+s_564,"Loss of muscle mass, hands",Loss of muscles in hands,both,Signs and symptoms,normal
+s_959,Loss of sensation in the face,Loss of feeling in face,both,Signs and symptoms,serious
+s_1159,"Loss of sensation in the face, unilateral",Loss of feeling on only one side of the face,both,Signs and symptoms,serious
+s_1070,Loss of sense of vibration in distal parts of extremities,Loss of sense of vibration in distal parts of extremities,both,Signs and symptoms,normal
+s_1394,Loss of the lingual papillae,Smooth tongue,both,Signs and symptoms,normal
+s_1027,Loss of vision in the superior quadrant,Loss of vision in the superior quadrant,both,Signs and symptoms,serious
+s_746,Loss or impairment of proprioception,Loss or impairment of proprioception,both,Signs and symptoms,normal
+s_747,Loss or impairment of temperature sensation,Loss or impairment of temperature sensation,both,Signs and symptoms,serious
+s_507,Lost will to live,Lost will to live,both,Signs and symptoms,normal
+s_1404,"Low intraocular pressure, 4 to 5mmHg difference in affected eye compared to the other eye","Low intraocular pressure, 4 to 5mmHg difference in affected eye compared to the other eye",both,Signs and symptoms,normal
+s_155,Low sense of self-worth,Low self-esteem,both,Signs and symptoms,normal
+s_1725,Lower limb pallor,Pale leg,both,Signs and symptoms,serious
+s_1618,Lower limb tenderness,Pain when pressing lower limb,both,Signs and symptoms,normal
+s_1622,"Lower limb tenderness, calf",Pain when pressing calf,both,Signs and symptoms,normal
+s_2309,Lump in popliteal region,Lump behind knee,both,Signs and symptoms,normal
+s_1173,Lump in scrotum,Lump in scrotum,male,Signs and symptoms,normal
+s_420,Lying about eating or hiding food,Lying about eating or hiding food,both,Signs and symptoms,normal
+s_1733,Lymph node pain,Painful lymph nodes,both,Signs and symptoms,normal
+s_2077,Major bleeding,Major bleeding,both,Signs and symptoms,emergency_ambulance
+s_2187,Male genital burn,Male genital burn,male,Signs and symptoms,emergency
+s_2052,Male infertility,Male infertility,male,Signs and symptoms,normal
+s_289,Malocclusions,Malocclusions,both,Signs and symptoms,normal
+s_2403,Mandibular deviation when opening mouth,Jaw shifts to the side when opening mouth,both,Signs and symptoms,normal
+s_1403,Marcus Gunn pupil,Marcus Gunn pupil,both,Signs and symptoms,normal
+s_2352,Mathematics difficulties,Mathematics difficulties,both,Signs and symptoms,normal
+s_665,Measles rash,Measles rash,both,Signs and symptoms,normal
+s_1261,Mendel-Bekhterev sign,Mendel-Bekhterev sign,both,Signs and symptoms,normal
+s_415,Menstrual period more than 3 weeks late,Period more than 3 weeks late,female,Signs and symptoms,normal
+s_1768,Mental disturbances exacerbated by stress,Mental disturbances exacerbated by stress,both,Signs and symptoms,normal
+s_360,Microstomia,Narrow mouth,both,Signs and symptoms,normal
+s_2078,Minor uncontrollable bleeding,Minor uncontrollable bleeding,both,Signs and symptoms,emergency
+s_537,Miosis,Constricted pupil,both,Signs and symptoms,normal
+s_212,Miscarriage,Miscarriage,female,Signs and symptoms,normal
+s_1274,Moniz sign,Moniz sign,both,Signs and symptoms,normal
+s_646,Mood swings,Mood swings,both,Signs and symptoms,normal
+s_1297,Motor retardation,Slowed movements,both,Signs and symptoms,normal
+s_1104,Mouth breathing,Mouth breathing,both,Signs and symptoms,normal
+s_2065,Mouth pain,Pain in mouth,both,Signs and symptoms,normal
+s_2421,"Mouth pain, after eating spicy or acidic food",Pain in mouth after eating spicy or acidic food,both,Signs and symptoms,normal
+s_1,Mouth ulcer,Mouth sores,both,Signs and symptoms,normal
+s_1210,Mucosal pallor,Pale mouth or eyelids,both,Signs and symptoms,normal
+s_1213,"Mucosal pallor, sudden",Sudden paleness of mouth or eyelids,both,Signs and symptoms,serious
+s_642,Mucous secretion in stool,Mucus in stool,both,Signs and symptoms,normal
+s_2357,"Multiple red areas, larger than 1 cm",Multiple red areas larger than 1 cm,both,Signs and symptoms,normal
+s_2370,"Multiple red changes, different sizes",Multiple red changes of different sizes,both,Signs and symptoms,normal
+s_2359,"Multiple red spots, smaller than 1 cm",Multiple red spots smaller than 1 cm,both,Signs and symptoms,normal
+s_567,Murphy's sign,Stomach pain on deep inhalation and simultaneous pressing right upper part of abdomen,both,Signs and symptoms,serious
+s_503,Muscle cramps,Muscle cramps,both,Signs and symptoms,normal
+s_117,"Muscle cramps, calf",Cramps in calves,both,Signs and symptoms,normal
+s_2494,"Muscle cramps, nocturnal",Nocturnal muscle cramps,both,Signs and symptoms,normal
+s_650,Muscle weakness,Muscle weakness,both,Signs and symptoms,normal
+s_2330,"Muscle weakness, general",General muscle weakness,both,Signs and symptoms,normal
+s_1142,Myalgia,Muscle pain,both,Signs and symptoms,normal
+s_1766,"Myalgia, exacerbated by stress",Muscle pain triggered by stress,both,Signs and symptoms,normal
+s_2455,"Myalgia, following intense physical exertion",Muscle pain after intense physical activity,both,Signs and symptoms,normal
+s_536,Mydriasis,Dilated pupils,both,Signs and symptoms,serious
+s_1476,Myringitis,Myringitis,both,Signs and symptoms,normal
+s_603,Nail clubbing,Enlarged fingertips and nails,both,Signs and symptoms,normal
+s_1167,Nail dystrophy,Distortion or discolouration of nail,both,Signs and symptoms,normal
+s_2005,Nail pain,Sore nail,both,Signs and symptoms,normal
+s_107,Nasal catarrh,Runny nose,both,Signs and symptoms,normal
+s_2153,"Nasal catarrh, mucoid",Clear or white nasal discharge,both,Signs and symptoms,normal
+s_2154,"Nasal catarrh, purulent",Yellow or green nasal discharge,both,Signs and symptoms,normal
+s_331,Nasal congestion,Stuffy nose,both,Signs and symptoms,normal
+s_2307,"Nasal congestion, acute",Stuffy nose lasting less than 10 days,both,Signs and symptoms,normal
+s_1812,"Nasal congestion, chronic",Stuffy nose lasting more than 3 months,both,Signs and symptoms,normal
+s_2308,"Nasal congestion, subacute",Stuffy nose lasting between 10 days and 3 months,both,Signs and symptoms,normal
+s_2226,"Nasal congestion, worsens after briefly improving",Stuffy nose worsening after brief improvement,both,Signs and symptoms,normal
+s_524,Nasal polyps,Polyps in nose,both,Signs and symptoms,normal
+s_1303,Nasal speech,Nasal voice,both,Signs and symptoms,normal
+s_156,Nausea,Feeling sick or queasy,both,Signs and symptoms,normal
+s_2512,"Nausea, triggered by movement",Nausea while moving,both,Signs and symptoms,normal
+s_1388,Neck asymmetry,Asymmetrical neck,both,Signs and symptoms,normal
+s_1483,Neck pain,Pain in neck,both,Signs and symptoms,normal
+s_2173,"Neck pain, during head movement",Pain in neck when moving head,both,Signs and symptoms,normal
+s_965,"Neck pain, unilateral",Pain in neck on only one side,both,Signs and symptoms,normal
+s_671,Neck vein distention,Swollen neck veins,both,Signs and symptoms,normal
+s_820,Neglecting duties and hobbies due to alcohol,"Neglecting family, work, or hobbies due to alcohol",both,Signs and symptoms,normal
+s_326,Neglecting duties and hobbies due to sex,"Neglecting family, work, or hobbies due to sex",both,Signs and symptoms,normal
+s_143,Nervousness or weepiness,Crying or feeling nervous,both,Signs and symptoms,normal
+s_2080,"Neurological deficit, since less than 24 hours",New neurological changes since less than 24 hours,both,Signs and symptoms,emergency_ambulance
+s_2083,"Neurological deficit, since more than 24 hours",New neurological changes lasting more than 24 hours,both,Signs and symptoms,normal
+s_217,Night sweats,Night sweats,both,Signs and symptoms,normal
+s_678,Nihilistic delusions,Nihilistic delusions,both,Signs and symptoms,normal
+s_1422,Nipple discharge,Leaking from the nipple,female,Signs and symptoms,normal
+s_2258,No contact with COVID-19 case,No contact with COVID-19 positive person,both,Signs and symptoms,normal
+s_2462,No history of inflammatory bowel disease,No history of inflammatory bowel disease,both,Signs and symptoms,normal
+s_2172,No signs of upper respiratory infection,No signs of upper respiratory infection,both,Signs and symptoms,normal
+s_182,Nocturia,Often urinating at night,both,Signs and symptoms,normal
+s_300,Nodule located in breast,Lump in the breast,female,Signs and symptoms,normal
+s_822,Non-stop alcohol consumption for several days,Constantly drinking alcohol for several days,both,Signs and symptoms,normal
+s_1217,Nonmenstrual vaginal bleeding or spotting,Vaginal bleeding not associated with period,female,Signs and symptoms,normal
+s_2168,Normal body temperature,Normal body temperature,both,Signs and symptoms,normal
+s_2169,Normal heart rate,Normal pulse,both,Signs and symptoms,normal
+s_2171,Normal lung sounds on auscultation,Normal lung sounds on auscultation,both,Signs and symptoms,normal
+s_2174,Normal vital signs,Normal vital signs,both,Signs and symptoms,normal
+s_1605,Nose pain,Painful nose,both,Signs and symptoms,normal
+s_1429,Nosebleed,Bleeding from nose,both,Signs and symptoms,normal
+s_2017,"Nosebleed, recurrent",Recurrent bleeding from nose,both,Signs and symptoms,normal
+s_2016,"Nosebleed, single episode",One episode of bleeding from nose,both,Signs and symptoms,normal
+s_1148,Numbness of tongue,Loss of feeling in tongue,both,Signs and symptoms,normal
+s_377,Numerous nevi,Many moles or birthmarks,both,Signs and symptoms,normal
+s_479,Nystagmus,Nystagmus,both,Signs and symptoms,normal
+s_1721,"Nystagmus, horizontal",Horizontal nystagmus,both,Signs and symptoms,serious
+s_127,Obsessions,Obsessions,both,Signs and symptoms,normal
+s_687,"Obsessions, compulsive thoughts",Compulsive thoughts,both,Signs and symptoms,normal
+s_688,"Obsessions, intrusive thoughts",Dark thoughts,both,Signs and symptoms,normal
+s_1237,Ocular bulb rotation laterally and downward,Eye rotation sideways and downward,both,Signs and symptoms,serious
+s_750,Ocular motility disorder,Difficulty moving eyes,both,Signs and symptoms,serious
+s_1147,Oculomotor nerve palsy,Oculomotor nerve palsy,both,Signs and symptoms,emergency
+s_509,Odynophagia,Painful swallowing,both,Signs and symptoms,normal
+s_362,Oily skin,Greasy or oily skin,both,Signs and symptoms,normal
+s_1877,Oligomenorrhea,Infrequent menstrual periods,female,Signs and symptoms,normal
+s_185,Oliguria,Urinating less than usual,both,Signs and symptoms,normal
+s_1107,Opacified tympanic membrane,Opacified tympanic membrane,both,Signs and symptoms,normal
+s_389,Open comedones,Blackheads,both,Signs and symptoms,normal
+s_1256,Oppenheim's sign,Oppenheim's sign,both,Signs and symptoms,emergency
+s_1410,Optic disc neovascularization,Optic disc neovascularization,both,Signs and symptoms,normal
+s_1329,Optic nerve disc pallor,Optic nerve disc pallor,both,Signs and symptoms,normal
+s_2422,"Oral lesions, changes in the location, size, or shape","Change in location, size, or shape of lesions in the mouth",both,Signs and symptoms,normal
+s_2414,"Oral lesions, multiple",Multiple lesions in the mouth,both,Signs and symptoms,normal
+s_2424,"Oral lesions, recurrent",Recurrent lesions in the mouth,both,Signs and symptoms,normal
+s_2416,"Oral lesions, red",Red lesions in the mouth,both,Signs and symptoms,normal
+s_2413,"Oral lesions, well demarcated borders",Lesions in mouth with raised borders,both,Signs and symptoms,normal
+s_1673,"Oral lesions, white plaques",White patches inside the mouth,both,Signs and symptoms,normal
+s_868,Orbicularis oris muscle spasm,Orbicularis oris muscle spasm,both,Signs and symptoms,normal
+s_844,Organic cause,Organic cause,both,Signs and symptoms,normal
+s_541,Orthostatic hypotension,Dizzy or lightheaded after standing up,both,Signs and symptoms,normal
+s_1719,Osler nodes,Osler nodes,both,Signs and symptoms,normal
+s_2257,Other type of contact with COVID-19 case,Other type of contact with COVID-19 positive person,both,Signs and symptoms,normal
+s_1289,Ovarian enlargement,Ovarian enlargement,female,Signs and symptoms,normal
+s_1110,Overbite,Overbite,both,Signs and symptoms,normal
+s_371,Overworked,Working too much,both,Signs and symptoms,normal
+s_1180,Pain behind ear,Pain behind ear,both,Signs and symptoms,normal
+s_1382,Pain caused by firm pressure on tibia,Pain caused by firm pressure on tibia,both,Signs and symptoms,normal
+s_1453,Pain in both lower limbs,Pain in both lower limbs,both,Signs and symptoms,normal
+s_2092,"Pain in both lower limbs, both feet",Pain in both feet,both,Signs and symptoms,normal
+s_1112,"Pain in both lower limbs, stocking distribution",Pain in both lower limbs with stocking distribution,both,Signs and symptoms,normal
+s_1452,Pain in both upper limbs,Pain in both upper limbs,both,Signs and symptoms,normal
+s_2091,"Pain in both upper limbs, both hands",Pain in both hands,both,Signs and symptoms,normal
+s_2402,Pain in front of ear,Pain in front of ear,both,Signs and symptoms,normal
+s_1250,"Pain in groin during coughing, sneezing, laughing, or physical exercises","Pain in groin during coughing, sneezing, laughing, or physical exercises",both,Signs and symptoms,serious
+s_579,Pain in lower limb,Pain in lower limb,both,Signs and symptoms,normal
+s_1927,"Pain in lower limb, limping due to pain",Limping due to pain,both,Signs and symptoms,normal
+s_1930,"Pain in lower limb, severe",Severe pain in lower limb,both,Signs and symptoms,normal
+s_2335,"Pain in lower limb, shin",Shin pain,both,Signs and symptoms,normal
+s_1893,"Pain in lower limb, thigh",Thigh pain,both,Signs and symptoms,normal
+s_430,Pain in temporomandibular joint during movement,Pain in jaw during movement,both,Signs and symptoms,normal
+s_580,Pain in upper limb,Pain in upper limb,both,Signs and symptoms,normal
+s_1799,"Pain in upper limb, forearm",Pain in forearm,both,Signs and symptoms,normal
+s_554,"Pain in upper limb, hand or fingers",Pain in hand or fingers,both,Signs and symptoms,normal
+s_1313,"Pain in upper limb, one finger",Pain in one finger,both,Signs and symptoms,normal
+s_1935,"Pain in upper limb, severe",Severe pain in upper limb,both,Signs and symptoms,normal
+s_54,Pain near eye socket,Pain around or behind eye,both,Signs and symptoms,normal
+s_1393,Painful defecation,Pain when defecating,both,Signs and symptoms,normal
+s_33,Painful ejaculation,Pain when ejaculating,male,Signs and symptoms,serious
+s_32,Painful intercourse,Painful sex,female,Signs and symptoms,normal
+s_39,Painful urination,Pain when urinating,both,Signs and symptoms,normal
+s_1371,Palatine petechiae,Pinpoint-size red dots on soft part of roof of mouth,both,Signs and symptoms,normal
+s_10,Pale and brittle nails,Pale and brittle nails,both,Signs and symptoms,normal
+s_569,Pale or clay-coloured stool,Pale or clay-coloured stool,both,Signs and symptoms,normal
+s_9,Pale skin,Pale skin,both,Signs and symptoms,normal
+s_2282,"Pale skin, fingers",Pale fingers,both,Signs and symptoms,normal
+s_110,Palpitations,Palpitations,both,Signs and symptoms,normal
+s_2002,"Palpitations, lasting more than 5 minutes",Palpitations lasting more than 5 minutes,both,Signs and symptoms,serious
+s_2004,"Palpitations, recurrent",Recurrent palpitations,both,Signs and symptoms,normal
+s_722,Panic attacks in public or when talking to strangers,Panic attacks in public or when talking to strangers,both,Signs and symptoms,normal
+s_803,Papilledema,Papilledema,both,Signs and symptoms,normal
+s_838,Paralogical thinking,Paralogical thinking,both,Signs and symptoms,normal
+s_1496,Paranasal sinuses tenderness,Paranasal sinuses tender to palpation,both,Signs and symptoms,normal
+s_2206,Paraphimosis,Retracted foreskin,male,Signs and symptoms,emergency
+s_1486,Paraspinal muscle tenderness,Paraspinal muscle tenderness,both,Signs and symptoms,normal
+s_744,"Paresis, ascending",Ascending muscle weakness,both,Signs and symptoms,serious
+s_2326,"Paresis, both lower limbs",Difficulty moving both lower limbs,both,Signs and symptoms,normal
+s_2343,"Paresis, both upper limbs",Difficulty moving both upper limbs,both,Signs and symptoms,normal
+s_1005,"Paresis, hemiparesis",Weakness of one side of the body,both,Signs and symptoms,serious
+s_148,"Paresis, limbs",Limb weakness,both,Signs and symptoms,normal
+s_2346,"Paresis, limbs, lasting between 24 hours and 4 weeks",Limb weakness lasting between 24 hours and 4 weeks,both,Signs and symptoms,normal
+s_2345,"Paresis, limbs, lasting less than 24 hours",Limb weakness lasting less than 24 hours,both,Signs and symptoms,normal
+s_2347,"Paresis, limbs, lasting more than 4 weeks",Limb weakness lasting more than 4 weeks,both,Signs and symptoms,normal
+s_2340,"Paresis, limbs, other","Paresis, limbs, other",both,Signs and symptoms,serious
+s_2339,"Paresis, limbs, tetraparesis",Weakness of all limbs,both,Signs and symptoms,normal
+s_2331,"Paresis, localised",Localised muscle weakness,both,Signs and symptoms,normal
+s_2318,"Paresis, one lower limb",Difficulty moving one lower limb,both,Signs and symptoms,normal
+s_2342,"Paresis, one upper limb",Difficulty moving one upper limb,both,Signs and symptoms,normal
+s_518,Paresthesia,Tingling or numbness,both,Signs and symptoms,normal
+s_1066,"Paresthesia in both upper limbs, glove distribution","Paresthesia in both upper limbs, glove distribution",both,Signs and symptoms,normal
+s_126,"Paresthesia, around the mouth",Tingling or numbness around the mouth,both,Signs and symptoms,normal
+s_1069,"Paresthesia, ascending",Ascending tingling or numbness,both,Signs and symptoms,normal
+s_125,"Paresthesia, both feet",Feet tingling or numbness,both,Signs and symptoms,normal
+s_1063,"Paresthesia, both lower limbs",Tingling or numbness of both lower limbs,both,Signs and symptoms,normal
+s_973,"Paresthesia, both upper limbs",Tingling or numbness of both upper limbs,both,Signs and symptoms,normal
+s_971,"Paresthesia, face",Face tingling or numbness,both,Signs and symptoms,normal
+s_2306,"Paresthesia, lower limbs",Tingling and numbness of lower limbs,both,Signs and symptoms,normal
+s_2315,"Paresthesia, one foot",Foot tingling or numbness,both,Signs and symptoms,normal
+s_2001,"Paresthesia, one lower limb",Tingling or numbness in one lower limb,both,Signs and symptoms,normal
+s_1449,"Paresthesia, one upper limb",Tingling or numbness of one upper limb,both,Signs and symptoms,normal
+s_1932,"Paresthesia, sudden onset",Sudden onset of tingling or numbness,both,Signs and symptoms,normal
+s_2304,"Paresthesia, upper limbs",Tingling and numbness of upper limbs,both,Signs and symptoms,normal
+s_1068,"Paresthesias, symmetrical",Symmetrical paresthesias,both,Signs and symptoms,normal
+s_529,Parotid swelling,Parotid swelling,both,Signs and symptoms,serious
+s_1800,Past appendectomy,Appendix removal in the past,both,Other,normal
+s_1801,Past cholecystectomy,Gallbladder removal in the past,both,Other,normal
+s_1715,Pathologic fractures,Broken bone not caused by trauma,both,Signs and symptoms,normal
+s_795,Pencil-thin stools,Pencil-thin stools,both,Signs and symptoms,serious
+s_2043,Penile itching,Itchy penis,male,Signs and symptoms,normal
+s_1380,Pericardial friction rub,Pericardial friction rub,both,Signs and symptoms,normal
+s_1312,Perionychial pain,Pain of the skin around the nail,both,Signs and symptoms,normal
+s_2084,Periorbital ecchymosis,Bruising around the eyes,both,Signs and symptoms,serious
+s_1018,Perseveration,Perseveration,both,Signs and symptoms,serious
+s_348,Personality changes,Personality changes,both,Signs and symptoms,normal
+s_594,Petechiae,Small red spots not fading under pressure,both,Signs and symptoms,normal
+s_1367,Pharyngeal erythema,Red throat,both,Signs and symptoms,normal
+s_20,Pharyngeal pain,Sore throat,both,Signs and symptoms,normal
+s_1826,"Pharyngeal pain, unilateral",One-sided sore throat,both,Signs and symptoms,normal
+s_2461,Pharyngeal swelling,Throat swelling,both,Signs and symptoms,normal
+s_263,Phimosis,Difficulty retracting foreskin,male,Signs and symptoms,normal
+s_915,Phobia,Irrational fear,both,Signs and symptoms,normal
+s_2088,Physical injury,Injury,both,Other,normal
+s_281,"Physical injury, to self or others after drinking alcohol",Injury to self or others after drinking alcohol,both,Signs and symptoms,normal
+s_1437,Pleural effusion,Pleural effusion,both,Signs and symptoms,serious
+s_1396,Pleural friction rub,Pleural friction rub,both,Signs and symptoms,normal
+s_2112,"Pleuritic chest pain, after trauma",Sudden and sharp chest pain after an injury,both,Signs and symptoms,emergency
+s_75,Polyuria,Passing more urine than usual in a day,both,Signs and symptoms,normal
+s_770,Poor personal hygiene,Poor personal hygiene,both,Signs and symptoms,normal
+s_1093,Positive allergy challenge,Positive allergy challenge,both,Signs and symptoms,normal
+s_1092,Positive prick or patch skin allergy test,Positive prick or patch skin allergy test,both,Signs and symptoms,normal
+s_2175,Possible rabies exposure,Possible rabies exposure,both,Signs and symptoms,serious
+s_1471,Postnasal drip,Mucus dripping at the back of the throat,both,Signs and symptoms,normal
+s_225,Premature greying,Premature greying,both,Signs and symptoms,normal
+s_69,Preoccupation with food,Preoccupation with food,both,Signs and symptoms,normal
+s_1323,Presence of neurofibromas,Presence of neurofibromas,both,Signs and symptoms,normal
+s_1162,Pretibial myxedema,Pretibial myxedema,both,Signs and symptoms,normal
+s_1397,Priapism,Prolonged erection,male,Signs and symptoms,serious
+s_123,Problems with everyday tasks,"Problems with everyday tasks such as washing, eating, or dressing",both,Signs and symptoms,normal
+s_593,Prolonged bleeding time,Prolonged bleeding time,both,Signs and symptoms,normal
+s_777,Prolonged nighttime sleep,Prolonged nighttime sleep,both,Signs and symptoms,normal
+s_1089,Prostate enlargement,Prostate enlargement,male,Signs and symptoms,serious
+s_254,Pruritus,Itching,both,Signs and symptoms,normal
+s_251,"Pruritus, aggravated by change in temperature, sweating, or wearing wool","Itching aggravated by changes in temperature, sweat, or wearing wool",both,Signs and symptoms,normal
+s_2033,"Pruritus, foot",Itchy foot,both,Signs and symptoms,normal
+s_250,"Pruritus, most intense at night",Itching most intense at night,both,Signs and symptoms,normal
+s_1617,"Pruritus, scalp",Itchy scalp,both,Signs and symptoms,normal
+s_1548,Pseudomembrane in nose or throat,Thick grey layer in nose or throat,both,Signs and symptoms,serious
+s_649,Psychomotor retardation,Psychomotor retardation,both,Signs and symptoms,normal
+s_653,Pupil dilation variation,Pupil dilation variation,both,Signs and symptoms,normal
+s_1238,Pupil or pupils unreactive to accommodation,Pupil or pupils unreactive to accommodation,both,Signs and symptoms,normal
+s_762,Purpuric rash,Small red or purple spots not fading under pressure,both,Signs and symptoms,serious
+s_1915,"Purpuric rash, palpable",Small red or purple spots that can be felt,both,Signs and symptoms,emergency
+s_2212,Purulent vaginal discharge,Purulent vaginal discharge,female,Signs and symptoms,normal
+s_1315,Pus under the skin of the finger,Pus under the skin of the finger,both,Signs and symptoms,serious
+s_388,Pustule,Small bumps less than 1 cm filled with pus,both,Signs and symptoms,normal
+s_989,Pyramidal signs,Pyramidal signs,both,Signs and symptoms,emergency
+s_637,Quickening of thoughts and speech,Quickening of thoughts and speech,both,Signs and symptoms,normal
+s_779,Rash or impulsive decisions,Making rash or impulsive decisions,both,Signs and symptoms,normal
+s_706,Re-experiencing the psychological trauma in nightmares,Re-experiencing the traumatic event in nightmares,both,Signs and symptoms,normal
+s_705,Re-experiencing the psychological trauma in recurring flashbacks,Re-experiencing the traumatic event in recurring distressing memories,both,Signs and symptoms,normal
+s_708,Re-experiencing the psychological trauma through physiological reactivity,Strong physiological reactions while re-experiencing the traumatic event,both,Signs and symptoms,normal
+s_707,Re-experiencing traumatic event,Re-experiencing traumatic event,both,Signs and symptoms,normal
+s_2351,Reading difficulties,Reading difficulties,both,Signs and symptoms,normal
+s_1494,Rebound tenderness,Rebound tenderness,both,Signs and symptoms,normal
+s_528,Recent alcohol consumption,Recent alcohol consumption,both,Signs and symptoms,normal
+s_2079,Recent injury without bleeding,Recent injury without bleeding,both,Signs and symptoms,normal
+s_2230,"Recent self-injurious behaviour, major",Recent major self-injury,both,Signs and symptoms,emergency
+s_2229,"Recent self-injurious behaviour, minor",Recent minor self-injury,both,Signs and symptoms,serious
+s_142,Recurrent gastric ulcers,Recurrent gastric ulcers,both,Signs and symptoms,normal
+s_139,Recurrent tonsils inflammation,Recurrent tonsils inflammation,both,Signs and symptoms,normal
+s_72,Red and stinging conjunctivae,Red and stinging eyes,both,Signs and symptoms,normal
+s_692,Red and swollen oral mucosa,Red and swollen inside of mouth,both,Signs and symptoms,normal
+s_112,Red coloured stool,Red stool,both,Signs and symptoms,serious
+s_113,Red coloured urine,Red urine,both,Signs and symptoms,normal
+s_492,Red eye,Bloodshot eye,both,Signs and symptoms,normal
+s_384,"Red macules with silver-white, flaky scales","Red skin patches with silver-white, flaky scales",both,Signs and symptoms,normal
+s_73,"Red stretch marks on abdomen, hips, or thighs","Red stretch marks on stomach, hips, or thighs",both,Signs and symptoms,normal
+s_1181,Redness behind the ear,Redness behind the ear,both,Signs and symptoms,normal
+s_1145,Redness in temporal region,Redness around the temple,both,Signs and symptoms,normal
+s_410,Reduced body temperature,Reduced body temperature,both,Signs and symptoms,normal
+s_572,Reduced degree of facial expression,Face lacking expression or animation,both,Signs and symptoms,normal
+s_1713,Reduced range of joint motion,Joint hard to move,both,Signs and symptoms,normal
+s_1903,"Reduced range of joint motion, passive",Reduced range of passive joint motion,both,Signs and symptoms,normal
+s_2008,Regular uterine contractions,Regular uterine contractions,female,Signs and symptoms,serious
+s_330,Regurgitation,Food coming back up into the mouth,both,Signs and symptoms,normal
+s_780,Religious delusion,Religious delusion,both,Signs and symptoms,normal
+s_2076,"Respiratory distress, after trauma",Breathing problems after an injury,both,Signs and symptoms,emergency_ambulance
+s_1463,"Restless legs, nocturnal",Nighttime restless legs,both,Signs and symptoms,normal
+s_186,"Restricted mobility, difficulty bending over",Difficulty bending down,both,Signs and symptoms,normal
+s_1418,Retinal artery occlusions,Retinal artery occlusions,both,Signs and symptoms,normal
+s_1344,Retinal hemorrhage,Retinal hemorrhage,both,Signs and symptoms,normal
+s_1412,Retinal microaneurysms,Retinal microaneurysms,both,Signs and symptoms,normal
+s_1415,Retinal neovascularization elsewhere,Retinal neovascularization elsewhere,both,Signs and symptoms,normal
+s_1414,Retinal swelling,Retinal swelling,both,Signs and symptoms,normal
+s_343,Retraction or indentation of nipple,Change in the nipple,female,Signs and symptoms,normal
+s_1055,Retrobulbar neuritis,Retrobulbar neuritis,both,Signs and symptoms,normal
+s_1533,Rhinitis triggered by environment,Runny or stuffy nose triggered by environment,both,Signs and symptoms,normal
+s_1682,Rhinophyma,Ruddy bulbous nose,both,Signs and symptoms,normal
+s_816,Risky alcohol consumption,Risky drinking,both,Signs and symptoms,normal
+s_1738,Romberg's sign,Romberg's sign,both,Signs and symptoms,normal
+s_1377,Rose spots on lower chest and abdomen,Rose spots on lower chest and abdomen,both,Signs and symptoms,normal
+s_1255,Rossolimo's sign,Rossolimo's sign,both,Signs and symptoms,emergency
+s_1732,Rovsing's sign,Rovsing's sign,both,Signs and symptoms,normal
+s_1141,Russell's sign,Russell's sign,both,Signs and symptoms,normal
+s_1285,Sagging of the palate ipsilateral to suspected nerve damage,Sagging of the palate ipsilateral to suspected nerve damage,both,Signs and symptoms,normal
+s_1544,Scarlet fever rash,Scarlet fever rash,both,Signs and symptoms,normal
+s_1259,Schaeffer's sign,Schaeffer's sign,both,Signs and symptoms,normal
+s_836,Schizophasia,Schizophasia,both,Signs and symptoms,normal
+s_1492,Scleral icterus,Yellow eyes,both,Signs and symptoms,serious
+s_124,Scotoma,Black spots in vision,both,Signs and symptoms,normal
+s_1342,Scrotal transillumination,Scrotal transillumination,male,Signs and symptoms,normal
+s_835,Seasonal pattern of depressive symptoms,Depressive symptoms occurring at the same time every year,both,Signs and symptoms,normal
+s_829,Secret alcohol consumption,Secretly drinking alcohol,both,Signs and symptoms,normal
+s_2045,Seizures,Seizures,both,Signs and symptoms,serious
+s_2209,"Seizures, recurrent",Recurrent seizures,both,Signs and symptoms,serious
+s_189,"Seizures, with loss of consciousness",Seizures with loss of consciousness,both,Signs and symptoms,emergency_ambulance
+s_539,"Seizures, without loss of consciousness",Seizures without loss of consciousness,both,Signs and symptoms,serious
+s_2228,"Self-injurious behaviour, recent",Recent self-injurious behaviour,both,Signs and symptoms,serious
+s_2213,Self-injurious thoughts or behaviours,Self-injurious thoughts or behaviours,both,Signs and symptoms,serious
+s_423,Sense of self-worth dependent on weight,Self-worth based on weight,both,Signs and symptoms,normal
+s_972,Sensory loss in both arms,Loss of feeling in both arms,both,Signs and symptoms,serious
+s_313,Sensory loss in one limb,Loss of feeling in one arm or leg,both,Signs and symptoms,emergency_ambulance
+s_2089,"Serious injury, respiratory difficulty, severe bleeding, new neurological problem","Serious injury, respiratory difficulty, severe bleeding, new neurological problem",both,Other,serious
+s_2081,"Severe pain, after trauma",Severe pain after an injury,both,Signs and symptoms,serious
+s_74,Sexual activity more often or with more partners than intended,Sexual activity more often or with more partners than intended,both,Signs and symptoms,normal
+s_2,Sexual intercourse in recent months,Sexual intercourse in recent months,female,Signs and symptoms,normal
+s_1399,Shafer's sign,Shafer's sign,both,Signs and symptoms,normal
+s_1462,Shallow breathing,Shallow breathing,both,Signs and symptoms,serious
+s_648,Simple auditory paradelusions,Simple auditory paradelusions,both,Signs and symptoms,normal
+s_647,Simple visual paradelusions,Simple visual paradelusions,both,Signs and symptoms,normal
+s_2356,"Single red area, larger than 1 cm",Single red area larger than 1 cm,both,Signs and symptoms,normal
+s_2358,"Single red spot, smaller than 1 cm",Single red spot smaller than 1 cm,both,Signs and symptoms,normal
+s_1470,Skin desquamation,Skin shedding,both,Signs and symptoms,normal
+s_1831,Skin mass,Lumps or bumps,both,Signs and symptoms,normal
+s_1931,"Skin mass, bleeding",Bleeding lump or bump,both,Signs and symptoms,serious
+s_1830,"Skin mass, larger than 1 cm",Lump larger than 1 cm,both,Signs and symptoms,normal
+s_2550,"Skin mass, larger than 1 cm, firm",Firm lump on the skin larger than 1 cm,both,Signs and symptoms,normal
+s_2549,"Skin mass, larger than 1 cm, soft",Soft lump on the skin larger than 1 cm,both,Signs and symptoms,normal
+s_2555,"Skin mass, larger than 1 cm, unknown consistency",Lump of unknown consistency larger than 1 cm,both,Signs and symptoms,normal
+s_2285,"Skin mass, natal cleft",Lump or bump in groove between buttocks,both,Signs and symptoms,normal
+s_101,"Skin mass, smaller than 1 cm",Bump smaller than 1 cm,both,Signs and symptoms,normal
+s_1674,Skin pain,Skin pain,both,Signs and symptoms,normal
+s_43,"Skin pain, severe",Severe skin pain,both,Signs and symptoms,normal
+s_1209,"Skin pallor, sudden",Sudden paleness of skin,both,Signs and symptoms,normal
+s_376,Skin phototype I or II,Light or fair skin that easily burns,both,Signs and symptoms,normal
+s_1650,Skin thickening,Skin thickening,both,Signs and symptoms,normal
+s_2377,Skin wound,Skin wound,both,Signs and symptoms,normal
+s_2398,"Skin wound, after surgery",Surgical wound,both,Signs and symptoms,normal
+s_2379,"Skin wound, non-traumatic ulcer",Ulcer unrelated to an injury,both,Signs and symptoms,normal
+s_2399,"Skin wound, self-inflicted",Self-inflicted wound,both,Signs and symptoms,normal
+s_2378,"Skin wound, trauma-related",Skin wound after injury,both,Signs and symptoms,normal
+s_1474,Skull lesions,Skull lesions,both,Signs and symptoms,normal
+s_319,Sleep disorder,Changes in sleeping patterns or habit,both,Signs and symptoms,normal
+s_238,Slower gait,Slower walk,both,Signs and symptoms,normal
+s_196,"Smoking, during illness",Smoking even when sick,both,Signs and symptoms,normal
+s_265,"Smoking, in non-smoking areas",Smoking in non-smoking areas,both,Signs and symptoms,normal
+s_93,"Smoking, large quantities",Smoking more than 20 cigarettes a day,both,Signs and symptoms,normal
+s_308,"Smoking, mostly in the morning",Smoking mostly in the morning,both,Signs and symptoms,normal
+s_134,"Smoking, need first cigarette of the day",Difficulty not smoking first cigarette of the day,both,Signs and symptoms,normal
+s_327,"Smoking, need when waking up",Smoking as soon as waking up,both,Signs and symptoms,normal
+s_271,Smooth face without wrinkles,Smooth face without wrinkles,both,Signs and symptoms,normal
+s_715,Sneezing,Sneezing,both,Signs and symptoms,normal
+s_136,Sneezing attacks,Sneezing fits,both,Signs and symptoms,normal
+s_67,Snoring,Snoring,both,Signs and symptoms,normal
+s_659,Social isolation,Social isolation,both,Signs and symptoms,normal
+s_773,Social maladjustment,Social maladjustment,both,Signs and symptoms,normal
+s_1242,Soft lump in inguinal region,Soft lump in groin,both,Signs and symptoms,normal
+s_1244,"Soft lump in inguinal region, decreasing when supine",Soft lump in groin gets smaller when lying down,both,Signs and symptoms,normal
+s_1243,"Soft lump in inguinal region, increasing with increased abdominal pressure",Soft lump gets bigger with increase in abdominal pressure,both,Signs and symptoms,normal
+s_1245,"Soft lump in inguinal region, reducible",Soft lump in groin can be pushed back in groin,both,Signs and symptoms,normal
+s_1347,Soft retinal exudates,Soft retinal exudates,both,Signs and symptoms,normal
+s_1426,Spasms in upper extremities,Spasms in arms or hands,both,Signs and symptoms,normal
+s_571,Spasticity,Tight and spasming muscles,both,Signs and symptoms,normal
+s_2290,"Speech and language impairment, rapid onset",Recent speech and language difficulties,both,Signs and symptoms,serious
+s_213,Spending a lot of time on sex-related activity,Spending a lot of time on sex-related activity,both,Signs and symptoms,normal
+s_1536,Spine asymmetry,Spine asymmetry,both,Signs and symptoms,normal
+s_257,Spine stiffness in the morning,Stiff spine in the morning,both,Signs and symptoms,normal
+s_1045,Splenomegaly,Enlarged spleen,both,Signs and symptoms,serious
+s_1434,Steatorrhea,Fatty stools,both,Signs and symptoms,normal
+s_1270,Sterling's sign,Sterling's sign,both,Signs and symptoms,normal
+s_1381,Sternal rub,Sternal rub,both,Signs and symptoms,normal
+s_418,Stiff neck,Stiff neck,both,Signs and symptoms,normal
+s_1260,Stransky's sign,Stransky's sign,both,Signs and symptoms,normal
+s_1467,Strawberry tongue,Strawberry tongue,both,Signs and symptoms,normal
+s_1275,Strumpell's sign,Strumpell's sign,both,Signs and symptoms,serious
+s_2291,Subungual splinter hemorrhages,Small red spots or lines under the nail,both,Signs and symptoms,normal
+s_1067,Sudden face flushing,Sudden face flushing,both,Signs and symptoms,normal
+s_530,Sudden increase in blood pressure,Sudden increase in blood pressure,both,Signs and symptoms,serious
+s_1139,Suicidal thoughts,Suicidal thoughts,both,Signs and symptoms,serious
+s_1140,Suicidal thoughts with plan and steps taken,Suicidal thoughts with plan and steps taken,both,Signs and symptoms,emergency_ambulance
+s_1943,Sunburn,Sunburn,both,Signs and symptoms,normal
+s_2407,Suspicion of intoxication or poisoning,Possible intoxication or poisoning,both,Signs and symptoms,serious
+s_383,Suspicious mole or birthmark,Suspicious mole or birthmark,both,Signs and symptoms,normal
+s_380,"Suspicious mole or birthmark, asymmetrical",Asymmetric mole or birthmark,both,Signs and symptoms,normal
+s_585,"Suspicious mole or birthmark, change in colour",Change in colour of mole or birthmark,both,Signs and symptoms,normal
+s_584,"Suspicious mole or birthmark, change in shape",Change in shape of mole or birthmark,both,Signs and symptoms,normal
+s_381,"Suspicious mole or birthmark, irregular border",Mole or birthmark with irregular border,both,Signs and symptoms,normal
+s_382,"Suspicious mole or birthmark, larger than 6 mm",Mole or birthmark larger than 6 mm,both,Signs and symptoms,normal
+s_2300,Swallowed foreign body,Swallowed object,both,Signs and symptoms,emergency
+s_214,Sweating on painful side of forehead,Sweating on painful side of forehead,both,Signs and symptoms,normal
+s_1182,Swelling in the mastoid region,Swelling behind ear,both,Signs and symptoms,normal
+s_1099,Swelling of nasal concha,Swelling of nasal concha,both,Signs and symptoms,normal
+s_1097,Swelling of nasal mucosa,Swelling of nasal mucosa,both,Signs and symptoms,normal
+s_1144,Swelling of temporal artery,Swelling of temporal artery,both,Signs and symptoms,normal
+s_1098,Swollen blue or bluish-gray nasal mucosa,Swollen blue or bluish-gray nasal mucosa,both,Signs and symptoms,normal
+s_177,Swollen cheek,Swollen cheek,both,Signs and symptoms,normal
+s_172,Swollen gums,Swollen gums,both,Signs and symptoms,normal
+s_162,Symptoms appearing after taking painkillers or a change in diet,Symptoms appearing after taking painkillers or a change in diet,both,Signs and symptoms,normal
+s_558,Symptoms exacerbated by low temperature,Symptoms worse in the cold,both,Signs and symptoms,normal
+s_161,Symptoms regularly appearing a few days before menstrual period,Symptoms regularly appearing a few days before period,female,Signs and symptoms,normal
+s_261,Tachycardia,Fast heart rate,both,Signs and symptoms,normal
+s_227,Tachypnea,Accelerated breathing,both,Signs and symptoms,serious
+s_1153,"Taste disorder, anterior two-thirds of tongue",Taste disorder in anterior two-thirds of tongue,both,Signs and symptoms,normal
+s_1096,Taste disorders,Abnormal or loss of taste,both,Signs and symptoms,normal
+s_545,Telangiectasias,Spider veins,both,Signs and symptoms,normal
+s_1685,"Telangiectasias, face",Spider veins on the face,both,Signs and symptoms,normal
+s_1465,Temporary blindness,Temporary blindness,both,Signs and symptoms,emergency
+s_2410,Tenderness in the scrotum,Pain when pressing scrotum,male,Signs and symptoms,serious
+s_640,Tenesmus,Feeling of incomplete defecation,both,Signs and symptoms,normal
+s_1114,Terry's nails,Terry's nails,both,Signs and symptoms,normal
+s_1117,Testicular atrophy,Shrinking or diminishing of both testicles,male,Signs and symptoms,normal
+s_1790,Thickened nails,Thickened nails,both,Signs and symptoms,normal
+s_386,"Thickened nails, with pits or grooves",Thickened nails with pits or grooves,both,Signs and symptoms,normal
+s_2039,Third-degree burn,Full-thickness skin burn,both,Signs and symptoms,emergency
+s_728,Thoughts of harming one's child,Thoughts of harming one's child,female,Signs and symptoms,serious
+s_729,Thoughts of killing one's child,Thoughts of killing one's child,female,Signs and symptoms,serious
+s_555,Tingling fingers,Tingling fingers,both,Signs and symptoms,normal
+s_1899,"Tingling fingers, first three digits","Tingling in the thumb, index and middle finger",both,Signs and symptoms,normal
+s_1900,"Tingling fingers, fourth and fifth digits",Tingling in the ring and little finger,both,Signs and symptoms,normal
+s_407,Tinnitus,Ringing in ears,both,Signs and symptoms,normal
+s_1466,"Tinnitus, pulsatile",Pulsing sound in ears,both,Signs and symptoms,normal
+s_1833,Toe pain,Toe pain,both,Signs and symptoms,normal
+s_673,Tongue enlargement,Swollen tongue,both,Signs and symptoms,normal
+s_607,Tongue erythema,Unusually red tongue,both,Signs and symptoms,normal
+s_995,Tongue muscle atrophy,Shrinkage of tonuge,both,Signs and symptoms,normal
+s_1534,Tonsil stones,White or yellow formations in tonsils,both,Signs and symptoms,normal
+s_1050,Tooth loss,Tooth loss,both,Signs and symptoms,normal
+s_551,Toothache,Toothache,both,Signs and symptoms,normal
+s_56,"Toothache, associated with chewing",Toothache when chewing,both,Signs and symptoms,normal
+s_2432,"Toothache, associated with cold",Toothache associated with cold,both,Signs and symptoms,normal
+s_231,"Toothache, associated with heat",Toothache associated with heat,both,Signs and symptoms,normal
+s_2451,"Toothache, associated with lying down",Toothache when lying down,both,Signs and symptoms,normal
+s_2452,"Toothache, associated with sweet or acidic foods or drinks",Toothache associated with sweet or acidic foods or drinks,both,Signs and symptoms,normal
+s_2485,"Toothache, associated with touch",Toothache associated with touch,both,Signs and symptoms,normal
+s_2491,"Toothache, difficulty determining how many teeth hurt",Difficulty identifying how many teeth hurt,both,Signs and symptoms,normal
+s_267,"Toothache, difficulty determining which tooth hurts",Difficulty identifying which tooth hurts,both,Signs and symptoms,normal
+s_2438,"Toothache, dull",Dull toothache,both,Signs and symptoms,normal
+s_2450,"Toothache, lasting 48 hours or more",Toothache lasting 48 hours or more,both,Signs and symptoms,normal
+s_2456,"Toothache, lasting less than 48 hours",Toothache lasting less than 48 hours,both,Signs and symptoms,normal
+s_2429,"Toothache, mild",Mild toothache,both,Signs and symptoms,normal
+s_2428,"Toothache, moderate",Moderate toothache,both,Signs and symptoms,normal
+s_2441,"Toothache, multiple teeth",Pain in multiple teeth,both,Signs and symptoms,normal
+s_2442,"Toothache, one tooth",Pain in one tooth,both,Signs and symptoms,normal
+s_2449,"Toothache, persistent",Constant toothache,both,Signs and symptoms,normal
+s_2430,"Toothache, provoked",Provoked toothache,both,Signs and symptoms,normal
+s_2443,"Toothache, pulsating",Pulsating toothache,both,Signs and symptoms,normal
+s_2446,"Toothache, radiating",Spreading toothache,both,Signs and symptoms,normal
+s_2545,"Toothache, sensitivity to percussion",Pain associated with tapping a tooth,both,Signs and symptoms,normal
+s_233,"Toothache, severe",Severe toothache,both,Signs and symptoms,normal
+s_2440,"Toothache, sharp",Sharp toothache,both,Signs and symptoms,normal
+s_2431,"Toothache, spontaneous",Spontaneous toothache,both,Signs and symptoms,normal
+s_2433,"Toothache, transient",Transient toothache,both,Signs and symptoms,normal
+s_1100,Transverse furrow on the nose,Transverse furrow on the nose,both,Signs and symptoms,normal
+s_538,Tremors,Muscles trembling,both,Signs and symptoms,normal
+s_87,"Tremors, both hands",Trembling of both hands,both,Signs and symptoms,normal
+s_1421,"Tremors, flapping",Flapping tremors,both,Signs and symptoms,normal
+s_1264,"Tremors, intention",Intention tremors,both,Signs and symptoms,normal
+s_1454,"Tremors, kinetic",Trembling during movement,both,Signs and symptoms,normal
+s_86,"Tremors, one hand",Trembling hand,both,Signs and symptoms,normal
+s_1455,"Tremors, resting",Trembling at rest,both,Signs and symptoms,normal
+s_1765,"Tremors, stress-related",Trembling worsening under stress,both,Signs and symptoms,normal
+s_84,"Tremors, subsides after drinking alcohol",Trembling subsiding after alcohol,both,Signs and symptoms,normal
+s_590,"Tremors, tongue",Trembling of tongue,both,Signs and symptoms,normal
+s_2305,"Tremors, unspecified location",Unknown location of tremors,both,Signs and symptoms,normal
+s_1056,Trigeminal neuralgia,Trigeminal neuralgia,both,Signs and symptoms,normal
+s_256,Trismus,Lockjaw,both,Signs and symptoms,serious
+s_1262,Tromner's sign,Tromner's sign,both,Signs and symptoms,normal
+s_1074,Trophic changes,Trophic changes,both,Signs and symptoms,normal
+s_1076,Trophic ulcer,Trophic ulcer,both,Signs and symptoms,normal
+s_1078,"Trophic ulcer, plantar side of the foot",Trophic ulcer on the plantar side of the foot,both,Signs and symptoms,normal
+s_691,Trouble beginning urination,Trouble beginning urination,both,Signs and symptoms,normal
+s_866,Trousseau sign of latent tetany,Trousseau sign of latent tetany,both,Signs and symptoms,normal
+s_2163,Twisted neck,Twisted neck,both,Signs and symptoms,normal
+s_2119,"Ulcer, completely painless",Painless ulcer,both,Signs and symptoms,normal
+s_194,"Ulcer, nipple","Ulcer, nipple",female,Signs and symptoms,serious
+s_2208,"Ulcer, not healing within 6 weeks",Non-healing ulcers,both,Signs and symptoms,normal
+s_351,"Ulcer, sore, or abscess near the anus","Ulcer, sore, or abscess near the anus",both,Signs and symptoms,normal
+s_2241,Umbilical discharge,Belly button discharge,both,Signs and symptoms,serious
+s_243,Unhealthy weight loss practices,Using methods such as vomiting and starvation diets to lose weight,both,Signs and symptoms,normal
+s_668,Unilateral enophthalmos,One sunken eyeball,both,Signs and symptoms,serious
+s_1586,Unilateral vulval swelling,Labial swelling on one side,female,Signs and symptoms,serious
+s_2251,Unknown heart rate,Unknown pulse,both,Signs and symptoms,normal
+s_2068,Upper limb pallor,Pale arm,both,Signs and symptoms,serious
+s_510,Urethral discharge when pressing the penis,Discharge when pressing penis,male,Signs and symptoms,serious
+s_153,Urinary incontinence,Leaking urine by accident,both,Signs and symptoms,normal
+s_696,Urinary retention,Unable to urinate,both,Signs and symptoms,emergency
+s_690,Urinary urgency,Urgent need to urinate,both,Signs and symptoms,normal
+s_689,Urination in small amounts,Urination in small amounts,both,Signs and symptoms,normal
+s_183,"Urination while coughing, laughing, or during physical exertion","Urination while coughing, laughing, or during physical activity",both,Signs and symptoms,normal
+s_393,Urticaria,Hives,both,Signs and symptoms,normal
+s_2211,"Urticaria, lasting more than 6 weeks",Hives lasting more than 6 weeks,both,Signs and symptoms,normal
+s_791,"Urticaria, triggered by cold",Hives appearing after exposure to cold,both,Signs and symptoms,normal
+s_793,"Urticaria, triggered by heat",Hives appearing after exposure to heat,both,Signs and symptoms,normal
+s_790,"Urticaria, triggered by prolonged pressure on the skin",Hives appearing after exposure to prolonged pressure on the skin,both,Signs and symptoms,normal
+s_789,"Urticaria, triggered by scratching",Hives after scratching,both,Signs and symptoms,normal
+s_1287,Uvula deviation towards unaffected side,Uvula deviation towards unaffected side,both,Signs and symptoms,normal
+s_2338,"Vaginal discharge, grey",Grey vaginal discharge,female,Signs and symptoms,normal
+s_64,"Vaginal discharge, unpleasant odour",Vaginal discharge with unpleasant odour,female,Signs and symptoms,normal
+s_1569,"Vaginal discharge, white and clumpy",White and clumpy vaginal discharge,female,Signs and symptoms,normal
+s_1811,Vaginal dryness,Vaginal dryness,female,Signs and symptoms,normal
+s_2082,Vascular compromise,Limited blood supply past the injury site,both,Signs and symptoms,emergency
+s_1318,Vesicular exanthema of mouth or ear,Blisters around the mouth or ear,both,Signs and symptoms,normal
+s_824,Violating social norms after drinking alcohol,Violating social norms after drinking alcohol,both,Signs and symptoms,normal
+s_1792,Visible head lice on scalp or brush,Visible head lice on scalp or brush,both,Signs and symptoms,normal
+s_1034,Visual agnosia,Visual agnosia,both,Signs and symptoms,serious
+s_494,Visual field narrowing,Tunnel Vision,both,Signs and symptoms,normal
+s_1398,Vitreous hemorrhage,Vitreous hemorrhage,both,Signs and symptoms,serious
+s_305,Vomiting,Vomiting,both,Signs and symptoms,normal
+s_2057,"Vomiting, 7 days or more",Vomiting for a week or more,both,Signs and symptoms,serious
+s_1949,"Vomiting, every time after meal",Vomiting after every meal,both,Signs and symptoms,serious
+s_2056,"Vomiting, less than 7 days",Vomiting for less than a week,both,Signs and symptoms,normal
+s_1365,"Vomiting, more often in the morning",Vomiting more often in the morning,both,Signs and symptoms,normal
+s_801,"Vomiting, projectile",Projectile vomiting,both,Signs and symptoms,emergency
+s_1875,Vulvovaginal burning,Vulvovaginal burning,female,Signs and symptoms,normal
+s_630,Vulvovaginal itching,Vulvovaginal itching,female,Signs and symptoms,normal
+s_776,Waking up early,Waking up early,both,Signs and symptoms,normal
+s_1280,Weak or absent pharyngeal reflex,Weak or absent pharyngeal reflex,both,Signs and symptoms,normal
+s_1348,Weak peripheral pulses,Weak peripheral pulses,both,Signs and symptoms,normal
+s_735,Weak pulse in legs,Weak pulse in legs,both,Signs and symptoms,normal
+s_226,Weight gain,Weight gain,both,Signs and symptoms,normal
+s_285,Weight loss,Weight loss,both,Signs and symptoms,normal
+s_237,"Weight loss, without loss of appetite",Weight loss without loss of appetite,both,Signs and symptoms,normal
+s_1402,Weiss ring,Weiss ring,both,Signs and symptoms,normal
+s_1340,Westphal's sign,Westphal's sign,both,Signs and symptoms,normal
+s_2166,"Wheezing, acute",Sudden wheezing,both,Signs and symptoms,serious
+s_1562,"Wheezing, stridor",Stridor,both,Signs and symptoms,serious
+s_1788,White nail discolouration,White spots on nail,both,Signs and symptoms,normal
+s_1796,White patch on cornea,White spot on cornea,both,Signs and symptoms,serious
+s_1183,Winterbottom's sign,Winterbottom's sign,both,Signs and symptoms,normal
+s_1937,Worms in stool,Worms in stool or around anus,both,Signs and symptoms,normal
+s_1973,"Wound, active bleeding",Active wound bleeding,both,Signs and symptoms,normal
+s_2222,"Wound, lip",Wound on the lip,both,Signs and symptoms,normal
+s_342,Wrinkling or dimpling of skin on breast,Wrinkling or dimpling of skin on breast,female,Signs and symptoms,normal
+s_1910,Wrist drop,Dropping hand,both,Signs and symptoms,serious
+s_2344,Writing difficulties,Writing difficulties,both,Signs and symptoms,normal
+s_613,Xanthelasma,Yellowish deposits on eyelids,both,Signs and symptoms,normal
+s_1561,Xanthoma,Yellowish deposits under skin,both,Signs and symptoms,normal
+s_1789,Yellow nail discolouration,Yellow nails,both,Signs and symptoms,normal
+s_2519,Yellow or green coloured stool,Yellow or green stool,both,Signs and symptoms,normal

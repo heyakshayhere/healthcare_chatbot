@@ -1,0 +1,1364 @@
+name,common_name,disease_specify1,disease_specify2,disease_specify3,sex_filter,category,seriousness
+Abdominal guarding,Abdominal guarding,,,,both,Signs and symptoms,emergency
+Abdominal mass,Lump in stomach,,,,both,Signs and symptoms,normal
+Abdominal pain,"Abdominal pain, unspecified location", unspecified location,,,both,Signs and symptoms,normal
+Abdominal pain,Burning or gnawing stomach pain, burning or gnawing,,,both,Signs and symptoms,normal
+Abdominal pain,Central stomach pain, periumbilical,,,both,Signs and symptoms,normal
+Abdominal pain,Colic stomach pain, colicky,,,both,Signs and symptoms,normal
+Abdominal pain,Cramps before period, premenstrual,,,female,Signs and symptoms,normal
+Abdominal pain,Crampy stomach pain, crampy,,,both,Signs and symptoms,normal
+Abdominal pain,Left side stomach pain, left side,,,both,Signs and symptoms,normal
+Abdominal pain,Localised stomach pain, localised,,,both,Signs and symptoms,normal
+Abdominal pain,Lower left side stomach pain, left lower quadrant,,,both,Signs and symptoms,normal
+Abdominal pain,Lower right side stomach pain, right lower quadrant,,,both,Signs and symptoms,normal
+Abdominal pain,Lower stomach pain, below belly button,,,both,Signs and symptoms,normal
+Abdominal pain,Mild stomach pain, mild,,,both,Signs and symptoms,normal
+Abdominal pain,Moderate stomach pain, moderate,,,both,Signs and symptoms,normal
+Abdominal pain,Painful ovulation, midcycle,,,female,Signs and symptoms,normal
+Abdominal pain,Recurrent stomach pain, recurrent,,,both,Signs and symptoms,normal
+Abdominal pain,Right side stomach pain, right side,,,both,Signs and symptoms,normal
+Abdominal pain,Severe stomach pain, severe,,,both,Signs and symptoms,normal
+Abdominal pain,Sharp and stabbing stomach pain, sharp and stabbing,,,both,Signs and symptoms,normal
+Abdominal pain,Slow and gradual stomach pain, gradual onset,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain,,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain after eating, postprandial,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain improves after bowel movement or passing gas, reduced by defecation or relieving flatulence,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain lasting 2 to 7 days, lasting 2 to 7 days,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain lasting 8 to 14 days, lasting 8 to 14 days,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain lasting less than 2 days, lasting less than 2 days,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain lasting more than 2 weeks, lasting more than 2 weeks,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain not worsening, no exacerbation factor,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain of unspecific character, unknown character,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain on empty stomach, exacerbating on an empty stomach,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain spreading to the left shoulder area, radiating to left shoulder or shoulder blade,,,both,Signs and symptoms,emergency
+Abdominal pain,Stomach pain spreading to the lower or middle back, radiating to lower or middle part of the back,,,both,Signs and symptoms,serious
+Abdominal pain,Stomach pain spreading to the right shoulder area, radiating to right shoulder or shoulder blade,,,both,Signs and symptoms,emergency
+Abdominal pain,Stomach pain worsening after caffeine consumption, exacerbating after caffeine consumption,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain worsens when coughing or moving, exacerbating during coughing or movement,,,both,Signs and symptoms,normal
+Abdominal pain,Stomach pain worsens with deep breath, exacerbating during deep breath,,,both,Signs and symptoms,normal
+Abdominal pain,"Stomach pain, moved to the lower right side", migrating to the right lower quadrant,,,both,Signs and symptoms,emergency
+Abdominal pain,Sudden stomach pain, sudden onset,,,both,Signs and symptoms,normal
+Abdominal pain,Unbearable stomach pain, unbearable,,,both,Signs and symptoms,emergency
+Abdominal pain,Unknown onset of stomach pain, unknown onset,,,both,Signs and symptoms,normal
+Abdominal pain,Upper central stomach pain, epigastric,,,both,Signs and symptoms,normal
+Abdominal pain,Upper left side stomach pain, left upper quadrant,,,both,Signs and symptoms,normal
+Abdominal pain,Upper right side stomach pain, right upper quadrant,,,both,Signs and symptoms,normal
+Abdominal pain,Widespread stomach pain, diffuse,,,both,Signs and symptoms,normal
+Abdominal tenderness,Pain when pressing lower left part of the stomach, left lower quadrant,,,both,Signs and symptoms,normal
+Abdominal tenderness,Pain when pressing lower part of the stomach, hypogastric region,,,both,Signs and symptoms,normal
+Abdominal tenderness,Pain when pressing lower right part of the stomach, right lower quadrant,,,both,Signs and symptoms,normal
+Abdominal tenderness,Pain when pressing the stomach,,,,both,Signs and symptoms,normal
+Abdominal tenderness,Pain when pressing upper left part of the stomach, left upper quadrant,,,both,Signs and symptoms,normal
+Abdominal tenderness,Pain when pressing upper middle part of the stomach, epigastric region,,,both,Signs and symptoms,normal
+Abdominal tenderness,Pain when pressing upper right part of the stomach, right upper quadrant,,,both,Signs and symptoms,normal
+Abnormal vaginal discharge,Abnormal vaginal discharge,,,,female,Signs and symptoms,normal
+Abnormal wound drainage,Abnormal wound drainage,,,,both,Signs and symptoms,normal
+Abscess,"Reddened, swollen and painful skin change",,,,both,Signs and symptoms,normal
+Absence of deep reflexes,Absence of deep reflexes,,,,both,Signs and symptoms,normal
+Achilles tendon hyperreflexia,Achilles tendon hyperreflexia,,,,both,Signs and symptoms,normal
+Acid reflux,Acidic taste in mouth,,,,both,Signs and symptoms,normal
+Activity related to sex despite negative consequences,Activity related to sex despite negative consequences,,,,both,Signs and symptoms,normal
+Adenoid face,Adenoid face,,,,both,Signs and symptoms,normal
+Agitation,Agitation,,,,both,Signs and symptoms,normal
+Agnosia,"Inability to recognize objects, people, sounds, shapes, or smells",,,,both,Signs and symptoms,serious
+Agoraphobia,"Fear of places and situations that might cause panic, helplessness or embarrassment",,,,both,Signs and symptoms,normal
+Agraphia,Loss of writing ability,,,,both,Signs and symptoms,normal
+Alcohol craving,Constant urge to drink alcohol,,,,both,Signs and symptoms,normal
+Alcohol tolerance,Need of higher alcohol quantities to get drunk,,,,both,Signs and symptoms,normal
+Alcohol withdrawal syndrome,Symptoms following  a reduction in alcohol use,,,,both,Signs and symptoms,normal
+Allen-Cleckley sign,Allen-Cleckley sign,,,,both,Signs and symptoms,normal
+Alogia,Poverty of speech,,,,both,Signs and symptoms,normal
+Amenorrhea,Absence of first menstrual period at age 16, primary,,,female,Signs and symptoms,normal
+Amenorrhea,Absence of menstrual period for 1 year or more, secondary, 12 months or more,,female,Signs and symptoms,normal
+Amenorrhea,Absence of menstrual period for more than 3 months, secondary,,,female,Signs and symptoms,normal
+Amusia,Inability to produce or recognize musical sounds,,,,both,Signs and symptoms,normal
+Angular cheilitis,Cracked corners of lips,,,,both,Signs and symptoms,normal
+Anhedonia,Inability to enjoy life,,,,both,Signs and symptoms,normal
+Anhidrosis,Lack of sweating,,,,both,Signs and symptoms,normal
+Anhidrosis,Lack of sweating on one side of the face, face, unilateral,,both,Signs and symptoms,normal
+Anicteric presentation,Anicteric presentation,,,,both,Signs and symptoms,normal
+Anisocoria,Asymmetric pupils,,,,both,Signs and symptoms,emergency
+Annular skin lesions,Ring-shaped skin changes,,,,both,Signs and symptoms,normal
+Anorectal pain,Anorectal pain,,,,both,Signs and symptoms,normal
+Anxiety,Anxiety,,,,both,Signs and symptoms,normal
+Anxiety attack,Anxiety attack,,,,both,Signs and symptoms,normal
+Apathy,"Lack of interest, enthusiasm, or concern",,,,both,Signs and symptoms,normal
+Aphonia,Loss of voice,,,,both,Signs and symptoms,serious
+Appetite for salty foods,Appetite for salty foods,,,,both,Signs and symptoms,normal
+Apraxia,Apraxia,,,,both,Signs and symptoms,emergency
+Ascites,Ascites,,,,both,Signs and symptoms,serious
+Ataxia,Coordination problems for more than 1 year, chronic,,,both,Signs and symptoms,normal
+Ataxia,"Coordination problems since several days, weeks, or months ago", subacute,,,both,Signs and symptoms,serious
+Ataxia,Problems with coordinating movement,,,,both,Signs and symptoms,normal
+Ataxia,Recent coordination problems, acute,,,both,Signs and symptoms,emergency_ambulance
+Audible wheezing,Whistling sound made while breathing,,,,both,Signs and symptoms,serious
+Auditory verbal agnosia,Auditory verbal agnosia,,,,both,Signs and symptoms,emergency
+Auscultative fine crackles over the thorax,Auscultative fine crackles over the thorax,,,,both,Signs and symptoms,normal
+Auscultative rhonchi over the thorax,Auscultative rhonchi over the thorax,,,,both,Signs and symptoms,normal
+Auscultative wheezes over the thorax,Auscultative wheezes over the thorax,,,,both,Signs and symptoms,normal
+Avoiding actions,"Avoiding actions, places, or people that bring back memories of a traumatic experience", places, or people that bring back memories of a traumatic experience,,both,Signs and symptoms,normal
+Avoiding eating in someone else's presence,Avoiding eating in someone else's presence,,,,both,Signs and symptoms,normal
+Avoiding eating or drinking in public,Avoiding eating or drinking in public,,,,both,Signs and symptoms,normal
+Avoiding public appearances,Avoiding public appearances,,,,both,Signs and symptoms,normal
+Avoiding talking to authority figures,Avoiding talking to authority figures,,,,both,Signs and symptoms,normal
+Avoiding thoughts,"Avoiding thoughts, feelings, or conversations related to a traumatic experience", feelings, or conversations related to a traumatic experience,,both,Signs and symptoms,normal
+Axillary or inguinal freckles,Freckles in the groins or armpits,,,,both,Signs and symptoms,normal
+Babinski sign,Babinski sign,,,,both,Signs and symptoms,normal
+Back pain,Back pain,,,,both,Signs and symptoms,normal
+Back pain,Back pain decreases during rest, improves with rest,,,both,Signs and symptoms,normal
+Back pain,Back pain lasting several hours, lasting several hours,,,both,Signs and symptoms,normal
+Back pain,Back pain that comes and goes, recurrent,,,both,Signs and symptoms,normal
+Back pain,Back pain worsening after physical activity, exacerbated by physical exertion,,,both,Signs and symptoms,normal
+Back pain,Back pain worsens by touching or pressing the affected area, worsens on palpation,,,both,Signs and symptoms,normal
+Back pain,Lower back pain, lumbar,,,both,Signs and symptoms,normal
+Back pain,Lower back pain spreading to the back of the thigh or knee, lumbar, radiates to back of the thigh,,both,Signs and symptoms,normal
+Back pain,Lower back pain spreading to the groin, lumbar, radiating to the groin,,both,Signs and symptoms,normal
+Back pain,Lower back pain unknown spreading direction, lumbar, unknown radiating direction,,both,Signs and symptoms,normal
+Back pain,Middle or upper back pain, thoracic,,,both,Signs and symptoms,normal
+Back pain,Nighttime back pain, nocturnal,,,both,Signs and symptoms,normal
+Back pain,Severe back pain, severe,,,both,Signs and symptoms,serious
+Back pain,Sudden back pain, sudden,,,both,Signs and symptoms,normal
+Belching,Burping,,,,both,Signs and symptoms,normal
+Bilateral absence of Achilles tendon reflex,Bilateral absence of Achilles tendon reflex,,,,both,Signs and symptoms,normal
+Bilateral enophthalmos,Both eyes sunken,,,,both,Signs and symptoms,normal
+Bilateral muscle paralysis,Bilateral muscle paralysis,,,,both,Signs and symptoms,emergency
+Bing's sign,Bing's sign,,,,both,Signs and symptoms,normal
+Binge eating,Binge eating,,,,both,Signs and symptoms,normal
+Binge eating,Self-disgust after binge eating, followed by self-disgust,,,both,Signs and symptoms,normal
+Bizarre delusion,Bizarre delusion,,,,both,Signs and symptoms,normal
+Black coloured stool,Black stool,,,,both,Signs and symptoms,normal
+Bladder sphincter dysfunction,Bladder sphincter dysfunction,,,,both,Signs and symptoms,normal
+Bleeding after intercourse,Bleeding after intercourse,,,,female,Signs and symptoms,normal
+Bleeding from anus,Bleeding from anus,,,,both,Signs and symptoms,normal
+Bleeding from anus,Heavy bleeding from anus, heavy,,,both,Signs and symptoms,emergency
+Bleeding from anus,Light bleeding from anus, light,,,both,Signs and symptoms,normal
+Bleeding gums,Bleeding gums,,,,both,Signs and symptoms,normal
+Bleeding into muscles,Bleeding into muscles,,,,both,Signs and symptoms,normal
+Blepharoptosis,Drooping eyelids,,,,both,Signs and symptoms,normal
+Blepharoptosis,Dropping eyelids for more than 7 days, chronic,,,both,Signs and symptoms,normal
+Blepharoptosis,Recent dropping eyelids, acute,,,both,Signs and symptoms,serious
+Blisters,Blisters on the skin or in the mouth,,,,both,Signs and symptoms,normal
+Blisters,Large blisters more than 0.5 cm, bulla,,,both,Signs and symptoms,normal
+Blisters,Small blisters less than 0.5 cm, vesicle,,,both,Signs and symptoms,normal
+Bloating,Bloating,,,,both,Signs and symptoms,normal
+Blood oxygen saturation,Blood oxygen level between 80 and 89%, between 80% and 89%,,,both,Signs and symptoms,emergency_ambulance
+Blood oxygen saturation,Blood oxygen level between 90 and 94%, between 90% and 94%,,,both,Signs and symptoms,emergency
+Blood oxygen saturation,Blood oxygen level lower than 80%, lower than 80%,,,both,Signs and symptoms,emergency_ambulance
+Blood oxygen saturation,Blood oxygen level not measured, not measured,,,both,Signs and symptoms,normal
+Blood oxygen saturation,Normal blood oxygen level, normal,,,both,Signs and symptoms,normal
+Blood oxygen saturation,Sudden worsening of blood oxygen saturation, sudden worsening,,,both,Signs and symptoms,emergency
+Blood pressure,Blood pressure between 140 and 179 mmHg, between 140 and 179 mmHg,,,both,Signs and symptoms,normal
+Blood pressure,Blood pressure not measured, not measured,,,both,Signs and symptoms,normal
+Blood pressure,High blood pressure, elevated,,,both,Signs and symptoms,normal
+Blood pressure,Normal blood pressure, normal or prehypertension,,,both,Signs and symptoms,normal
+Blood pressure,Very high blood pressure, more than 180 mmHg,,,both,Signs and symptoms,serious
+Blunted affect,Blunted affect,,,,both,Signs and symptoms,normal
+Body aches,Body aches,,,,both,Signs and symptoms,normal
+Bone deformation,Bone deformation after a recent injury, post-traumatic,,,both,Signs and symptoms,emergency
+Bone deformation,Bone deformation not associated with a recent trauma, non-traumatic,,,both,Signs and symptoms,normal
+Bone pain,Bone pain,,,,both,Signs and symptoms,normal
+Bone pain,Bone pain lasting less than a week, lasting less than a week,,,both,Signs and symptoms,normal
+Bone pain,Bone pain lasting more than 1 week, lasting more than 1 week,,,both,Signs and symptoms,normal
+Bowel incontinence,Loss of bowel control,,,,both,Signs and symptoms,normal
+Bowel sounds,Decreased bowel sounds, decreased,,,both,Signs and symptoms,normal
+Bowel sounds,Excessive bowel sounds, hyperactive, high-pitched,,both,Signs and symptoms,normal
+Bradycardia,Slow heart rate,,,,both,Signs and symptoms,normal
+Breast asymmetry in size or shape,Asymmetrical breasts,,,,female,Signs and symptoms,normal
+Breast pain or tenderness,Pain or tenderness in both breasts, bilateral,,,both,Signs and symptoms,normal
+Breast pain or tenderness,Pain or tenderness in only one breast, unilateral,,,female,Signs and symptoms,normal
+Broken hair,Broken hair,,,,both,Signs and symptoms,normal
+Brown coloured stool,Brown stool,,,,both,Signs and symptoms,normal
+Brown nail discolouration,Brown nail discolouration,,,,both,Signs and symptoms,normal
+Brudzinski's sign,Brudzinski's sign,,,,both,Signs and symptoms,emergency
+Bruise,Bruise,,,,both,Signs and symptoms,normal
+Bruising after trauma,Bruise after an injury,,,,both,Signs and symptoms,normal
+Bruxism,Teeth grinding,,,,both,Signs and symptoms,normal
+Buccofacial or orofacial apraxia,Buccofacial or orofacial apraxia,,,,both,Signs and symptoms,emergency
+Bulge protruding through vaginal opening,Vaginal bulge,,,,female,Signs and symptoms,normal
+Burning skin,Burning sensation on face, face,,,both,Signs and symptoms,normal
+Burning skin,Burning sensation on skin,,,,both,Signs and symptoms,normal
+Burning tongue,Burning sensation on tongue,,,,both,Signs and symptoms,normal
+Burrows in the skin,Burrows in the skin,,,,both,Signs and symptoms,normal
+Buttocks pain,Buttocks pain,,,,both,Signs and symptoms,normal
+Café au lait macules,At least 6 light brown marks on skin,,,,both,Signs and symptoms,normal
+Calf pain,Pain in calf,,,,both,Signs and symptoms,normal
+Calf pain,Pain in calf during exertion and relieved by rest, severe while walking, intermittent claudication,,both,Signs and symptoms,serious
+Calf pain,Pain in calf just above the heel, above the heel,,,both,Signs and symptoms,normal
+Calf pain,Severe pain in calf while walking, severe while walking,,,both,Signs and symptoms,serious
+Cardiac murmurs,Cardiac murmurs,,,,both,Signs and symptoms,serious
+Carotid bruit,Cervical artery murmur,,,,both,Signs and symptoms,serious
+Ceasing or limiting alcohol consumption,Ceasing or limiting alcohol consumption,,,,both,Signs and symptoms,normal
+Ceasing or limiting opioid intake,Limiting or stopping opioid use,,,,both,Signs and symptoms,normal
+Cervical dystonia,Cervical dystonia,,,,both,Signs and symptoms,normal
+Chaddock's sign,Chaddock's sign,,,,both,Signs and symptoms,normal
+Change in colour of a tooth,Change in colour of a tooth,,,,both,Signs and symptoms,normal
+Change in colour of a tooth,"Change in colour of a tooth, brown", brown,,,both,Signs and symptoms,normal
+Change in colour of a tooth,"Change in colour of a tooth, white", white,,,both,Signs and symptoms,normal
+Change in handwriting,Change in handwriting,,,,both,Signs and symptoms,normal
+Chemical burn,Chemical burn,,,,both,Signs and symptoms,emergency
+Chemosis,Chemosis,,,,both,Signs and symptoms,normal
+Chest pain,Burning chest pain, burning,,,both,Signs and symptoms,normal
+Chest pain,Chest pain,,,,both,Signs and symptoms,normal
+Chest pain,Chest pain behind breastbone, substernal,,,both,Signs and symptoms,normal
+Chest pain,Chest pain continuing after rest, continuing during rest,,,both,Signs and symptoms,normal
+Chest pain,Chest pain during physical activity, during physical exertion,,,both,Signs and symptoms,normal
+Chest pain,Chest pain lasting between 30 minutes and 8 hours, lasting between 30 minutes and 8 hours,,,both,Signs and symptoms,normal
+Chest pain,Chest pain lasting less than 30 minutes, lasting less than 30 minutes,,,both,Signs and symptoms,normal
+Chest pain,Chest pain lasting more than 8 hours, lasting more than 8 hours,,,both,Signs and symptoms,normal
+Chest pain,Chest pain spreading to between the shoulder blades, radiating between shoulder blades,,,both,Signs and symptoms,emergency_ambulance
+Chest pain,Chest pain spreading to the neck, radiating to the neck,,,both,Signs and symptoms,emergency_ambulance
+Chest pain,Chest pain subsiding during rest, subsides during rest,,,both,Signs and symptoms,normal
+Chest pain,Chest pain worsened by stress, exacerbated by stress,,,both,Signs and symptoms,normal
+Chest pain,Chest pain worsening during chest wall movement, exacerbated by chest wall movement,,,both,Signs and symptoms,normal
+Chest pain,Chest pain worsening on palpation of costochondral joints, worsens on palpation of costochondral joints,,,both,Signs and symptoms,normal
+Chest pain,Chest pain worsening when lying down, exacerbating when lying down,,,both,Signs and symptoms,normal
+Chest pain,Chest pain worsening when touching or pressing, worsens on palpation,,,both,Signs and symptoms,normal
+Chest pain,Chest pain worsening with deep breath or cough, exacerbating with deep breath or cough,,,both,Signs and symptoms,normal
+Chest pain,"Chest pain, spreading  to the left upper limb", radiating to left upper limb,,,both,Signs and symptoms,emergency
+Chest pain,Pressing chest pain, pressure,,,both,Signs and symptoms,normal
+Chest pain,Recurrent chest pain, recurrent,,,both,Signs and symptoms,normal
+Chest pain,Severe chest pain, severe,,,both,Signs and symptoms,serious
+Chest pain,Stabbing chest pain, stabbing,,,both,Signs and symptoms,normal
+Chest pain,Sudden chest pain, sudden,,,both,Signs and symptoms,normal
+Chest pain,Widespread chest pain, diffuse,,,both,Signs and symptoms,normal
+Cheyne-Stokes respiration,Cheyne-Stokes respiration,,,,both,Signs and symptoms,emergency
+Chills,Chills,,,,both,Signs and symptoms,normal
+Choking,Choking,,,,both,Signs and symptoms,emergency
+Chorea,Chorea,,,,both,Signs and symptoms,normal
+Chvostek's sign,Chvostek's sign,,,,both,Signs and symptoms,normal
+Clasp-knife spasticity,Clasp-knife spasticity,,,,both,Signs and symptoms,serious
+Claudication in upper leg,Acute thigh or buttock pain appearing during exertion and relieving after short rest,,,,both,Signs and symptoms,normal
+Clearing the throat,Hawking,,,,both,Signs and symptoms,normal
+Clicking or cracking in the jaw when opening or closing the mouth,Clicking or cracking in the jaw when opening or closing the mouth,,,,both,Signs and symptoms,normal
+Clogged ear,Clogged ear,,,,both,Signs and symptoms,normal
+Close contact with COVID-19 case,Close contact with COVID-19 positive person,,,,both,Signs and symptoms,normal
+Close family or friends pointing out excessive drinking,Close family or friends pointing out excessive drinking,,,,both,Signs and symptoms,normal
+Clubfoot,Clubfoot,,,,both,Signs and symptoms,normal
+Coated tonsils,White spots on tonsils,,,,both,Signs and symptoms,normal
+Coating on tongue,White tongue,,,,both,Signs and symptoms,normal
+Cognitive disturbances,Cognitive disturbances,,,,both,Signs and symptoms,normal
+Cogwheel muscle rigidity,Cogwheel muscle rigidity,,,,both,Signs and symptoms,serious
+Cold and clammy skin,Cold and clammy skin,,,,both,Signs and symptoms,normal
+Cold feet and toes,Cold feet and toes,,,,both,Signs and symptoms,normal
+Cold feet and toes,Cold foot, unilateral,,,both,Signs and symptoms,serious
+Cold hands or fingers,Cold hands or fingers,,,,both,Signs and symptoms,normal
+Cold sensitivity,Cold sensitivity,,,,both,Signs and symptoms,normal
+Colour vision deficiency,Colour blind,,,,both,Signs and symptoms,normal
+Coma,Coma,,,,both,Signs and symptoms,emergency
+Complete vision loss,Recent complete vision loss, recent,,,both,Signs and symptoms,emergency
+Compulsive behaviour,Compulsive behaviour,,,,both,Signs and symptoms,normal
+Confabulation,Confabulation,,,,both,Signs and symptoms,normal
+Confusion,Confusion after an injury, after trauma,,,both,Signs and symptoms,emergency
+Consciousness disturbances,Confusion or disorientation,,,,both,Signs and symptoms,normal
+Consciousness disturbances,Disorientation or confusion lasting more than a week, chronic,,,both,Signs and symptoms,normal
+Consciousness disturbances,Disorientation or confusion starting recently, acute,,,both,Signs and symptoms,serious
+Constant need for sex,Constant need for sex,,,,both,Signs and symptoms,normal
+Constipation,Chronic constipation, chronic,,,both,Signs and symptoms,normal
+Constipation,Constipation,,,,both,Signs and symptoms,normal
+Consumption of expired food or drink,Spoiled food or drink consumption,,,,both,Signs and symptoms,normal
+Contentiousness,Causing or likely to cause disagreement,,,,both,Signs and symptoms,normal
+Convergent strabismus,Crossed eyes,,,,both,Signs and symptoms,normal
+Corn or callus,Corn or callus,,,,both,Signs and symptoms,normal
+Corneal reflex weak or absent,Corneal reflex weak or absent,,,,both,Signs and symptoms,normal
+Cornell's sign,Cornell's sign,,,,both,Signs and symptoms,normal
+Cough,Cough,,,,both,Signs and symptoms,normal
+Cough,Cough lasting 3 to 8 weeks, lasting 3 to 8 weeks,,,both,Signs and symptoms,normal
+Cough,Cough lasting less than 3 weeks, lasting less than 3 weeks,,,both,Signs and symptoms,normal
+Cough,Cough lasting more than 8 weeks, lasting more than 8 weeks,,,both,Signs and symptoms,normal
+Cough,Coughing up phlegm, productive,,,both,Signs and symptoms,normal
+Cough,Coughing up phlegm in the morning, productive in the morning,,,both,Signs and symptoms,normal
+Cough,Coughing up pink phlegm, productive with pink, frothy sputum,,both,Signs and symptoms,emergency
+Cough,"Coughing up thick, yellow or green phlegm", productive with yellow or green sputum,,,both,Signs and symptoms,normal
+Cough,Dry cough, dry,,,both,Signs and symptoms,normal
+Cough,Nighttime cough, nocturnal,,,both,Signs and symptoms,normal
+Cough,Severe and sudden coughing attacks, paroxysmal,,,both,Signs and symptoms,normal
+Cough,Wet and dry cough appearing alternately, alternating productivity,,,both,Signs and symptoms,normal
+Creaking joints during movement,Creaking joints during movement,,,,both,Signs and symptoms,normal
+Crenated tongue,Scalloped tongue,,,,both,Signs and symptoms,normal
+Crotch pain,Pain in crotch,,,,both,Signs and symptoms,normal
+Crotch pain,Pain in head of penis, glans penis,,,male,Signs and symptoms,normal
+Crotch pain,Pain in scrotum or testicle, testicular or scrotal,,,male,Signs and symptoms,serious
+Crotch pain,Pain in vagina or vulva, vulvovaginal,,,female,Signs and symptoms,normal
+Crotch pain,Sudden pain in crotch, sudden,,,both,Signs and symptoms,serious
+Current cigarette smoking,Current cigarette smoking,,,,both,Signs and symptoms,normal
+Cyanosis,Bluish-grey coloured skin,,,,both,Signs and symptoms,normal
+Cyanosis,Greyish-blue fingers, fingers,,,both,Signs and symptoms,normal
+Cyanosis under the eyes,Dark circles under eyes,,,,both,Signs and symptoms,normal
+Cystoid macular edema,Cystoid macular edema,,,,both,Signs and symptoms,normal
+Damage to 2 separate areas of innervation,Damage to 2 separate areas of innervation,,,,both,Signs and symptoms,normal
+Dance's sign,Dance's sign,,,,both,Signs and symptoms,emergency
+Dandruff,Dandruff,,,,both,Signs and symptoms,normal
+Darier's sign,Darier's sign,,,,both,Signs and symptoms,normal
+Dark urine,Dark urine,,,,both,Signs and symptoms,normal
+Dark-red spots in optic disc vessels,Dark-red spots in optic disc vessels,,,,both,Signs and symptoms,normal
+Decreased hearing,Decreased hearing,,,,both,Signs and symptoms,normal
+Decreased hearing,Hearing loss with variable intensity and duration, variable intensity and duration,,,both,Signs and symptoms,serious
+Decreased hearing,Progressive hearing loss without fluctuation, progressive hearing loss,,,both,Signs and symptoms,normal
+Decreased hearing,Sudden hearing loss without obvious cause, sudden hearing loss,,,both,Signs and symptoms,serious
+Decreased intensity of breath sounds,Decreased intensity of breath sounds,,,,both,Signs and symptoms,normal
+Decreased intensity of breath sounds,"Decreased intensity of breath sounds, right basilar lung zones", right basilar lung zones,,,both,Signs and symptoms,normal
+Decreased libido,Loss of interest in sex,,,,both,Signs and symptoms,normal
+Decreased motivation,Decreased motivation,,,,both,Signs and symptoms,normal
+Decreased need for sleep,Decreased need for sleep,,,,both,Signs and symptoms,normal
+Decreased pupillary light reflex,Decreased pupillary light reflex,,,,both,Signs and symptoms,normal
+Decreased skin turgor,Decreased skin elasticity,,,,both,Signs and symptoms,serious
+Decreased tongue motility,Difficulty moving tongue,,,,both,Signs and symptoms,normal
+Decreased visual acuity,Decreased vision,,,,both,Signs and symptoms,normal
+Deep filling of treated tooth,Deep filling of treated tooth,,,,both,Signs and symptoms,normal
+Deep tendon reflexes,Decreased deep tendon reflexes, decreased,,,both,Signs and symptoms,normal
+Deep tendon reflexes,Increased deep tendon reflexes, increased,,,both,Signs and symptoms,normal
+Deepening of periodontal pockets,Deepened spaces between the gums and the teeth,,,,both,Signs and symptoms,normal
+Deepening of voice,Deepened voice,,,,female,Signs and symptoms,normal
+Delusion of guilt or sin,Delusion of guilt or sin,,,,both,Signs and symptoms,normal
+Delusion of impoverishment,Delusion of impoverishment,,,,both,Signs and symptoms,serious
+Delusions,Delusions,,,,both,Signs and symptoms,normal
+Delusions of grandeur,Delusions of grandeur,,,,both,Signs and symptoms,serious
+Delusions of influence,Delusions of influence,,,,both,Signs and symptoms,serious
+Delusions of persecution,Delusions of persecution,,,,both,Signs and symptoms,serious
+Delusions of reference,Delusions of reference,,,,both,Signs and symptoms,normal
+Delusions of thought insertion,"Delusions of thought insertion, thought withdrawal, thought broadcasting", thought withdrawal, thought broadcasting,,both,Signs and symptoms,normal
+Demarcation of retinal detachment (pigmented or nonpigmented),Demarcation of retinal detachment (pigmented or nonpigmented),,,,both,Signs and symptoms,normal
+Dennie-Morgan fold,Dennie-Morgan fold,,,,both,Signs and symptoms,normal
+Dental plaque,Fuzzy teeth,,,,both,Signs and symptoms,normal
+Depersonalization,Feeling detached from own body,,,,both,Signs and symptoms,normal
+Depressed mood,Consistently depressed for more than 2 weeks, more than 2 weeks,,,both,Signs and symptoms,normal
+Depressed mood,Depressed mood,,,,both,Signs and symptoms,normal
+Derealization,Feeling detached from one's surroundings,,,,both,Signs and symptoms,normal
+Dermatological changes,Bumps on genitals resembling a cauliflower, on genitals resembling cauliflower,,,both,Signs and symptoms,normal
+Dermatological changes,Changes in the mouth, mouth,,,both,Signs and symptoms,normal
+Dermatological changes,Dark skin changes, hyperpigmentation of the skin,,,both,Signs and symptoms,normal
+Dermatological changes,"Dermatological changes on the hip, thigh, knee, calf, or ankle", lower extremities excluding feet,,,both,Signs and symptoms,normal
+Dermatological changes,"Dermatological changes on the shoulder, arm, forearm, elbow, or wrist", upper extremities excluding hands,,,both,Signs and symptoms,normal
+Dermatological changes,Dermatological changes on the tongue, tongue,,,both,Signs and symptoms,normal
+Dermatological changes,Enlarging or spreading skin changes, spreading,,,both,Signs and symptoms,normal
+Dermatological changes,Painful skin changes, painful,,,both,Signs and symptoms,normal
+Dermatological changes,Painless genital ulcer, located in genital area, chancre,,both,Signs and symptoms,normal
+Dermatological changes,Scab or crust, scabs,,,both,Signs and symptoms,normal
+Dermatological changes,Skin change hot to the touch, hot to the touch,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes,,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes all over the body, entire body,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes appearing or worsening after exposure to sunlight, exacerbated by sunlight exposure,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes forming a line, forming a line,,,both,Signs and symptoms,normal
+Dermatological changes,"Skin changes in direct contact with buttons, fasteners, jewelry, or cosmetics", in direct contact with buttons, fasteners, or cosmetics,both,Signs and symptoms,normal
+Dermatological changes,Skin changes located on the face, located on the face,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes located on trunk, trunk,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes on eyelid, eyelid,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes on feet, feet,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes on hands, hands,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes on or around female genital area, female genital area,,,female,Signs and symptoms,normal
+Dermatological changes,Skin changes on or around genitals, located in the genital area,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes on or around male genital area, male genital area,,,male,Signs and symptoms,normal
+Dermatological changes,Skin changes on specific part of body, localised,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes on the scalp, scalp,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes preceded by pain or itching, preceded by pain or itching,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes recurring during period or infections, recurring during infections or menstrual period,,,female,Signs and symptoms,normal
+Dermatological changes,Skin changes that come and go, with flare-ups and remissions,,,both,Signs and symptoms,normal
+Dermatological changes,"Skin changes with rough, irregular surface", rough and irregular surface,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes worsening after alcohol consumption, exacerbated by alcohol consumption,,,both,Signs and symptoms,normal
+Dermatological changes,Skin changes worsening under stress, aggravated by stress,,,both,Signs and symptoms,normal
+Destructive thoughts towards other people or things,Destructive thoughts towards other people or things,,,,both,Signs and symptoms,serious
+Diarrhea,Diarrhea,,,,both,Signs and symptoms,normal
+Diarrhea,Diarrhea lasting 2 to 14 days, lasting 2 to 14 days,,,both,Signs and symptoms,normal
+Diarrhea,Diarrhea lasting 2 to 4 weeks, lasting 2 to 4 weeks,,,both,Signs and symptoms,serious
+Diarrhea,Diarrhea lasting less than 48 hours, lasting less than 48 hours,,,both,Signs and symptoms,normal
+Diarrhea,Diarrhea lasting more than 4 weeks, lasting more than 4 weeks,,,both,Signs and symptoms,normal
+Diarrhea,Diarrhea that looks like rice water, rice water,,,both,Signs and symptoms,normal
+Diarrhea,Diarrhea with more than 6 stools a day, more than 6 stools a day,,,both,Signs and symptoms,normal
+Diarrhea,"Diarrhea, unknown character", unknown character,,,both,Signs and symptoms,normal
+Diarrhea,Foamy diarrhea, foamy,,,both,Signs and symptoms,normal
+Difference in size of testicles,Difference in size of testicles,,,,male,Signs and symptoms,normal
+Difficulty achieving orgasm,Difficulty achieving orgasm,,,,both,Signs and symptoms,normal
+Difficulty acquiring new information,Difficulty learning new things,,,,both,Signs and symptoms,normal
+Difficulty biting and chewing,Difficulty biting and chewing,,,,both,Signs and symptoms,normal
+Difficulty bonding with infant,Difficulty bonding with baby,,,,both,Signs and symptoms,normal
+Difficulty completely closing eye,Difficulty completely closing eye,,,,both,Signs and symptoms,serious
+Diminished appetite,Diminished appetite,,,,both,Signs and symptoms,normal
+Diminished fear responses,Diminished fear responses,,,,both,Signs and symptoms,normal
+Diminished superficial reflexes,Diminished superficial reflexes,,,,both,Signs and symptoms,normal
+Diplopia,Double vision,,,,both,Signs and symptoms,normal
+Diplopia,Double vision lasting less than 24 hours, lasting less than 24 hours,,,both,Signs and symptoms,emergency
+Diplopia,Double vision lasting more than 24 hours, lasting more than 24 hours,,,both,Signs and symptoms,serious
+Diplopia while looking down and medially,Double vision while looking down and toward the nose,,,,both,Signs and symptoms,serious
+Diplopia while looking in any direction,Double vision while looking in any direction,,,,both,Signs and symptoms,serious
+Diplopia with horizontal image dispersion,Double vision with images appearing side by side,,,,both,Signs and symptoms,serious
+Direct care to COVID-19 case,Direct care to COVID-19 positive person,,,,both,Signs and symptoms,normal
+Discharge from ear,Bleeding from ear, bloody,,,both,Signs and symptoms,serious
+Discharge from ear,Discharge from ear,,,,both,Signs and symptoms,serious
+Discharge from ear,Yellow or green discharge from ear, purulent,,,both,Signs and symptoms,serious
+Discharge from periodontal pockets,Discharge from spaces between the gums and teeth,,,,both,Signs and symptoms,normal
+Discharge from urethra,Discharge from urethra,,,,male,Signs and symptoms,normal
+Discharge in tympanic cavity,Discharge in tympanic cavity,,,,both,Signs and symptoms,normal
+Discharge under foreskin,Discharge under foreskin,,,,male,Signs and symptoms,normal
+Disinhibition,Disinhibition,,,,both,Signs and symptoms,normal
+Disorganised behaviour,Disorganised behaviour,,,,both,Signs and symptoms,normal
+Dissociated sensory loss,Dissociated sensory loss,,,,both,Signs and symptoms,serious
+Distance misjudgment,Problems judging distances,,,,both,Signs and symptoms,normal
+Diurnal mood variation,Mood better in the evening than in the morning,,,,both,Signs and symptoms,normal
+Divergent strabismus,One or both eyes turning outward,,,,both,Signs and symptoms,serious
+Dix-Hallpike maneuver,"Dix-Hallpike maneuver, rotatory nystagmus", rotatory nystagmus,,,both,Signs and symptoms,normal
+Dizziness,Dizziness while turning the head, head rotation,,,both,Signs and symptoms,normal
+Dizziness,Dizzy,,,,both,Signs and symptoms,normal
+Dizziness,Recurrent dizziness, recurrent,,,both,Signs and symptoms,normal
+Dizziness,Unbearable dizziness, unbearable,,,both,Signs and symptoms,emergency
+Dizziness,Vertigo, vertigo,,,both,Signs and symptoms,normal
+Drinking alcohol alone,Drinking alcohol alone,,,,both,Signs and symptoms,normal
+Drinking alcohol at work,Drinking alcohol at work,,,,both,Signs and symptoms,normal
+Drinking alcohol despite awareness of harmful effects,Drinking alcohol despite awareness of harmful effects,,,,both,Signs and symptoms,normal
+Drinking alcohol to ease hangover,Drinking alcohol to ease hangover,,,,both,Signs and symptoms,normal
+Drinking large quantities of alcohol,Drinking large quantities of alcohol,,,,both,Signs and symptoms,normal
+Drinking large quantities of alcohol at one time,Drinking large quantities of alcohol at one time,,,,both,Signs and symptoms,normal
+Drive for muscularity,Desire to be highly muscular,,,,male,Signs and symptoms,normal
+Drooping mouth corner,Drooping mouth corner,,,,both,Signs and symptoms,emergency
+Drop attack,Sudden spontaneous fall,,,,both,Signs and symptoms,serious
+Drunk driving,Drunk driving,,,,both,Signs and symptoms,normal
+Dry,"Dry, cracked skin, bleeding occasionally", cracked skin, bleeding occasionally,,both,Signs and symptoms,normal
+Dry discharge on eyelids,Dry discharge on eyelids,,,,both,Signs and symptoms,normal
+Dry eyes,Dry eyes,,,,both,Signs and symptoms,normal
+Dry mouth,Dry mouth,,,,both,Signs and symptoms,normal
+Dry skin,Dry skin,,,,both,Signs and symptoms,normal
+Dysmenorrhea,Painful periods,,,,female,Signs and symptoms,normal
+Dyspepsia,Indigestion,,,,both,Signs and symptoms,normal
+Dysphagia,Difficulty initiating a swallow, oropharyngeal,,,both,Signs and symptoms,normal
+Dysphagia,Difficulty swallowing,,,,both,Signs and symptoms,normal
+Dysphagia,Feeling of food getting stuck several seconds after swallowing, esophageal,,,both,Signs and symptoms,normal
+Dysphonia,Hoarse voice,,,,both,Signs and symptoms,normal
+Dysphonia,Hoarseness lasting more than 2 weeks, more than 2 weeks,,,both,Signs and symptoms,serious
+Dyspnea,Shortness of breath,,,,both,Signs and symptoms,normal
+Dyspnea,Shortness of breath after a few minutes of walking, after a few minutes of walking,,,both,Signs and symptoms,serious
+Dyspnea,Shortness of breath at rest, at rest,,,both,Signs and symptoms,serious
+Dyspnea,Shortness of breath lasting 1 to 24 hours, lasting 1 to 24 hours,,,both,Signs and symptoms,serious
+Dyspnea,Shortness of breath lasting between 1 day and 1 month, lasting between 1 day and 4 weeks,,,both,Signs and symptoms,serious
+Dyspnea,Shortness of breath lasting more than 4 weeks, lasting more than 4 weeks,,,both,Signs and symptoms,normal
+Dyspnea,Shortness of breath of unknown severity, unknown severity,,,both,Signs and symptoms,serious
+Dyspnea,Shortness of breath on effort, on exertion,,,both,Signs and symptoms,normal
+Dyspnea,Shortness of breath starting within the hour, started 1 hour ago,,,both,Signs and symptoms,serious
+Dyspnea,Shortness of breath that comes and goes, with flare-ups and remissions,,,both,Signs and symptoms,serious
+Dyspnea,Shortness of breath when lying down, orthopnea,,,both,Signs and symptoms,serious
+Dyspnea,Shortness of breath while sleeping, paroxysmal nocturnal,,,both,Signs and symptoms,serious
+Dyspnea,Sudden breathing problems after an injury, acute, after trauma,,both,Signs and symptoms,emergency
+Dyspnea,Sudden worsening of dyspnea, sudden worsening,,,both,Signs and symptoms,emergency
+Dystonia,Dystonia,,,,both,Signs and symptoms,normal
+Ear canal swelling,Swelling inside the ear,,,,both,Signs and symptoms,normal
+Earache,Earache,,,,both,Signs and symptoms,normal
+Earache,Pain when pressing area around the ear, tenderness around the ear,,,both,Signs and symptoms,normal
+Easy bruising,Easy bruising,,,,both,Signs and symptoms,normal
+Edema,Daytime swelling, daytime,,,both,Signs and symptoms,normal
+Edema,Hip swelling, hip joint,,,both,Signs and symptoms,normal
+Edema,Pitting edema, pitting,,,both,Signs and symptoms,normal
+Edema,Swelling,,,,both,Signs and symptoms,normal
+Edema,Swelling around the eyes, periorbital,,,both,Signs and symptoms,normal
+Edema,Swelling dependent on the position of the body, dependent on the body position,,,both,Signs and symptoms,normal
+Edema,Swelling in the middle of the chest, costochondral junctions,,,both,Signs and symptoms,normal
+Edema,Swelling of the upper limb, upper limb,,,both,Signs and symptoms,normal
+Edema,Swollen ankle, one ankle,,,both,Signs and symptoms,normal
+Edema,Swollen ankles, both ankles,,,both,Signs and symptoms,normal
+Edema,Swollen elbow, elbow joint,,,both,Signs and symptoms,normal
+Edema,Swollen face, face,,,both,Signs and symptoms,normal
+Edema,Swollen feet, both feet,,,both,Signs and symptoms,normal
+Edema,Swollen finger, finger,,,both,Signs and symptoms,normal
+Edema,Swollen foot, one foot,,,both,Signs and symptoms,normal
+Edema,Swollen hand, one hand,,,both,Signs and symptoms,normal
+Edema,Swollen hands, both hands,,,both,Signs and symptoms,normal
+Edema,Swollen knee, knee joint,,,both,Signs and symptoms,normal
+Edema,Swollen leg, one lower limb,,,both,Signs and symptoms,normal
+Edema,Swollen legs, both lower limbs,,,both,Signs and symptoms,normal
+Edema,Swollen lips, lip,,,both,Signs and symptoms,normal
+Edema,Swollen neck, neck,,,both,Signs and symptoms,normal
+Edema,Swollen nose, nose,,,both,Signs and symptoms,normal
+Edema,Swollen penis, penis,,,male,Signs and symptoms,normal
+Edema,Swollen scrotum, scrotum,,,male,Signs and symptoms,serious
+Edema,Swollen shoulder, shoulder joint,,,both,Signs and symptoms,normal
+Edema,Swollen toe, toe,,,both,Signs and symptoms,normal
+Edema,Swollen wrist, wrist joint,,,both,Signs and symptoms,normal
+Electrical burn,Electrical burn,,,,both,Signs and symptoms,emergency
+Elevated mood,Elevated mood,,,,both,Signs and symptoms,normal
+Enamel hypoplasia,Enamel hypoplasia,,,,both,Signs and symptoms,normal
+Enamel lesions,Cavities, caries,,,both,Signs and symptoms,normal
+Enamel lesions,Spots on tooth, spots,,,both,Signs and symptoms,normal
+Enamel lesions,Tooth lesion,,,,both,Signs and symptoms,normal
+Enlarged axillary lymph nodes,Enlarged lymph nodes in the armpit,,,,both,Signs and symptoms,serious
+Enlarged breasts,Enlarged breasts,,,,female,Signs and symptoms,normal
+Enlarged cervical lymph nodes,Enlarged lymph nodes in the neck,,,,both,Signs and symptoms,normal
+Enlarged front of neck,Swollen front of neck,,,,both,Signs and symptoms,normal
+Enlarged kidneys,Enlarged kidneys,,,,both,Signs and symptoms,serious
+Enlarged lymph nodes,Enlarged lymph nodes,,,,both,Signs and symptoms,normal
+Enlarged salivary glands,Enlarged salivary glands,,,,both,Signs and symptoms,serious
+Enlarged side of neck,Swollen side of neck,,,,both,Signs and symptoms,normal
+Enlarged vein of limb,"Enlarged vein of limb, chest or abdomen", chest or abdomen,,,both,Signs and symptoms,normal
+Enlarged whole neck,Swollen whole neck,,,,both,Signs and symptoms,normal
+Enlargement of hands,"Enlargement of hands, feet, or face", feet, or face,,both,Signs and symptoms,normal
+Enlargement of palatine tonsil,Swollen throat on one side, unilateral,,,both,Signs and symptoms,normal
+Enlargement of palatine tonsils,Swelling on both sides of throat, bilateral,,,both,Signs and symptoms,normal
+Enlargement of the lymphoid tissue in the pharynx,Enlargement of the lymphoid tissue in the pharynx,,,,both,Signs and symptoms,normal
+Erectile dysfunction,Erectile dysfunction,,,,male,Signs and symptoms,normal
+Erythema,Red finger, finger,,,both,Signs and symptoms,normal
+Erythema,Red hand, hand,,,both,Signs and symptoms,normal
+Erythema,Red patches on scalp, scalp,,,both,Signs and symptoms,normal
+Erythema,Red skin on arms or legs, limb,,,both,Signs and symptoms,normal
+Erythema,Red skin on face, facial,,,both,Signs and symptoms,normal
+Erythema,Red skin on palms, palmar,,,both,Signs and symptoms,normal
+Erythema,Red toe, toe,,,both,Signs and symptoms,normal
+Erythema,Reddened foreskin or head of the penis, foreskin or head of the penis,,,male,Signs and symptoms,normal
+Erythema,Reddened vulva, vulva,,,female,Signs and symptoms,normal
+Erythema,Redness and scaling on almost the entire body, large portion of body,,,both,Signs and symptoms,serious
+Erythema,Redness around eyes, around eyes,,,both,Signs and symptoms,normal
+Erythema,Redness of skin,,,,both,Signs and symptoms,normal
+Erythema,Redness of skin over joint, joint,,,both,Signs and symptoms,normal
+Erythema,Redness on the shoulders and the back of the neck, shoulders and nape of neck,,,both,Signs and symptoms,normal
+Erythema,Redness only on the cheeks and nose, facial, butterfly-shaped,,both,Signs and symptoms,normal
+Erythema,Unspecified redness of the skin, unspecified,,,both,Signs and symptoms,normal
+Erythema,V-shaped redness on the chest, V-shaped on chest,,,both,Signs and symptoms,normal
+Erythema migrans,Expanding red spot with regular skin or clearing in the middle,,,,both,Signs and symptoms,serious
+Erythematous tonsils,Unusually red tonsils,,,,both,Signs and symptoms,normal
+Excess hair growth,Excessive hair,,,,female,Signs and symptoms,normal
+Excessive fear in public situations,Excessive fear in public situations,,,,both,Signs and symptoms,normal
+Excessive saliva production,Excessive salivation,,,,both,Signs and symptoms,normal
+Excessive sweating,Excessive sweating,,,,both,Signs and symptoms,normal
+Excessive tear production,Watery eyes,,,,both,Signs and symptoms,normal
+Excessive worry about the health of a child,Excessive worry about the health of a child,,,,female,Signs and symptoms,normal
+Exophthalmos,Protruding eye,,,,both,Signs and symptoms,serious
+Eye discharge,Eye discharge,,,,both,Signs and symptoms,normal
+Eye discharge,Non-purulent eye discharge, thick and clear,,,both,Signs and symptoms,normal
+Eye discharge,Purulent eye discharge, purulent,,,both,Signs and symptoms,serious
+Eye flashes,Eye flashes,,,,both,Signs and symptoms,normal
+Eye pain,Eye pain,,,,both,Signs and symptoms,normal
+Eye pain,Unbearable eye pain, unbearable,,,both,Signs and symptoms,emergency
+Eyelid lesion,Itchy skin changes on eyelid, itching,,,both,Signs and symptoms,normal
+Eyelid lesion,Painful skin changes on eyelid, painful,,,both,Signs and symptoms,normal
+Eyelid lesion,Red and warm skin changes on eyelid, red and warm,,,both,Signs and symptoms,normal
+Eyelid lesion,Red lump with yellow tip on eyelid, red lump with yellow tip,,,both,Signs and symptoms,normal
+Eyelid twitching,Trembling eyelids,,,,both,Signs and symptoms,normal
+Eyes sensitive to light,Light sensitivity,,,,both,Signs and symptoms,normal
+Facial muscle paresis,Facial muscle weakness,,,,both,Signs and symptoms,normal
+Facial muscle paresis,Facial muscle weakness lasting between 24 hours and 4 weeks, lasting between 24 hours and 4 weeks,,,both,Signs and symptoms,serious
+Facial muscle paresis,Facial muscle weakness lasting less than 24 hours, lasting less than 24 hours,,,both,Signs and symptoms,emergency
+Facial muscle paresis,Facial muscle weakness lasting over 4 weeks, lasting over 4 weeks,,,both,Signs and symptoms,normal
+Facial muscle paresis,Facial muscle weakness on one side of face, unilateral,,,both,Signs and symptoms,emergency
+Facial muscle spasms,Facial muscle spasms,,,,both,Signs and symptoms,normal
+Facial pain,Constant face pain, constant,,,both,Signs and symptoms,normal
+Facial pain,Face pain,,,,both,Signs and symptoms,normal
+Facial pain,Face pain lasting longer than a couple of hours, longer than a couple of hours,,,both,Signs and symptoms,normal
+Facial pain,Face pain on one side, unilateral,,,both,Signs and symptoms,normal
+Facial pain,"Face pain triggered by eating, or touching or brushing teeth", triggered by eating, or touching or brushing teeth,,both,Signs and symptoms,normal
+Facial pain,Periodic face pain, periodic,,,both,Signs and symptoms,normal
+Facial pain,Severe face pain, severe,,,both,Signs and symptoms,serious
+Facial pain,Sinus pain or pressure, paranasal sinus,,,both,Signs and symptoms,normal
+Facial pain,Spontaneous face pain, unprovoked,,,both,Signs and symptoms,normal
+Facial pain,Stabbing face pain, stabbing,,,both,Signs and symptoms,serious
+Fatigue,Fatigue,,,,both,Signs and symptoms,normal
+Fatigue,Fatigue lasting more than 6 months, more than 6 months,,,both,Signs and symptoms,normal
+Fatigue,Weakness worsening after exercise, weakness after exercise,,,both,Signs and symptoms,normal
+Fear of ageing,Fear of growing older or ageing,,,,both,Signs and symptoms,normal
+Fear of dying,Fear of dying,,,,both,Signs and symptoms,normal
+Fear of going insane,Fear of going insane,,,,both,Signs and symptoms,normal
+Fear of losing control,Fear of losing control,,,,both,Signs and symptoms,normal
+Fear of obesity,Fear of obesity,,,,both,Signs and symptoms,normal
+Fear of object,Specific fear, situation, action,,both,Signs and symptoms,normal
+Fear of public appearances,Fear of public appearances,,,,both,Signs and symptoms,normal
+Feeling hot,Feeling hot,,,,both,Signs and symptoms,normal
+Feeling of guilt,Feeling of guilt,,,,both,Signs and symptoms,normal
+Feeling of guilt or shame after drinking alcohol,Feeling of guilt or shame after drinking alcohol,,,,both,Signs and symptoms,normal
+Feeling of helplessness,Feeling of helplessness,,,,both,Signs and symptoms,normal
+Feeling of hopelessness,Feeling of hopelessness,,,,both,Signs and symptoms,normal
+Feeling of incomplete evacuation of the bladder,Bladder not emptying completely,,,,both,Signs and symptoms,normal
+Feeling of rectal fullness,Feeling of rectal fullness,,,,both,Signs and symptoms,normal
+Feeling of sand under eyelids,Feeling of sand under eyelids,,,,both,Signs and symptoms,normal
+Feeling of vaginal fullness,Vaginal fullness,,,,female,Signs and symptoms,normal
+Feeling of weight in scrotum,Feeling of weight in scrotum,,,,male,Signs and symptoms,normal
+Feeling overweight despite normal to low weight,Feeling overweight despite normal to low weight,,,,both,Signs and symptoms,normal
+Feeling pressure or pulsation inside the tooth,Feeling pressure or pulsation inside the tooth,,,,both,Signs and symptoms,serious
+Female genital burn,Female genital burn,,,,female,Signs and symptoms,emergency
+Female infertility,Female infertility,,,,female,Signs and symptoms,normal
+Fetal membranes rupture,Smelly or coloured waters, purulent or malodorous amniotic fluid,,,both,Signs and symptoms,emergency
+Fetal membranes rupture,Water breaking,,,,female,Signs and symptoms,emergency
+Fever,Fever,,,,both,Signs and symptoms,normal
+Fever,Fever between 100.4 and 104°F or 38 and 40°C, between 100.4 and 104°F or 38 and 40°C,,,both,Signs and symptoms,normal
+Fever,Fever higher than 104°F or 40°C, higher than 104°F or 40°C,,,both,Signs and symptoms,serious
+Fever,Fever lasting 3 to 7 days, lasting 3 to 7 days,,,both,Signs and symptoms,normal
+Fever,Fever lasting less than 3 days, lasting less than 3 days,,,both,Signs and symptoms,normal
+Fever,Fever lasting more than 7 days, lasting more than 7 days,,,both,Signs and symptoms,serious
+Fever,Fever not measured, temperature not measured,,,both,Signs and symptoms,normal
+Fever,Fever that comes and goes, flare-ups and remissions,,,both,Signs and symptoms,normal
+Fever,Periodic fever, periodic,,,both,Signs and symptoms,serious
+Fever,Subfebrile temperature between 98.6 and 100.4°F or 37 and 38°C, between 98.6 and 100.4°F or 37 and 38°C,,,both,Signs and symptoms,normal
+Financial recklessness,Financial recklessness,,,,both,Signs and symptoms,normal
+Fits of anger,Fits of anger,,,,both,Signs and symptoms,normal
+Flank pain,Pain on sides of body,,,,both,Signs and symptoms,normal
+Flat affect,Flat affect,,,,both,Signs and symptoms,normal
+Flat foot,Flat foot,,,,both,Signs and symptoms,normal
+Foamy urine,Foamy urine,,,,both,Signs and symptoms,normal
+Foot drop,Dropping the front of the foot,,,,both,Signs and symptoms,serious
+Foot pain,Pain in one foot,,,,both,Signs and symptoms,normal
+Foot pain,Pain in the back of foot while standing on toes, pain in back of foot during single-leg heel raise,,,both,Signs and symptoms,normal
+Forward-leaning posture,Forward-leaning posture,,,,both,Signs and symptoms,normal
+Foul-smelling stools,Foul-smelling stools,,,,both,Signs and symptoms,normal
+Frequent infections,Frequent bronchitis, lower respiratory tract,,,both,Signs and symptoms,normal
+Frequent infections,Frequent infections,,,,both,Signs and symptoms,normal
+Frequent infections,"Frequent runny nose, cough", upper respiratory tract,,,both,Signs and symptoms,normal
+Frequent urination,Urinating often,,,,both,Signs and symptoms,normal
+Frontal release signs,Frontal release signs,,,,both,Signs and symptoms,normal
+Galactorrhea in men,Milky discharge from the nipple,,,,male,Signs and symptoms,normal
+Galactorrhea in women,Milky discharge from the nipple outside of breastfeeding period,,,,female,Signs and symptoms,normal
+Gambling,Excessive gambling, pathological,,,both,Signs and symptoms,normal
+Gambling,Gambling,,,,both,Signs and symptoms,normal
+Gambling,Lying about the extent of gambling, lying about extent,,,both,Signs and symptoms,normal
+Gastric symptoms,Gastric symptoms after eating foods containing gluten, after gluten ingestion,,,both,Signs and symptoms,normal
+Gastric symptoms,Gastric symptoms after eating or drinking foods containing lactose, after lactose ingestion,,,both,Signs and symptoms,normal
+Gastric symptoms,Stress-related gastric symptoms, stress-related,,,both,Signs and symptoms,normal
+General anxiety,General anxiety,,,,both,Signs and symptoms,normal
+Genital injury in female,Genital injury in female,,,,female,Signs and symptoms,serious
+Genital injury in male,Genital injury in male,,,,male,Signs and symptoms,serious
+Genital itch,Itching in crotch,,,,both,Signs and symptoms,normal
+Genu varum,Bowlegs,,,,both,Signs and symptoms,normal
+Gingival recession,Receding gums,,,,both,Signs and symptoms,normal
+Glassy eyes,Glassy eyes,,,,both,Signs and symptoms,normal
+Globus sensation,Feeling of lump in throat,,,,both,Signs and symptoms,normal
+Goldflam's sign,Goldflam's sign,,,,both,Signs and symptoms,emergency
+Gonda-Allen sign,Gonda-Allen sign,,,,both,Signs and symptoms,normal
+Gordon's sign,Gordon's sign,,,,both,Signs and symptoms,emergency
+Gottron's papules,"Red, painful, or scaly bumps over hand and finger joints",,,,both,Signs and symptoms,normal
+Grandiosity,Grandiosity,,,,both,Signs and symptoms,normal
+Gum erythema,Red gums,,,,both,Signs and symptoms,normal
+Gum pain,Gum pain,,,,both,Signs and symptoms,normal
+Gynecomastia,Breast enlargement in man,,,,male,Signs and symptoms,normal
+Hair loss,Generalized hair volume loss, generalized,,,both,Signs and symptoms,normal
+Hair loss,Hair loss,,,,both,Signs and symptoms,normal
+Hair loss,Hair loss on the temples or at the top of the head, androgenetic,,,both,Signs and symptoms,normal
+Hairy leukoplakia,Hairy leukoplakia,,,,both,Signs and symptoms,serious
+Halitosis,Bad breath,,,,both,Signs and symptoms,normal
+Hallucinations,Auditory hallucinations, auditory,,,both,Signs and symptoms,emergency
+Hallucinations,Gustatory hallucinations, gustatory,,,both,Signs and symptoms,emergency
+Hallucinations,Hallucinations,,,,both,Signs and symptoms,emergency
+Hallucinations,Olfactory hallucinations, olfactory,,,both,Signs and symptoms,emergency
+Hallucinations,Tactile hallucinations, tactile,,,both,Signs and symptoms,emergency
+Hallucinations,Visual hallucinations, visual,,,both,Signs and symptoms,emergency
+Halos around lights,Halos around lights,,,,both,Signs and symptoms,normal
+Hard lump in inguinal region,Dark or bluish hard lump in groin, dark or bluish discolouration,,,both,Signs and symptoms,serious
+Hard lump in inguinal region,Hard lump in groin,,,,both,Signs and symptoms,normal
+Hard lump in inguinal region,Lump in groin cannot be pushed back in groin, irreducible,,,both,Signs and symptoms,normal
+Hard lump in inguinal region,Painful hard lump in groin, tender,,,both,Signs and symptoms,serious
+Hard retinal exudates,Hard retinal exudates,,,,both,Signs and symptoms,normal
+Head drop,Head drop,,,,both,Signs and symptoms,serious
+Head tilt in order to avoid diplopia,Double vision improves while tilting head,,,,both,Signs and symptoms,serious
+Head tremors,Head tremors,,,,both,Signs and symptoms,normal
+Headache,Headache,,,,both,Signs and symptoms,normal
+Headache,Headache attack lasting 4 to 72 hours, chronic, lasting 4 to 72 hours,,both,Signs and symptoms,normal
+Headache,Headache attacks lasting 3 to 7 days, chronic, lasting 3 to 7 days,,both,Signs and symptoms,normal
+Headache,Headache lasting between 1 hour and 1 day, recent, lasting 1 to 24 hours,,both,Signs and symptoms,normal
+Headache,Headache lasting between 5 minutes and 4 hours, chronic, lasting 5 minutes to 4 hours,,both,Signs and symptoms,normal
+Headache,Headache lasting for more than 1 day, recent, lasting more than 1 day,,both,Signs and symptoms,normal
+Headache,Headache lasting less than 1 hour, recent, lasting less than 1 hour,,both,Signs and symptoms,normal
+Headache,Headache lasting less than 5 minutes, chronic, lasting less than 5 minutes,,both,Signs and symptoms,normal
+Headache,Headache located all over head, generalized,,,both,Signs and symptoms,normal
+Headache,Headache located at back of head, occipital,,,both,Signs and symptoms,normal
+Headache,Headache located near the forehead, forehead,,,both,Signs and symptoms,normal
+Headache,Headache located on only one side, unilateral,,,both,Signs and symptoms,normal
+Headache,Headache located over the temples, temporal region,,,both,Signs and symptoms,normal
+Headache,Headache worsened by physical activity, exacerbated by physical activity,,,both,Signs and symptoms,normal
+Headache,Headache worsened by stress, exacerbated by increased stress,,,both,Signs and symptoms,normal
+Headache,Headache worsened by tilting head forward, exacerbated by tilting head forwards,,,both,Signs and symptoms,normal
+Headache,Headaches history longer than 3 months, chronic,,,both,Signs and symptoms,normal
+Headache,Headaches history shorter than 3 months, recent,,,both,Signs and symptoms,normal
+Headache,Mild headache, mild,,,both,Signs and symptoms,normal
+Headache,Moderate headache, moderate,,,both,Signs and symptoms,normal
+Headache,Morning headache, worse in the morning,,,both,Signs and symptoms,normal
+Headache,Pressing or squeezing headache, pressing,,,both,Signs and symptoms,normal
+Headache,Pulsing headache, pulsating,,,both,Signs and symptoms,normal
+Headache,Series of headaches, series over a period of time,,,both,Signs and symptoms,normal
+Headache,Severe headache, severe,,,both,Signs and symptoms,normal
+Headache,Stabbing headache, lancinating,,,both,Signs and symptoms,normal
+Headache,Sudden headache, sudden onset,,,both,Signs and symptoms,normal
+Headache,Worst headache ever, excruciating,,,both,Signs and symptoms,emergency
+Hearing voices arguing,Hearing voices arguing,,,,both,Signs and symptoms,emergency
+Hearing voices commenting,Hearing voices commenting,,,,both,Signs and symptoms,emergency
+Heartburn,Heartburn,,,,both,Signs and symptoms,normal
+Heavy legs at the end of the day,Heavy legs at the end of the day,,,,both,Signs and symptoms,normal
+Heavy or prolonged menstrual periods,Heavy or prolonged periods,,,,female,Signs and symptoms,normal
+Heel drop test,Stomach pain after dropping hard on heels,,,,both,Signs and symptoms,emergency
+Hemarthrosis,Bleeding into joints,,,,both,Signs and symptoms,normal
+Hematemesis,Vomiting blood,,,,both,Signs and symptoms,emergency
+Hemianopsia bitemporalis,Hemianopsia bitemporalis,,,,both,Signs and symptoms,serious
+Hemoptysis,Coughing up blood,,,,both,Signs and symptoms,emergency
+Hepatomegaly,Hepatomegaly,,,,both,Signs and symptoms,normal
+Heterochromic irides,Different eye colours,,,,both,Signs and symptoms,normal
+Hiccups,Hiccups,,,,both,Signs and symptoms,normal
+High-arched palate,High-arched palate,,,,both,Signs and symptoms,normal
+History of anemia,History of anemia,,,,both,Signs and symptoms,normal
+Holster sign,Redness on hips or sides of thighs,,,,both,Signs and symptoms,normal
+Homonymous hemianopsia,Visual field loss on the same side of both eyes,,,,both,Signs and symptoms,normal
+Honey-coloured crust on the skin,Honey-coloured scabs on the skin,,,,both,Signs and symptoms,normal
+Hot flashes,Hot flashes,,,,both,Signs and symptoms,normal
+Hyperalgesia,Hyperalgesia,,,,both,Signs and symptoms,normal
+Hyperkeratosis on hands,Thickened and cracked skin on hands,,,,both,Signs and symptoms,normal
+Hypersensitivity to smells,Oversensitivity to smells,,,,both,Signs and symptoms,normal
+Hypersensitivity to sound,Oversensitivity to sound,,,,both,Signs and symptoms,normal
+Hypochondriacal delusions,Hypochondriacal delusions,,,,both,Signs and symptoms,normal
+Hypomenorrhea,Short or scanty periods,,,,female,Signs and symptoms,normal
+Hypopigmentation of the skin,Lightening of the skin,,,,both,Signs and symptoms,normal
+Hypopyon,Collection of pus in front of the eye,,,,both,Signs and symptoms,serious
+Hypotension,Low blood pressure,,,,both,Signs and symptoms,normal
+Ignoring consequences and social norms,Ignoring consequences and social norms,,,,both,Signs and symptoms,normal
+Illusion of surroundings being bigger or smaller than they actually are,Illusion of surroundings being bigger or smaller than they actually are,,,,both,Signs and symptoms,normal
+Impaired balance while walking,Stumbling or losing balance while walking,,,,both,Signs and symptoms,normal
+Impaired concentration,Poor concentration,,,,both,Signs and symptoms,normal
+Impaired downward eye motion,Difficulty looking down,,,,both,Signs and symptoms,serious
+Impaired lateral eye motion,Difficulty looking sideways away from the nose,,,,both,Signs and symptoms,serious
+Impaired medial eye motion,Difficulty looking inwards towards the nose,,,,both,Signs and symptoms,serious
+Impaired memory,Alcohol-related amnesia, alcohol-related amnesia,,,both,Signs and symptoms,normal
+Impaired memory,Difficulty finding everyday objects, finding everyday objects,,,both,Signs and symptoms,normal
+Impaired memory,Impaired memory,,,,both,Signs and symptoms,normal
+Impaired memory,Impaired short-term memory, short-term,,,both,Signs and symptoms,normal
+Impaired smell,Inability to smell properly,,,,both,Signs and symptoms,normal
+Impaired social functioning,"Difficulty functioning at home, work, or school",,,,both,Signs and symptoms,normal
+Impaired upward eye motion,Difficulty looking up,,,,both,Signs and symptoms,serious
+Impaired vision,Recent visual impairment, recent onset,,,both,Signs and symptoms,serious
+Impaired vision,Temple pain on side with visual impairment, temple pain on side with vision problem,,,both,Signs and symptoms,serious
+Impaired vision,Visual impairment,,,,both,Signs and symptoms,normal
+Impaired vision,Visual impairment in both eyes, bilateral,,,both,Signs and symptoms,normal
+Impaired vision,Visual impairment in one eye, one eye,,,both,Signs and symptoms,serious
+Impulsive behaviour,Impulsive behaviour,,,,both,Signs and symptoms,normal
+Inability to bear weight,Inability to stand on either foot after injury, after trauma,,,both,Signs and symptoms,serious
+Inability to complete tasks,Inability to complete tasks,,,,both,Signs and symptoms,normal
+Inability to pass flatus,Inability to pass gas,,,,both,Signs and symptoms,normal
+Inability to remember important aspects of a traumatic experience,Difficulty remembering traumatic experiences,,,,both,Signs and symptoms,normal
+Inability to stop drinking alcohol,Inability to stop drinking alcohol,,,,both,Signs and symptoms,normal
+Inability to stop flow of urine,Inability to stop flow of urine,,,,both,Signs and symptoms,normal
+Increased abdominal girth,Increased abdominal size,,,,both,Signs and symptoms,normal
+Increased appetite,Increased appetite,,,,both,Signs and symptoms,normal
+Increased expiratory phase,Increased expiratory phase,,,,both,Signs and symptoms,serious
+Increased libido,Increased sex drive,,,,both,Signs and symptoms,normal
+Increased masseter reflex,Jaw jerk,,,,both,Signs and symptoms,normal
+Increased need in sexual experiences or sensations to attain desired effect,Increased need in sexual experiences or sensations to attain desired effect,,,,both,Signs and symptoms,normal
+Increased palatine reflex,Increased palatine reflex,,,,both,Signs and symptoms,normal
+Increased pharyngeal reflex,Increased pharyngeal reflex,,,,both,Signs and symptoms,normal
+Increased thirst,Increased thirst,,,,both,Signs and symptoms,normal
+Insect bite or sting,Insect bite or sting,,,,both,Signs and symptoms,normal
+Insomnia,Insomnia,,,,both,Signs and symptoms,normal
+Intense,"Intense, non-committal relationships", non-committal relationships,,,both,Signs and symptoms,normal
+Intermittent urine flow,Intermittent urine flow,,,,male,Signs and symptoms,normal
+Interosseous muscles atrophy,"Interosseous muscles atrophy, feet", feet,,,both,Signs and symptoms,normal
+Interosseous muscles atrophy,"Interosseous muscles atrophy, hands", hands,,,both,Signs and symptoms,normal
+Intraretinal microvascular abnormalities,Intraretinal microvascular abnormalities,,,,both,Signs and symptoms,normal
+Iris neovascularization,Iris neovascularization,,,,both,Signs and symptoms,normal
+Irregular menstruations,Irregular periods,,,,female,Signs and symptoms,normal
+Irritability,Irritability,,,,both,Signs and symptoms,normal
+Irritability,Irritable when unable to have sex, when unable to engage in sexual activities,,,both,Signs and symptoms,normal
+Itching after a hot shower or bath,Itchy skin after a hot shower or bath,,,,both,Signs and symptoms,normal
+Itching around anus,Itchy anus,,,,both,Signs and symptoms,normal
+Itching eye,Itchy eye,,,,both,Signs and symptoms,normal
+Itching inside ear,Itchy inner ear,,,,both,Signs and symptoms,normal
+Itching nose or throat,Itchy nose or throat,,,,both,Signs and symptoms,normal
+Jacobsohn sign,Finger flexion when tapping distal base of radius bone,,,,both,Signs and symptoms,normal
+Janeway lesion,Janeway lesion,,,,both,Signs and symptoms,normal
+Jaundice,Yellow skin,,,,both,Signs and symptoms,serious
+Jaundice,Yellow skin after physical activity, following intense physical exertion,,,both,Signs and symptoms,serious
+Jaundice,Yellow skin during infectious disease, during infectious disease,,,both,Signs and symptoms,serious
+Jaundice,Yellow skin during times of increased stress, stress-related,,,both,Signs and symptoms,serious
+Jaw pain,Jaw pain,,,,both,Signs and symptoms,normal
+Joint deformation,Deformed joints after an injury, post-traumatic,,,both,Signs and symptoms,emergency
+Joint deformation,Joint deformation not associated with recent trauma, non-traumatic,,,both,Signs and symptoms,normal
+Joint pain,Ankle pain, ankle,,,both,Signs and symptoms,normal
+Joint pain,Big toe pain, hallux,,,both,Signs and symptoms,normal
+Joint pain,Elbow pain, elbow,,,both,Signs and symptoms,normal
+Joint pain,Hip pain, hip,,,both,Signs and symptoms,normal
+Joint pain,Joint pain,,,,both,Signs and symptoms,normal
+Joint pain,Joint pain aggravated by cold or damp weather, aggravated by cold or damp weather,,,both,Signs and symptoms,normal
+Joint pain,Joint pain worsened by immobility, inflammatory,,,both,Signs and symptoms,normal
+Joint pain,Joint pain worsened by movement and improved with rest, mechanical,,,both,Signs and symptoms,normal
+Joint pain,Knee pain, knee,,,both,Signs and symptoms,normal
+Joint pain,Pain when moving ankle, during ankle movement,,,both,Signs and symptoms,normal
+Joint pain,Pain when moving elbow, during elbow movement,,,both,Signs and symptoms,normal
+Joint pain,Pain when moving hip, during hip movement,,,both,Signs and symptoms,normal
+Joint pain,Pain when moving knee, during knee movement,,,both,Signs and symptoms,normal
+Joint pain,Pain when moving shoulder, during shoulder movement,,,both,Signs and symptoms,normal
+Joint pain,Pain when moving thumb, during thumb movement,,,both,Signs and symptoms,normal
+Joint pain,Pain when moving wrist, during wrist movement,,,both,Signs and symptoms,normal
+Joint pain,Pain when pressing joint, tenderness,,,both,Signs and symptoms,normal
+Joint pain,Severe joint pain after an injury, severe, after trauma,,both,Signs and symptoms,normal
+Joint pain,Shoulder pain, shoulder,,,both,Signs and symptoms,normal
+Joint pain,Sudden joint pain, sudden,,,both,Signs and symptoms,normal
+Joint pain,Thumb pain, thumb,,,both,Signs and symptoms,normal
+Joint pain,Wrist pain, wrist,,,both,Signs and symptoms,normal
+Joint stiffness,Joint stiffness disappears after exercise, subsides after exercising,,,both,Signs and symptoms,normal
+Joint stiffness,Stiff hands in the morning, hand stiffness in the morning,,,both,Signs and symptoms,normal
+Joint stiffness,Stiff joints,,,,both,Signs and symptoms,normal
+Kayser–Fleischer ring,Dark rings appearing around the iris of the eye,,,,both,Signs and symptoms,serious
+Kernig's sign,Kernig's sign,,,,both,Signs and symptoms,emergency
+Knee instability,Unstable knee,,,,both,Signs and symptoms,normal
+Koplik's spots,Small white spots surrounded by red ring on the insides of cheeks,,,,both,Signs and symptoms,normal
+Kussmaul breathing,"Abnormally deep, laboured, and gasping breathing",,,,both,Signs and symptoms,emergency
+Lack of boundaries in interpersonal relations,Lack of boundaries in relationships,,,,both,Signs and symptoms,normal
+Lack of initiative,"Lack of initiative, motivation, or drive", motivation, or drive,,both,Signs and symptoms,normal
+Lateropulsion,Falling or losing gait on one side,,,,both,Signs and symptoms,emergency
+Lead-pipe rigidity,Constant muscle stiffness in a limb,,,,both,Signs and symptoms,serious
+Lens clouding,Cloudy eyes,,,,both,Signs and symptoms,normal
+Leopard-like spots on skin,Brick-coloured spots resembling leopard spots,,,,both,Signs and symptoms,serious
+Levine's sign,Levine's sign,,,,both,Signs and symptoms,normal
+Lhermitte's sign,Lhermitte's sign,,,,both,Signs and symptoms,normal
+Lice eggs or nits on hair shafts,Lice eggs or nits,,,,both,Signs and symptoms,normal
+Lisch nodules,Lisch nodules,,,,both,Signs and symptoms,normal
+Livedo reticularis,"Blotchy, red-purplish marbling of the skin",,,,both,Signs and symptoms,normal
+Local dark retinal blood vessels that lie in folds,Local dark retinal blood vessels that lie in folds,,,,both,Signs and symptoms,normal
+Local elevation of retina,Local elevation of retina,,,,both,Signs and symptoms,normal
+Local grey discolouration of retina,Local grey discolouration of retina,,,,both,Signs and symptoms,normal
+Local retinal undulation,Local retinal undulation,,,,both,Signs and symptoms,normal
+Loose dental filling,Loose dental filling,,,,both,Signs and symptoms,normal
+Loose tooth unrelated to a tooth exchange,Loose teeth,,,,both,Signs and symptoms,normal
+Loss of body hair,Loss of body hair,,,,both,Signs and symptoms,normal
+Loss of consciousness,Fainting, transient,,,both,Signs and symptoms,serious
+Loss of consciousness,Fainting during exercise, during exercise,,,both,Signs and symptoms,serious
+Loss of consciousness,Fainting during prolonged standing, during prolonged standing,,,both,Signs and symptoms,serious
+Loss of consciousness,Fainting during stress, under stress,,,both,Signs and symptoms,serious
+Loss of consciousness,Fainting in a warm place, in a warm place,,,both,Signs and symptoms,serious
+Loss of consciousness,Fainting while sitting or lying down, in a sitting or lying position,,,both,Signs and symptoms,serious
+Loss of consciousness,Fainting with loss of bladder or bowel control, with urination or defecation,,,both,Signs and symptoms,emergency_ambulance
+Loss of consciousness,Loss of consciousness,,,,both,Signs and symptoms,serious
+Loss of consciousness,"Loss of consciousness, more than 1 minute", more than 1 minute,,,both,Signs and symptoms,emergency_ambulance
+Loss of interest in activities previously enjoyed,Loss of interest, lasting at least 2 weeks,,,both,Signs and symptoms,normal
+Loss of muscle mass,Loss of muscles,,,,both,Signs and symptoms,normal
+Loss of muscle mass,Loss of muscles in hands, hands,,,both,Signs and symptoms,normal
+Loss of sensation in the face,Loss of feeling in face,,,,both,Signs and symptoms,serious
+Loss of sensation in the face,Loss of feeling on only one side of the face, unilateral,,,both,Signs and symptoms,serious
+Loss of sense of vibration in distal parts of extremities,Loss of sense of vibration in distal parts of extremities,,,,both,Signs and symptoms,normal
+Loss of the lingual papillae,Smooth tongue,,,,both,Signs and symptoms,normal
+Loss of vision in the superior quadrant,Loss of vision in the superior quadrant,,,,both,Signs and symptoms,serious
+Loss or impairment of proprioception,Loss or impairment of proprioception,,,,both,Signs and symptoms,normal
+Loss or impairment of temperature sensation,Loss or impairment of temperature sensation,,,,both,Signs and symptoms,serious
+Lost will to live,Lost will to live,,,,both,Signs and symptoms,normal
+Low intraocular pressure,"Low intraocular pressure, 4 to 5mmHg difference in affected eye compared to the other eye", 4 to 5mmHg difference in affected eye compared to the other eye,,,both,Signs and symptoms,normal
+Low sense of self-worth,Low self-esteem,,,,both,Signs and symptoms,normal
+Lower limb pallor,Pale leg,,,,both,Signs and symptoms,serious
+Lower limb tenderness,Pain when pressing calf, calf,,,both,Signs and symptoms,normal
+Lower limb tenderness,Pain when pressing lower limb,,,,both,Signs and symptoms,normal
+Lump in popliteal region,Lump behind knee,,,,both,Signs and symptoms,normal
+Lump in scrotum,Lump in scrotum,,,,male,Signs and symptoms,normal
+Lying about eating or hiding food,Lying about eating or hiding food,,,,both,Signs and symptoms,normal
+Lymph node pain,Painful lymph nodes,,,,both,Signs and symptoms,normal
+Major bleeding,Major bleeding,,,,both,Signs and symptoms,emergency_ambulance
+Male genital burn,Male genital burn,,,,male,Signs and symptoms,emergency
+Male infertility,Male infertility,,,,male,Signs and symptoms,normal
+Malocclusions,Malocclusions,,,,both,Signs and symptoms,normal
+Mandibular deviation when opening mouth,Jaw shifts to the side when opening mouth,,,,both,Signs and symptoms,normal
+Marcus Gunn pupil,Marcus Gunn pupil,,,,both,Signs and symptoms,normal
+Mathematics difficulties,Mathematics difficulties,,,,both,Signs and symptoms,normal
+Measles rash,Measles rash,,,,both,Signs and symptoms,normal
+Mendel-Bekhterev sign,Mendel-Bekhterev sign,,,,both,Signs and symptoms,normal
+Menstrual period more than 3 weeks late,Period more than 3 weeks late,,,,female,Signs and symptoms,normal
+Mental disturbances exacerbated by stress,Mental disturbances exacerbated by stress,,,,both,Signs and symptoms,normal
+Microstomia,Narrow mouth,,,,both,Signs and symptoms,normal
+Minor uncontrollable bleeding,Minor uncontrollable bleeding,,,,both,Signs and symptoms,emergency
+Miosis,Constricted pupil,,,,both,Signs and symptoms,normal
+Miscarriage,Miscarriage,,,,female,Signs and symptoms,normal
+Moniz sign,Moniz sign,,,,both,Signs and symptoms,normal
+Mood swings,Mood swings,,,,both,Signs and symptoms,normal
+Motor retardation,Slowed movements,,,,both,Signs and symptoms,normal
+Mouth breathing,Mouth breathing,,,,both,Signs and symptoms,normal
+Mouth pain,Pain in mouth,,,,both,Signs and symptoms,normal
+Mouth pain,Pain in mouth after eating spicy or acidic food, after eating spicy or acidic food,,,both,Signs and symptoms,normal
+Mouth ulcer,Mouth sores,,,,both,Signs and symptoms,normal
+Mucosal pallor,Pale mouth or eyelids,,,,both,Signs and symptoms,normal
+Mucosal pallor,Sudden paleness of mouth or eyelids, sudden,,,both,Signs and symptoms,serious
+Mucous secretion in stool,Mucus in stool,,,,both,Signs and symptoms,normal
+Multiple red areas,Multiple red areas larger than 1 cm, larger than 1 cm,,,both,Signs and symptoms,normal
+Multiple red changes,Multiple red changes of different sizes, different sizes,,,both,Signs and symptoms,normal
+Multiple red spots,Multiple red spots smaller than 1 cm, smaller than 1 cm,,,both,Signs and symptoms,normal
+Murphy's sign,Stomach pain on deep inhalation and simultaneous pressing right upper part of abdomen,,,,both,Signs and symptoms,serious
+Muscle cramps,Cramps in calves, calf,,,both,Signs and symptoms,normal
+Muscle cramps,Muscle cramps,,,,both,Signs and symptoms,normal
+Muscle cramps,Nocturnal muscle cramps, nocturnal,,,both,Signs and symptoms,normal
+Muscle weakness,General muscle weakness, general,,,both,Signs and symptoms,normal
+Muscle weakness,Muscle weakness,,,,both,Signs and symptoms,normal
+Myalgia,Muscle pain,,,,both,Signs and symptoms,normal
+Myalgia,Muscle pain after intense physical activity, following intense physical exertion,,,both,Signs and symptoms,normal
+Myalgia,Muscle pain triggered by stress, exacerbated by stress,,,both,Signs and symptoms,normal
+Mydriasis,Dilated pupils,,,,both,Signs and symptoms,serious
+Myringitis,Myringitis,,,,both,Signs and symptoms,normal
+Nail clubbing,Enlarged fingertips and nails,,,,both,Signs and symptoms,normal
+Nail dystrophy,Distortion or discolouration of nail,,,,both,Signs and symptoms,normal
+Nail pain,Sore nail,,,,both,Signs and symptoms,normal
+Nasal catarrh,Clear or white nasal discharge, mucoid,,,both,Signs and symptoms,normal
+Nasal catarrh,Runny nose,,,,both,Signs and symptoms,normal
+Nasal catarrh,Yellow or green nasal discharge, purulent,,,both,Signs and symptoms,normal
+Nasal congestion,Stuffy nose,,,,both,Signs and symptoms,normal
+Nasal congestion,Stuffy nose lasting between 10 days and 3 months, subacute,,,both,Signs and symptoms,normal
+Nasal congestion,Stuffy nose lasting less than 10 days, acute,,,both,Signs and symptoms,normal
+Nasal congestion,Stuffy nose lasting more than 3 months, chronic,,,both,Signs and symptoms,normal
+Nasal congestion,Stuffy nose worsening after brief improvement, worsens after briefly improving,,,both,Signs and symptoms,normal
+Nasal polyps,Polyps in nose,,,,both,Signs and symptoms,normal
+Nasal speech,Nasal voice,,,,both,Signs and symptoms,normal
+Nausea,Feeling sick or queasy,,,,both,Signs and symptoms,normal
+Nausea,Nausea while moving, triggered by movement,,,both,Signs and symptoms,normal
+Neck asymmetry,Asymmetrical neck,,,,both,Signs and symptoms,normal
+Neck pain,Pain in neck,,,,both,Signs and symptoms,normal
+Neck pain,Pain in neck on only one side, unilateral,,,both,Signs and symptoms,normal
+Neck pain,Pain in neck when moving head, during head movement,,,both,Signs and symptoms,normal
+Neck vein distention,Swollen neck veins,,,,both,Signs and symptoms,normal
+Neglecting duties and hobbies due to alcohol,"Neglecting family, work, or hobbies due to alcohol",,,,both,Signs and symptoms,normal
+Neglecting duties and hobbies due to sex,"Neglecting family, work, or hobbies due to sex",,,,both,Signs and symptoms,normal
+Nervousness or weepiness,Crying or feeling nervous,,,,both,Signs and symptoms,normal
+Neurological deficit,New neurological changes lasting more than 24 hours, since more than 24 hours,,,both,Signs and symptoms,normal
+Neurological deficit,New neurological changes since less than 24 hours, since less than 24 hours,,,both,Signs and symptoms,emergency_ambulance
+Night sweats,Night sweats,,,,both,Signs and symptoms,normal
+Nihilistic delusions,Nihilistic delusions,,,,both,Signs and symptoms,normal
+Nipple discharge,Leaking from the nipple,,,,female,Signs and symptoms,normal
+No contact with COVID-19 case,No contact with COVID-19 positive person,,,,both,Signs and symptoms,normal
+No history of inflammatory bowel disease,No history of inflammatory bowel disease,,,,both,Signs and symptoms,normal
+No signs of upper respiratory infection,No signs of upper respiratory infection,,,,both,Signs and symptoms,normal
+Nocturia,Often urinating at night,,,,both,Signs and symptoms,normal
+Nodule located in breast,Lump in the breast,,,,female,Signs and symptoms,normal
+Non-stop alcohol consumption for several days,Constantly drinking alcohol for several days,,,,both,Signs and symptoms,normal
+Nonmenstrual vaginal bleeding or spotting,Vaginal bleeding not associated with period,,,,female,Signs and symptoms,normal
+Normal body temperature,Normal body temperature,,,,both,Signs and symptoms,normal
+Normal heart rate,Normal pulse,,,,both,Signs and symptoms,normal
+Normal lung sounds on auscultation,Normal lung sounds on auscultation,,,,both,Signs and symptoms,normal
+Normal vital signs,Normal vital signs,,,,both,Signs and symptoms,normal
+Nose pain,Painful nose,,,,both,Signs and symptoms,normal
+Nosebleed,Bleeding from nose,,,,both,Signs and symptoms,normal
+Nosebleed,One episode of bleeding from nose, single episode,,,both,Signs and symptoms,normal
+Nosebleed,Recurrent bleeding from nose, recurrent,,,both,Signs and symptoms,normal
+Numbness of tongue,Loss of feeling in tongue,,,,both,Signs and symptoms,normal
+Numerous nevi,Many moles or birthmarks,,,,both,Signs and symptoms,normal
+Nystagmus,Horizontal nystagmus, horizontal,,,both,Signs and symptoms,serious
+Nystagmus,Nystagmus,,,,both,Signs and symptoms,normal
+Obsessions,Compulsive thoughts, compulsive thoughts,,,both,Signs and symptoms,normal
+Obsessions,Dark thoughts, intrusive thoughts,,,both,Signs and symptoms,normal
+Obsessions,Obsessions,,,,both,Signs and symptoms,normal
+Ocular bulb rotation laterally and downward,Eye rotation sideways and downward,,,,both,Signs and symptoms,serious
+Ocular motility disorder,Difficulty moving eyes,,,,both,Signs and symptoms,serious
+Oculomotor nerve palsy,Oculomotor nerve palsy,,,,both,Signs and symptoms,emergency
+Odynophagia,Painful swallowing,,,,both,Signs and symptoms,normal
+Oily skin,Greasy or oily skin,,,,both,Signs and symptoms,normal
+Oligomenorrhea,Infrequent menstrual periods,,,,female,Signs and symptoms,normal
+Oliguria,Urinating less than usual,,,,both,Signs and symptoms,normal
+Opacified tympanic membrane,Opacified tympanic membrane,,,,both,Signs and symptoms,normal
+Open comedones,Blackheads,,,,both,Signs and symptoms,normal
+Oppenheim's sign,Oppenheim's sign,,,,both,Signs and symptoms,emergency
+Optic disc neovascularization,Optic disc neovascularization,,,,both,Signs and symptoms,normal
+Optic nerve disc pallor,Optic nerve disc pallor,,,,both,Signs and symptoms,normal
+Oral lesions,"Change in location, size, or shape of lesions in the mouth", changes in the location, size, or shape,both,Signs and symptoms,normal
+Oral lesions,Lesions in mouth with raised borders, well demarcated borders,,,both,Signs and symptoms,normal
+Oral lesions,Multiple lesions in the mouth, multiple,,,both,Signs and symptoms,normal
+Oral lesions,Recurrent lesions in the mouth, recurrent,,,both,Signs and symptoms,normal
+Oral lesions,Red lesions in the mouth, red,,,both,Signs and symptoms,normal
+Oral lesions,White patches inside the mouth, white plaques,,,both,Signs and symptoms,normal
+Orbicularis oris muscle spasm,Orbicularis oris muscle spasm,,,,both,Signs and symptoms,normal
+Organic cause,Organic cause,,,,both,Signs and symptoms,normal
+Orthostatic hypotension,Dizzy or lightheaded after standing up,,,,both,Signs and symptoms,normal
+Osler nodes,Osler nodes,,,,both,Signs and symptoms,normal
+Other type of contact with COVID-19 case,Other type of contact with COVID-19 positive person,,,,both,Signs and symptoms,normal
+Ovarian enlargement,Ovarian enlargement,,,,female,Signs and symptoms,normal
+Overbite,Overbite,,,,both,Signs and symptoms,normal
+Overworked,Working too much,,,,both,Signs and symptoms,normal
+Pain behind ear,Pain behind ear,,,,both,Signs and symptoms,normal
+Pain caused by firm pressure on tibia,Pain caused by firm pressure on tibia,,,,both,Signs and symptoms,normal
+Pain in both lower limbs,Pain in both feet, both feet,,,both,Signs and symptoms,normal
+Pain in both lower limbs,Pain in both lower limbs,,,,both,Signs and symptoms,normal
+Pain in both lower limbs,Pain in both lower limbs with stocking distribution, stocking distribution,,,both,Signs and symptoms,normal
+Pain in both upper limbs,Pain in both hands, both hands,,,both,Signs and symptoms,normal
+Pain in both upper limbs,Pain in both upper limbs,,,,both,Signs and symptoms,normal
+Pain in front of ear,Pain in front of ear,,,,both,Signs and symptoms,normal
+Pain in groin during coughing,"Pain in groin during coughing, sneezing, laughing, or physical exercises", sneezing, laughing, or physical exercises,both,Signs and symptoms,serious
+Pain in lower limb,Limping due to pain, limping due to pain,,,both,Signs and symptoms,normal
+Pain in lower limb,Pain in lower limb,,,,both,Signs and symptoms,normal
+Pain in lower limb,Severe pain in lower limb, severe,,,both,Signs and symptoms,normal
+Pain in lower limb,Shin pain, shin,,,both,Signs and symptoms,normal
+Pain in lower limb,Thigh pain, thigh,,,both,Signs and symptoms,normal
+Pain in temporomandibular joint during movement,Pain in jaw during movement,,,,both,Signs and symptoms,normal
+Pain in upper limb,Pain in forearm, forearm,,,both,Signs and symptoms,normal
+Pain in upper limb,Pain in hand or fingers, hand or fingers,,,both,Signs and symptoms,normal
+Pain in upper limb,Pain in one finger, one finger,,,both,Signs and symptoms,normal
+Pain in upper limb,Pain in upper limb,,,,both,Signs and symptoms,normal
+Pain in upper limb,Severe pain in upper limb, severe,,,both,Signs and symptoms,normal
+Pain near eye socket,Pain around or behind eye,,,,both,Signs and symptoms,normal
+Painful defecation,Pain when defecating,,,,both,Signs and symptoms,normal
+Painful ejaculation,Pain when ejaculating,,,,male,Signs and symptoms,serious
+Painful intercourse,Painful sex,,,,female,Signs and symptoms,normal
+Painful urination,Pain when urinating,,,,both,Signs and symptoms,normal
+Palatine petechiae,Pinpoint-size red dots on soft part of roof of mouth,,,,both,Signs and symptoms,normal
+Pale and brittle nails,Pale and brittle nails,,,,both,Signs and symptoms,normal
+Pale or clay-coloured stool,Pale or clay-coloured stool,,,,both,Signs and symptoms,normal
+Pale skin,Pale fingers, fingers,,,both,Signs and symptoms,normal
+Pale skin,Pale skin,,,,both,Signs and symptoms,normal
+Palpitations,Palpitations,,,,both,Signs and symptoms,normal
+Palpitations,Palpitations lasting more than 5 minutes, lasting more than 5 minutes,,,both,Signs and symptoms,serious
+Palpitations,Recurrent palpitations, recurrent,,,both,Signs and symptoms,normal
+Panic attacks in public or when talking to strangers,Panic attacks in public or when talking to strangers,,,,both,Signs and symptoms,normal
+Papilledema,Papilledema,,,,both,Signs and symptoms,normal
+Paralogical thinking,Paralogical thinking,,,,both,Signs and symptoms,normal
+Paranasal sinuses tenderness,Paranasal sinuses tender to palpation,,,,both,Signs and symptoms,normal
+Paraphimosis,Retracted foreskin,,,,male,Signs and symptoms,emergency
+Paraspinal muscle tenderness,Paraspinal muscle tenderness,,,,both,Signs and symptoms,normal
+Paresis,Ascending muscle weakness, ascending,,,both,Signs and symptoms,serious
+Paresis,Difficulty moving both lower limbs, both lower limbs,,,both,Signs and symptoms,normal
+Paresis,Difficulty moving both upper limbs, both upper limbs,,,both,Signs and symptoms,normal
+Paresis,Difficulty moving one lower limb, one lower limb,,,both,Signs and symptoms,normal
+Paresis,Difficulty moving one upper limb, one upper limb,,,both,Signs and symptoms,normal
+Paresis,Limb weakness, limbs,,,both,Signs and symptoms,normal
+Paresis,Limb weakness lasting between 24 hours and 4 weeks, limbs, lasting between 24 hours and 4 weeks,,both,Signs and symptoms,normal
+Paresis,Limb weakness lasting less than 24 hours, limbs, lasting less than 24 hours,,both,Signs and symptoms,normal
+Paresis,Limb weakness lasting more than 4 weeks, limbs, lasting more than 4 weeks,,both,Signs and symptoms,normal
+Paresis,Localised muscle weakness, localised,,,both,Signs and symptoms,normal
+Paresis,"Paresis, limbs, other", limbs, other,,both,Signs and symptoms,serious
+Paresis,Weakness of all limbs, limbs, tetraparesis,,both,Signs and symptoms,normal
+Paresis,Weakness of one side of the body, hemiparesis,,,both,Signs and symptoms,serious
+Paresthesia,Ascending tingling or numbness, ascending,,,both,Signs and symptoms,normal
+Paresthesia,Face tingling or numbness, face,,,both,Signs and symptoms,normal
+Paresthesia,Feet tingling or numbness, both feet,,,both,Signs and symptoms,normal
+Paresthesia,Foot tingling or numbness, one foot,,,both,Signs and symptoms,normal
+Paresthesia,Sudden onset of tingling or numbness, sudden onset,,,both,Signs and symptoms,normal
+Paresthesia,Tingling and numbness of lower limbs, lower limbs,,,both,Signs and symptoms,normal
+Paresthesia,Tingling and numbness of upper limbs, upper limbs,,,both,Signs and symptoms,normal
+Paresthesia,Tingling or numbness,,,,both,Signs and symptoms,normal
+Paresthesia,Tingling or numbness around the mouth, around the mouth,,,both,Signs and symptoms,normal
+Paresthesia,Tingling or numbness in one lower limb, one lower limb,,,both,Signs and symptoms,normal
+Paresthesia,Tingling or numbness of both lower limbs, both lower limbs,,,both,Signs and symptoms,normal
+Paresthesia,Tingling or numbness of both upper limbs, both upper limbs,,,both,Signs and symptoms,normal
+Paresthesia,Tingling or numbness of one upper limb, one upper limb,,,both,Signs and symptoms,normal
+Paresthesia in both upper limbs,"Paresthesia in both upper limbs, glove distribution", glove distribution,,,both,Signs and symptoms,normal
+Paresthesias,Symmetrical paresthesias, symmetrical,,,both,Signs and symptoms,normal
+Parotid swelling,Parotid swelling,,,,both,Signs and symptoms,serious
+Past appendectomy,Appendix removal in the past,,,,both,Other,normal
+Past cholecystectomy,Gallbladder removal in the past,,,,both,Other,normal
+Pathologic fractures,Broken bone not caused by trauma,,,,both,Signs and symptoms,normal
+Pencil-thin stools,Pencil-thin stools,,,,both,Signs and symptoms,serious
+Penile itching,Itchy penis,,,,male,Signs and symptoms,normal
+Pericardial friction rub,Pericardial friction rub,,,,both,Signs and symptoms,normal
+Perionychial pain,Pain of the skin around the nail,,,,both,Signs and symptoms,normal
+Periorbital ecchymosis,Bruising around the eyes,,,,both,Signs and symptoms,serious
+Perseveration,Perseveration,,,,both,Signs and symptoms,serious
+Personality changes,Personality changes,,,,both,Signs and symptoms,normal
+Petechiae,Small red spots not fading under pressure,,,,both,Signs and symptoms,normal
+Pharyngeal erythema,Red throat,,,,both,Signs and symptoms,normal
+Pharyngeal pain,One-sided sore throat, unilateral,,,both,Signs and symptoms,normal
+Pharyngeal pain,Sore throat,,,,both,Signs and symptoms,normal
+Pharyngeal swelling,Throat swelling,,,,both,Signs and symptoms,normal
+Phimosis,Difficulty retracting foreskin,,,,male,Signs and symptoms,normal
+Phobia,Irrational fear,,,,both,Signs and symptoms,normal
+Physical injury,Injury,,,,both,Other,normal
+Physical injury,Injury to self or others after drinking alcohol, to self or others after drinking alcohol,,,both,Signs and symptoms,normal
+Pleural effusion,Pleural effusion,,,,both,Signs and symptoms,serious
+Pleural friction rub,Pleural friction rub,,,,both,Signs and symptoms,normal
+Pleuritic chest pain,Sudden and sharp chest pain after an injury, after trauma,,,both,Signs and symptoms,emergency
+Polyuria,Passing more urine than usual in a day,,,,both,Signs and symptoms,normal
+Poor personal hygiene,Poor personal hygiene,,,,both,Signs and symptoms,normal
+Positive allergy challenge,Positive allergy challenge,,,,both,Signs and symptoms,normal
+Positive prick or patch skin allergy test,Positive prick or patch skin allergy test,,,,both,Signs and symptoms,normal
+Possible rabies exposure,Possible rabies exposure,,,,both,Signs and symptoms,serious
+Postnasal drip,Mucus dripping at the back of the throat,,,,both,Signs and symptoms,normal
+Premature greying,Premature greying,,,,both,Signs and symptoms,normal
+Preoccupation with food,Preoccupation with food,,,,both,Signs and symptoms,normal
+Presence of neurofibromas,Presence of neurofibromas,,,,both,Signs and symptoms,normal
+Pretibial myxedema,Pretibial myxedema,,,,both,Signs and symptoms,normal
+Priapism,Prolonged erection,,,,male,Signs and symptoms,serious
+Problems with everyday tasks,"Problems with everyday tasks such as washing, eating, or dressing",,,,both,Signs and symptoms,normal
+Prolonged bleeding time,Prolonged bleeding time,,,,both,Signs and symptoms,normal
+Prolonged nighttime sleep,Prolonged nighttime sleep,,,,both,Signs and symptoms,normal
+Prostate enlargement,Prostate enlargement,,,,male,Signs and symptoms,serious
+Pruritus,Itching,,,,both,Signs and symptoms,normal
+Pruritus,"Itching aggravated by changes in temperature, sweat, or wearing wool", aggravated by change in temperature, sweating, or wearing wool,both,Signs and symptoms,normal
+Pruritus,Itching most intense at night, most intense at night,,,both,Signs and symptoms,normal
+Pruritus,Itchy foot, foot,,,both,Signs and symptoms,normal
+Pruritus,Itchy scalp, scalp,,,both,Signs and symptoms,normal
+Pseudomembrane in nose or throat,Thick grey layer in nose or throat,,,,both,Signs and symptoms,serious
+Psychomotor retardation,Psychomotor retardation,,,,both,Signs and symptoms,normal
+Pupil dilation variation,Pupil dilation variation,,,,both,Signs and symptoms,normal
+Pupil or pupils unreactive to accommodation,Pupil or pupils unreactive to accommodation,,,,both,Signs and symptoms,normal
+Purpuric rash,Small red or purple spots not fading under pressure,,,,both,Signs and symptoms,serious
+Purpuric rash,Small red or purple spots that can be felt, palpable,,,both,Signs and symptoms,emergency
+Purulent vaginal discharge,Purulent vaginal discharge,,,,female,Signs and symptoms,normal
+Pus under the skin of the finger,Pus under the skin of the finger,,,,both,Signs and symptoms,serious
+Pustule,Small bumps less than 1 cm filled with pus,,,,both,Signs and symptoms,normal
+Pyramidal signs,Pyramidal signs,,,,both,Signs and symptoms,emergency
+Quickening of thoughts and speech,Quickening of thoughts and speech,,,,both,Signs and symptoms,normal
+Rash or impulsive decisions,Making rash or impulsive decisions,,,,both,Signs and symptoms,normal
+Re-experiencing the psychological trauma in nightmares,Re-experiencing the traumatic event in nightmares,,,,both,Signs and symptoms,normal
+Re-experiencing the psychological trauma in recurring flashbacks,Re-experiencing the traumatic event in recurring distressing memories,,,,both,Signs and symptoms,normal
+Re-experiencing the psychological trauma through physiological reactivity,Strong physiological reactions while re-experiencing the traumatic event,,,,both,Signs and symptoms,normal
+Re-experiencing traumatic event,Re-experiencing traumatic event,,,,both,Signs and symptoms,normal
+Reading difficulties,Reading difficulties,,,,both,Signs and symptoms,normal
+Rebound tenderness,Rebound tenderness,,,,both,Signs and symptoms,normal
+Recent alcohol consumption,Recent alcohol consumption,,,,both,Signs and symptoms,normal
+Recent injury without bleeding,Recent injury without bleeding,,,,both,Signs and symptoms,normal
+Recent self-injurious behaviour,Recent major self-injury, major,,,both,Signs and symptoms,emergency
+Recent self-injurious behaviour,Recent minor self-injury, minor,,,both,Signs and symptoms,serious
+Recurrent gastric ulcers,Recurrent gastric ulcers,,,,both,Signs and symptoms,normal
+Recurrent tonsils inflammation,Recurrent tonsils inflammation,,,,both,Signs and symptoms,normal
+Red and stinging conjunctivae,Red and stinging eyes,,,,both,Signs and symptoms,normal
+Red and swollen oral mucosa,Red and swollen inside of mouth,,,,both,Signs and symptoms,normal
+Red coloured stool,Red stool,,,,both,Signs and symptoms,serious
+Red coloured urine,Red urine,,,,both,Signs and symptoms,normal
+Red eye,Bloodshot eye,,,,both,Signs and symptoms,normal
+Red macules with silver-white,"Red skin patches with silver-white, flaky scales", flaky scales,,,both,Signs and symptoms,normal
+Red stretch marks on abdomen,"Red stretch marks on stomach, hips, or thighs", hips, or thighs,,both,Signs and symptoms,normal
+Redness behind the ear,Redness behind the ear,,,,both,Signs and symptoms,normal
+Redness in temporal region,Redness around the temple,,,,both,Signs and symptoms,normal
+Reduced body temperature,Reduced body temperature,,,,both,Signs and symptoms,normal
+Reduced degree of facial expression,Face lacking expression or animation,,,,both,Signs and symptoms,normal
+Reduced range of joint motion,Joint hard to move,,,,both,Signs and symptoms,normal
+Reduced range of joint motion,Reduced range of passive joint motion, passive,,,both,Signs and symptoms,normal
+Regular uterine contractions,Regular uterine contractions,,,,female,Signs and symptoms,serious
+Regurgitation,Food coming back up into the mouth,,,,both,Signs and symptoms,normal
+Religious delusion,Religious delusion,,,,both,Signs and symptoms,normal
+Respiratory distress,Breathing problems after an injury, after trauma,,,both,Signs and symptoms,emergency_ambulance
+Restless legs,Nighttime restless legs, nocturnal,,,both,Signs and symptoms,normal
+Restricted mobility,Difficulty bending down, difficulty bending over,,,both,Signs and symptoms,normal
+Retinal artery occlusions,Retinal artery occlusions,,,,both,Signs and symptoms,normal
+Retinal hemorrhage,Retinal hemorrhage,,,,both,Signs and symptoms,normal
+Retinal microaneurysms,Retinal microaneurysms,,,,both,Signs and symptoms,normal
+Retinal neovascularization elsewhere,Retinal neovascularization elsewhere,,,,both,Signs and symptoms,normal
+Retinal swelling,Retinal swelling,,,,both,Signs and symptoms,normal
+Retraction or indentation of nipple,Change in the nipple,,,,female,Signs and symptoms,normal
+Retrobulbar neuritis,Retrobulbar neuritis,,,,both,Signs and symptoms,normal
+Rhinitis triggered by environment,Runny or stuffy nose triggered by environment,,,,both,Signs and symptoms,normal
+Rhinophyma,Ruddy bulbous nose,,,,both,Signs and symptoms,normal
+Risky alcohol consumption,Risky drinking,,,,both,Signs and symptoms,normal
+Romberg's sign,Romberg's sign,,,,both,Signs and symptoms,normal
+Rose spots on lower chest and abdomen,Rose spots on lower chest and abdomen,,,,both,Signs and symptoms,normal
+Rossolimo's sign,Rossolimo's sign,,,,both,Signs and symptoms,emergency
+Rovsing's sign,Rovsing's sign,,,,both,Signs and symptoms,normal
+Russell's sign,Russell's sign,,,,both,Signs and symptoms,normal
+Sagging of the palate ipsilateral to suspected nerve damage,Sagging of the palate ipsilateral to suspected nerve damage,,,,both,Signs and symptoms,normal
+Scarlet fever rash,Scarlet fever rash,,,,both,Signs and symptoms,normal
+Schaeffer's sign,Schaeffer's sign,,,,both,Signs and symptoms,normal
+Schizophasia,Schizophasia,,,,both,Signs and symptoms,normal
+Scleral icterus,Yellow eyes,,,,both,Signs and symptoms,serious
+Scotoma,Black spots in vision,,,,both,Signs and symptoms,normal
+Scrotal transillumination,Scrotal transillumination,,,,male,Signs and symptoms,normal
+Seasonal pattern of depressive symptoms,Depressive symptoms occurring at the same time every year,,,,both,Signs and symptoms,normal
+Secret alcohol consumption,Secretly drinking alcohol,,,,both,Signs and symptoms,normal
+Seizures,Recurrent seizures, recurrent,,,both,Signs and symptoms,serious
+Seizures,Seizures,,,,both,Signs and symptoms,serious
+Seizures,Seizures with loss of consciousness, with loss of consciousness,,,both,Signs and symptoms,emergency_ambulance
+Seizures,Seizures without loss of consciousness, without loss of consciousness,,,both,Signs and symptoms,serious
+Self-injurious behaviour,Recent self-injurious behaviour, recent,,,both,Signs and symptoms,serious
+Self-injurious thoughts or behaviours,Self-injurious thoughts or behaviours,,,,both,Signs and symptoms,serious
+Sense of self-worth dependent on weight,Self-worth based on weight,,,,both,Signs and symptoms,normal
+Sensory loss in both arms,Loss of feeling in both arms,,,,both,Signs and symptoms,serious
+Sensory loss in one limb,Loss of feeling in one arm or leg,,,,both,Signs and symptoms,emergency_ambulance
+Serious injury,"Serious injury, respiratory difficulty, severe bleeding, new neurological problem", respiratory difficulty, severe bleeding, new neurological problem,both,Other,serious
+Severe pain,Severe pain after an injury, after trauma,,,both,Signs and symptoms,serious
+Sexual activity more often or with more partners than intended,Sexual activity more often or with more partners than intended,,,,both,Signs and symptoms,normal
+Sexual intercourse in recent months,Sexual intercourse in recent months,,,,female,Signs and symptoms,normal
+Shafer's sign,Shafer's sign,,,,both,Signs and symptoms,normal
+Shallow breathing,Shallow breathing,,,,both,Signs and symptoms,serious
+Simple auditory paradelusions,Simple auditory paradelusions,,,,both,Signs and symptoms,normal
+Simple visual paradelusions,Simple visual paradelusions,,,,both,Signs and symptoms,normal
+Single red area,Single red area larger than 1 cm, larger than 1 cm,,,both,Signs and symptoms,normal
+Single red spot,Single red spot smaller than 1 cm, smaller than 1 cm,,,both,Signs and symptoms,normal
+Skin desquamation,Skin shedding,,,,both,Signs and symptoms,normal
+Skin mass,Bleeding lump or bump, bleeding,,,both,Signs and symptoms,serious
+Skin mass,Bump smaller than 1 cm, smaller than 1 cm,,,both,Signs and symptoms,normal
+Skin mass,Firm lump on the skin larger than 1 cm, larger than 1 cm, firm,,both,Signs and symptoms,normal
+Skin mass,Lump larger than 1 cm, larger than 1 cm,,,both,Signs and symptoms,normal
+Skin mass,Lump of unknown consistency larger than 1 cm, larger than 1 cm, unknown consistency,,both,Signs and symptoms,normal
+Skin mass,Lump or bump in groove between buttocks, natal cleft,,,both,Signs and symptoms,normal
+Skin mass,Lumps or bumps,,,,both,Signs and symptoms,normal
+Skin mass,Soft lump on the skin larger than 1 cm, larger than 1 cm, soft,,both,Signs and symptoms,normal
+Skin pain,Severe skin pain, severe,,,both,Signs and symptoms,normal
+Skin pain,Skin pain,,,,both,Signs and symptoms,normal
+Skin pallor,Sudden paleness of skin, sudden,,,both,Signs and symptoms,normal
+Skin phototype I or II,Light or fair skin that easily burns,,,,both,Signs and symptoms,normal
+Skin thickening,Skin thickening,,,,both,Signs and symptoms,normal
+Skin wound,Self-inflicted wound, self-inflicted,,,both,Signs and symptoms,normal
+Skin wound,Skin wound,,,,both,Signs and symptoms,normal
+Skin wound,Skin wound after injury, trauma-related,,,both,Signs and symptoms,normal
+Skin wound,Surgical wound, after surgery,,,both,Signs and symptoms,normal
+Skin wound,Ulcer unrelated to an injury, non-traumatic ulcer,,,both,Signs and symptoms,normal
+Skull lesions,Skull lesions,,,,both,Signs and symptoms,normal
+Sleep disorder,Changes in sleeping patterns or habit,,,,both,Signs and symptoms,normal
+Slower gait,Slower walk,,,,both,Signs and symptoms,normal
+Smoking,Difficulty not smoking first cigarette of the day, need first cigarette of the day,,,both,Signs and symptoms,normal
+Smoking,Smoking as soon as waking up, need when waking up,,,both,Signs and symptoms,normal
+Smoking,Smoking even when sick, during illness,,,both,Signs and symptoms,normal
+Smoking,Smoking in non-smoking areas, in non-smoking areas,,,both,Signs and symptoms,normal
+Smoking,Smoking more than 20 cigarettes a day, large quantities,,,both,Signs and symptoms,normal
+Smoking,Smoking mostly in the morning, mostly in the morning,,,both,Signs and symptoms,normal
+Smooth face without wrinkles,Smooth face without wrinkles,,,,both,Signs and symptoms,normal
+Sneezing,Sneezing,,,,both,Signs and symptoms,normal
+Sneezing attacks,Sneezing fits,,,,both,Signs and symptoms,normal
+Snoring,Snoring,,,,both,Signs and symptoms,normal
+Social isolation,Social isolation,,,,both,Signs and symptoms,normal
+Social maladjustment,Social maladjustment,,,,both,Signs and symptoms,normal
+Soft lump in inguinal region,Soft lump gets bigger with increase in abdominal pressure, increasing with increased abdominal pressure,,,both,Signs and symptoms,normal
+Soft lump in inguinal region,Soft lump in groin,,,,both,Signs and symptoms,normal
+Soft lump in inguinal region,Soft lump in groin can be pushed back in groin, reducible,,,both,Signs and symptoms,normal
+Soft lump in inguinal region,Soft lump in groin gets smaller when lying down, decreasing when supine,,,both,Signs and symptoms,normal
+Soft retinal exudates,Soft retinal exudates,,,,both,Signs and symptoms,normal
+Spasms in upper extremities,Spasms in arms or hands,,,,both,Signs and symptoms,normal
+Spasticity,Tight and spasming muscles,,,,both,Signs and symptoms,normal
+Speech and language impairment,Recent speech and language difficulties, rapid onset,,,both,Signs and symptoms,serious
+Spending a lot of time on sex-related activity,Spending a lot of time on sex-related activity,,,,both,Signs and symptoms,normal
+Spine asymmetry,Spine asymmetry,,,,both,Signs and symptoms,normal
+Spine stiffness in the morning,Stiff spine in the morning,,,,both,Signs and symptoms,normal
+Splenomegaly,Enlarged spleen,,,,both,Signs and symptoms,serious
+Steatorrhea,Fatty stools,,,,both,Signs and symptoms,normal
+Sterling's sign,Sterling's sign,,,,both,Signs and symptoms,normal
+Sternal rub,Sternal rub,,,,both,Signs and symptoms,normal
+Stiff neck,Stiff neck,,,,both,Signs and symptoms,normal
+Stransky's sign,Stransky's sign,,,,both,Signs and symptoms,normal
+Strawberry tongue,Strawberry tongue,,,,both,Signs and symptoms,normal
+Strumpell's sign,Strumpell's sign,,,,both,Signs and symptoms,serious
+Subungual splinter hemorrhages,Small red spots or lines under the nail,,,,both,Signs and symptoms,normal
+Sudden face flushing,Sudden face flushing,,,,both,Signs and symptoms,normal
+Sudden increase in blood pressure,Sudden increase in blood pressure,,,,both,Signs and symptoms,serious
+Suicidal thoughts,Suicidal thoughts,,,,both,Signs and symptoms,serious
+Suicidal thoughts with plan and steps taken,Suicidal thoughts with plan and steps taken,,,,both,Signs and symptoms,emergency_ambulance
+Sunburn,Sunburn,,,,both,Signs and symptoms,normal
+Suspicion of intoxication or poisoning,Possible intoxication or poisoning,,,,both,Signs and symptoms,serious
+Suspicious mole or birthmark,Asymmetric mole or birthmark, asymmetrical,,,both,Signs and symptoms,normal
+Suspicious mole or birthmark,Change in colour of mole or birthmark, change in colour,,,both,Signs and symptoms,normal
+Suspicious mole or birthmark,Change in shape of mole or birthmark, change in shape,,,both,Signs and symptoms,normal
+Suspicious mole or birthmark,Mole or birthmark larger than 6 mm, larger than 6 mm,,,both,Signs and symptoms,normal
+Suspicious mole or birthmark,Mole or birthmark with irregular border, irregular border,,,both,Signs and symptoms,normal
+Suspicious mole or birthmark,Suspicious mole or birthmark,,,,both,Signs and symptoms,normal
+Swallowed foreign body,Swallowed object,,,,both,Signs and symptoms,emergency
+Sweating on painful side of forehead,Sweating on painful side of forehead,,,,both,Signs and symptoms,normal
+Swelling in the mastoid region,Swelling behind ear,,,,both,Signs and symptoms,normal
+Swelling of nasal concha,Swelling of nasal concha,,,,both,Signs and symptoms,normal
+Swelling of nasal mucosa,Swelling of nasal mucosa,,,,both,Signs and symptoms,normal
+Swelling of temporal artery,Swelling of temporal artery,,,,both,Signs and symptoms,normal
+Swollen blue or bluish-gray nasal mucosa,Swollen blue or bluish-gray nasal mucosa,,,,both,Signs and symptoms,normal
+Swollen cheek,Swollen cheek,,,,both,Signs and symptoms,normal
+Swollen gums,Swollen gums,,,,both,Signs and symptoms,normal
+Symptoms appearing after taking painkillers or a change in diet,Symptoms appearing after taking painkillers or a change in diet,,,,both,Signs and symptoms,normal
+Symptoms exacerbated by low temperature,Symptoms worse in the cold,,,,both,Signs and symptoms,normal
+Symptoms regularly appearing a few days before menstrual period,Symptoms regularly appearing a few days before period,,,,female,Signs and symptoms,normal
+Tachycardia,Fast heart rate,,,,both,Signs and symptoms,normal
+Tachypnea,Accelerated breathing,,,,both,Signs and symptoms,serious
+Taste disorder,Taste disorder in anterior two-thirds of tongue, anterior two-thirds of tongue,,,both,Signs and symptoms,normal
+Taste disorders,Abnormal or loss of taste,,,,both,Signs and symptoms,normal
+Telangiectasias,Spider veins,,,,both,Signs and symptoms,normal
+Telangiectasias,Spider veins on the face, face,,,both,Signs and symptoms,normal
+Temporary blindness,Temporary blindness,,,,both,Signs and symptoms,emergency
+Tenderness in the scrotum,Pain when pressing scrotum,,,,male,Signs and symptoms,serious
+Tenesmus,Feeling of incomplete defecation,,,,both,Signs and symptoms,normal
+Terry's nails,Terry's nails,,,,both,Signs and symptoms,normal
+Testicular atrophy,Shrinking or diminishing of both testicles,,,,male,Signs and symptoms,normal
+Thickened nails,Thickened nails,,,,both,Signs and symptoms,normal
+Thickened nails,Thickened nails with pits or grooves, with pits or grooves,,,both,Signs and symptoms,normal
+Third-degree burn,Full-thickness skin burn,,,,both,Signs and symptoms,emergency
+Thoughts of harming one's child,Thoughts of harming one's child,,,,female,Signs and symptoms,serious
+Thoughts of killing one's child,Thoughts of killing one's child,,,,female,Signs and symptoms,serious
+Tingling fingers,Tingling fingers,,,,both,Signs and symptoms,normal
+Tingling fingers,Tingling in the ring and little finger, fourth and fifth digits,,,both,Signs and symptoms,normal
+Tingling fingers,"Tingling in the thumb, index and middle finger", first three digits,,,both,Signs and symptoms,normal
+Tinnitus,Pulsing sound in ears, pulsatile,,,both,Signs and symptoms,normal
+Tinnitus,Ringing in ears,,,,both,Signs and symptoms,normal
+Toe pain,Toe pain,,,,both,Signs and symptoms,normal
+Tongue enlargement,Swollen tongue,,,,both,Signs and symptoms,normal
+Tongue erythema,Unusually red tongue,,,,both,Signs and symptoms,normal
+Tongue muscle atrophy,Shrinkage of tonuge,,,,both,Signs and symptoms,normal
+Tonsil stones,White or yellow formations in tonsils,,,,both,Signs and symptoms,normal
+Tooth loss,Tooth loss,,,,both,Signs and symptoms,normal
+Toothache,Constant toothache, persistent,,,both,Signs and symptoms,normal
+Toothache,Difficulty identifying how many teeth hurt, difficulty determining how many teeth hurt,,,both,Signs and symptoms,normal
+Toothache,Difficulty identifying which tooth hurts, difficulty determining which tooth hurts,,,both,Signs and symptoms,normal
+Toothache,Dull toothache, dull,,,both,Signs and symptoms,normal
+Toothache,Mild toothache, mild,,,both,Signs and symptoms,normal
+Toothache,Moderate toothache, moderate,,,both,Signs and symptoms,normal
+Toothache,Pain associated with tapping a tooth, sensitivity to percussion,,,both,Signs and symptoms,normal
+Toothache,Pain in multiple teeth, multiple teeth,,,both,Signs and symptoms,normal
+Toothache,Pain in one tooth, one tooth,,,both,Signs and symptoms,normal
+Toothache,Provoked toothache, provoked,,,both,Signs and symptoms,normal
+Toothache,Pulsating toothache, pulsating,,,both,Signs and symptoms,normal
+Toothache,Severe toothache, severe,,,both,Signs and symptoms,normal
+Toothache,Sharp toothache, sharp,,,both,Signs and symptoms,normal
+Toothache,Spontaneous toothache, spontaneous,,,both,Signs and symptoms,normal
+Toothache,Spreading toothache, radiating,,,both,Signs and symptoms,normal
+Toothache,Toothache,,,,both,Signs and symptoms,normal
+Toothache,Toothache associated with cold, associated with cold,,,both,Signs and symptoms,normal
+Toothache,Toothache associated with heat, associated with heat,,,both,Signs and symptoms,normal
+Toothache,Toothache associated with sweet or acidic foods or drinks, associated with sweet or acidic foods or drinks,,,both,Signs and symptoms,normal
+Toothache,Toothache associated with touch, associated with touch,,,both,Signs and symptoms,normal
+Toothache,Toothache lasting 48 hours or more, lasting 48 hours or more,,,both,Signs and symptoms,normal
+Toothache,Toothache lasting less than 48 hours, lasting less than 48 hours,,,both,Signs and symptoms,normal
+Toothache,Toothache when chewing, associated with chewing,,,both,Signs and symptoms,normal
+Toothache,Toothache when lying down, associated with lying down,,,both,Signs and symptoms,normal
+Toothache,Transient toothache, transient,,,both,Signs and symptoms,normal
+Transverse furrow on the nose,Transverse furrow on the nose,,,,both,Signs and symptoms,normal
+Tremors,Flapping tremors, flapping,,,both,Signs and symptoms,normal
+Tremors,Intention tremors, intention,,,both,Signs and symptoms,normal
+Tremors,Muscles trembling,,,,both,Signs and symptoms,normal
+Tremors,Trembling at rest, resting,,,both,Signs and symptoms,normal
+Tremors,Trembling during movement, kinetic,,,both,Signs and symptoms,normal
+Tremors,Trembling hand, one hand,,,both,Signs and symptoms,normal
+Tremors,Trembling of both hands, both hands,,,both,Signs and symptoms,normal
+Tremors,Trembling of tongue, tongue,,,both,Signs and symptoms,normal
+Tremors,Trembling subsiding after alcohol, subsides after drinking alcohol,,,both,Signs and symptoms,normal
+Tremors,Trembling worsening under stress, stress-related,,,both,Signs and symptoms,normal
+Tremors,Unknown location of tremors, unspecified location,,,both,Signs and symptoms,normal
+Trigeminal neuralgia,Trigeminal neuralgia,,,,both,Signs and symptoms,normal
+Trismus,Lockjaw,,,,both,Signs and symptoms,serious
+Tromner's sign,Tromner's sign,,,,both,Signs and symptoms,normal
+Trophic changes,Trophic changes,,,,both,Signs and symptoms,normal
+Trophic ulcer,Trophic ulcer,,,,both,Signs and symptoms,normal
+Trophic ulcer,Trophic ulcer on the plantar side of the foot, plantar side of the foot,,,both,Signs and symptoms,normal
+Trouble beginning urination,Trouble beginning urination,,,,both,Signs and symptoms,normal
+Trousseau sign of latent tetany,Trousseau sign of latent tetany,,,,both,Signs and symptoms,normal
+Twisted neck,Twisted neck,,,,both,Signs and symptoms,normal
+Ulcer,Non-healing ulcers, not healing within 6 weeks,,,both,Signs and symptoms,normal
+Ulcer,Painless ulcer, completely painless,,,both,Signs and symptoms,normal
+Ulcer,"Ulcer, nipple", nipple,,,female,Signs and symptoms,serious
+Ulcer,"Ulcer, sore, or abscess near the anus", sore, or abscess near the anus,,both,Signs and symptoms,normal
+Umbilical discharge,Belly button discharge,,,,both,Signs and symptoms,serious
+Unhealthy weight loss practices,Using methods such as vomiting and starvation diets to lose weight,,,,both,Signs and symptoms,normal
+Unilateral enophthalmos,One sunken eyeball,,,,both,Signs and symptoms,serious
+Unilateral vulval swelling,Labial swelling on one side,,,,female,Signs and symptoms,serious
+Unknown heart rate,Unknown pulse,,,,both,Signs and symptoms,normal
+Upper limb pallor,Pale arm,,,,both,Signs and symptoms,serious
+Urethral discharge when pressing the penis,Discharge when pressing penis,,,,male,Signs and symptoms,serious
+Urinary incontinence,Leaking urine by accident,,,,both,Signs and symptoms,normal
+Urinary retention,Unable to urinate,,,,both,Signs and symptoms,emergency
+Urinary urgency,Urgent need to urinate,,,,both,Signs and symptoms,normal
+Urination in small amounts,Urination in small amounts,,,,both,Signs and symptoms,normal
+Urination while coughing,"Urination while coughing, laughing, or during physical activity", laughing, or during physical exertion,,both,Signs and symptoms,normal
+Urticaria,Hives,,,,both,Signs and symptoms,normal
+Urticaria,Hives after scratching, triggered by scratching,,,both,Signs and symptoms,normal
+Urticaria,Hives appearing after exposure to cold, triggered by cold,,,both,Signs and symptoms,normal
+Urticaria,Hives appearing after exposure to heat, triggered by heat,,,both,Signs and symptoms,normal
+Urticaria,Hives appearing after exposure to prolonged pressure on the skin, triggered by prolonged pressure on the skin,,,both,Signs and symptoms,normal
+Urticaria,Hives lasting more than 6 weeks, lasting more than 6 weeks,,,both,Signs and symptoms,normal
+Uvula deviation towards unaffected side,Uvula deviation towards unaffected side,,,,both,Signs and symptoms,normal
+Vaginal discharge,Grey vaginal discharge, grey,,,female,Signs and symptoms,normal
+Vaginal discharge,Vaginal discharge with unpleasant odour, unpleasant odour,,,female,Signs and symptoms,normal
+Vaginal discharge,White and clumpy vaginal discharge, white and clumpy,,,female,Signs and symptoms,normal
+Vaginal dryness,Vaginal dryness,,,,female,Signs and symptoms,normal
+Vascular compromise,Limited blood supply past the injury site,,,,both,Signs and symptoms,emergency
+Vesicular exanthema of mouth or ear,Blisters around the mouth or ear,,,,both,Signs and symptoms,normal
+Violating social norms after drinking alcohol,Violating social norms after drinking alcohol,,,,both,Signs and symptoms,normal
+Visible head lice on scalp or brush,Visible head lice on scalp or brush,,,,both,Signs and symptoms,normal
+Visual agnosia,Visual agnosia,,,,both,Signs and symptoms,serious
+Visual field narrowing,Tunnel Vision,,,,both,Signs and symptoms,normal
+Vitreous hemorrhage,Vitreous hemorrhage,,,,both,Signs and symptoms,serious
+Vomiting,Projectile vomiting, projectile,,,both,Signs and symptoms,emergency
+Vomiting,Vomiting,,,,both,Signs and symptoms,normal
+Vomiting,Vomiting after every meal, every time after meal,,,both,Signs and symptoms,serious
+Vomiting,Vomiting for a week or more, 7 days or more,,,both,Signs and symptoms,serious
+Vomiting,Vomiting for less than a week, less than 7 days,,,both,Signs and symptoms,normal
+Vomiting,Vomiting more often in the morning, more often in the morning,,,both,Signs and symptoms,normal
+Vulvovaginal burning,Vulvovaginal burning,,,,female,Signs and symptoms,normal
+Vulvovaginal itching,Vulvovaginal itching,,,,female,Signs and symptoms,normal
+Waking up early,Waking up early,,,,both,Signs and symptoms,normal
+Weak or absent pharyngeal reflex,Weak or absent pharyngeal reflex,,,,both,Signs and symptoms,normal
+Weak peripheral pulses,Weak peripheral pulses,,,,both,Signs and symptoms,normal
+Weak pulse in legs,Weak pulse in legs,,,,both,Signs and symptoms,normal
+Weight gain,Weight gain,,,,both,Signs and symptoms,normal
+Weight loss,Weight loss,,,,both,Signs and symptoms,normal
+Weight loss,Weight loss without loss of appetite, without loss of appetite,,,both,Signs and symptoms,normal
+Weiss ring,Weiss ring,,,,both,Signs and symptoms,normal
+Westphal's sign,Westphal's sign,,,,both,Signs and symptoms,normal
+Wheezing,Stridor, stridor,,,both,Signs and symptoms,serious
+Wheezing,Sudden wheezing, acute,,,both,Signs and symptoms,serious
+White nail discolouration,White spots on nail,,,,both,Signs and symptoms,normal
+White patch on cornea,White spot on cornea,,,,both,Signs and symptoms,serious
+Winterbottom's sign,Winterbottom's sign,,,,both,Signs and symptoms,normal
+Worms in stool,Worms in stool or around anus,,,,both,Signs and symptoms,normal
+Wound,Active wound bleeding, active bleeding,,,both,Signs and symptoms,normal
+Wound,Wound on the lip, lip,,,both,Signs and symptoms,normal
+Wrinkling or dimpling of skin on breast,Wrinkling or dimpling of skin on breast,,,,female,Signs and symptoms,normal
+Wrist drop,Dropping hand,,,,both,Signs and symptoms,serious
+Writing difficulties,Writing difficulties,,,,both,Signs and symptoms,normal
+Xanthelasma,Yellowish deposits on eyelids,,,,both,Signs and symptoms,normal
+Xanthoma,Yellowish deposits under skin,,,,both,Signs and symptoms,normal
+Yellow nail discolouration,Yellow nails,,,,both,Signs and symptoms,normal
+Yellow or green coloured stool,Yellow or green stool,,,,both,Signs and symptoms,normal

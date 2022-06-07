@@ -1,0 +1,746 @@
+name,common_name,sex_filter,categories,prevalence,acuteness,severity,triage_level,recommended_channel
+ACE inhibitor-induced cough,ACE inhibitor-induced cough,both,Cardiology,very_rare,acute_potentially_chronic,mild,consultation,audio_teleconsultation
+Abdominal aortic aneurysm,Abdominal aortic aneurysm,both,Surgery,very_rare,chronic,severe,consultation_24,personal_visit
+Abdominal aortic dissection,Abdominal aortic dissection,both,Surgery,very_rare,acute_potentially_chronic,severe,emergency_ambulance,personal_visit
+"Abdominal pain, unspecified",Unspecific abdominal pain,both,Gastroenterology,common,acute,mild,self_care,text_teleconsultation
+Abducens nerve palsy,Sixth nerve palsy,both,Ophthalmology,very_rare,chronic,mild,consultation,personal_visit
+Acetaminophen poisoning,Paracetamol poisoning,both,Toxicology,very_rare,acute,severe,emergency,personal_visit
+Achalasia,Achalasia,both,Gastroenterology,very_rare,chronic,moderate,consultation,personal_visit
+Achilles tendinitis,Achilles tendinitis,both,Orthopedics,very_rare,acute_potentially_chronic,mild,self_care,personal_visit
+Achilles tendon rupture,Achilles tendon rupture,both,Traumatology,very_rare,acute,moderate,consultation_24,personal_visit
+Acne,Acne,both,Dermatology,moderate,chronic_with_exacerbations,mild,self_care,video_teleconsultation
+Acquired immunodeficiency syndrome,AIDS,both,Infectiology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Acromegaly,Acromegaly,both,Endocrinology,very_rare,chronic,mild,consultation,personal_visit
+Acute HIV infection,Acute HIV infection,both,Infectiology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Acute angle-closure glaucoma,Acute angle-closure glaucoma,both,Ophthalmology,very_rare,acute,severe,emergency,personal_visit
+Acute anticholinergic syndrome,Acute anticholinergic syndrome,both,Toxicology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Acute bacterial rhinosinusitis,Acute bacterial sinusitis,both,Otorhinolaryngology,rare,acute,moderate,consultation,audio_teleconsultation
+Acute bronchitis,Acute bronchitis,both,Pulmonology,common,acute,mild,consultation,personal_visit
+Acute cholinergic syndrome,Acute cholinergic syndrome,both,Toxicology,very_rare,acute,severe,emergency,personal_visit
+Acute cystitis,Bladder infection,both,Urology,rare,acute,mild,consultation_24,audio_teleconsultation
+Acute heart failure,Acute heart failure,both,Cardiology,very_rare,acute_potentially_chronic,severe,emergency,personal_visit
+Acute hypnotic toxicity,Acute hypnotic toxicity,both,Toxicology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Acute intestinal ischemia,Acute intestinal ischemia,both,Surgery,very_rare,acute,severe,emergency,personal_visit
+Acute kidney injury,Acute kidney failure,both,Nephrology,very_rare,acute,severe,emergency,personal_visit
+Acute laryngitis,Acute laryngitis,both,Otorhinolaryngology,moderate,acute_potentially_chronic,moderate,self_care,audio_teleconsultation
+Acute liver failure,Acute liver failure,both,Gastroenterology,very_rare,acute,severe,emergency,personal_visit
+Acute lower gastrointestinal hemorrhage,Acute lower gastrointestinal bleeding,both,Gastroenterology,very_rare,acute,severe,emergency,personal_visit
+Acute lower limb ischemia,Acute lower limb ischemia,both,Surgery,very_rare,acute,severe,emergency,personal_visit
+Acute lymphoblastic leukemia,Acute lymphoid leukemia,both,Hematology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Acute mastoiditis,Acute mastoiditis,both,Otorhinolaryngology,very_rare,acute,severe,consultation_24,personal_visit
+Acute myeloid leukemia,Acute myeloid leukemia,both,Hematology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Acute opioid toxicity,Acute opioid toxicity,both,Toxicology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Acute otitis media,Middle ear infection,both,Otorhinolaryngology,moderate,acute,moderate,consultation,personal_visit
+Acute pancreatitis,Acute pancreatitis,both,Gastroenterology,very_rare,acute,severe,emergency,personal_visit
+Acute porphyria,Acute porphyria,both,Genetics,very_rare,chronic_with_exacerbations,severe,consultation_24,personal_visit
+Acute rheumatic fever,Acute rheumatic fever,both,Cardiology,very_rare,acute,moderate,consultation_24,personal_visit
+Acute stimulant overdose,Acute stimulant overdose,both,Toxicology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Acute streptococcal tonsillopharyngitis,Acute streptococcal tonsillopharyngitis,both,Otorhinolaryngology,moderate,acute,moderate,consultation_24,personal_visit
+Acute stress reaction,Acute reaction to stress,both,Psychiatry,rare,acute_potentially_chronic,mild,self_care,video_teleconsultation
+Acute thyroiditis,Acute thyroiditis,both,Endocrinology,very_rare,acute,moderate,consultation_24,personal_visit
+Acute upper gastrointestinal bleeding,Acute upper gastrointestinal bleeding,both,Gastroenterology,very_rare,acute,severe,emergency,personal_visit
+Acute upper limb ischemia,Acute upper limb ischemia,both,Surgery,very_rare,acute,severe,emergency,personal_visit
+Acute urticaria,Short-term hives,both,Dermatology,moderate,acute,mild,self_care,video_teleconsultation
+Acute viral rhinosinusitis,Acute viral sinusitis,both,Otorhinolaryngology,moderate,acute,moderate,self_care,audio_teleconsultation
+Acute viral tonsillopharyngitis,Acute viral tonsillopharyngitis,both,Otorhinolaryngology,common,acute,mild,self_care,video_teleconsultation
+Addison's disease,Addison's disease,both,Endocrinology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Adenomyosis,Adenomyosis,female,Gynecology,very_rare,chronic,mild,consultation,personal_visit
+Adhesive capsulitis of shoulder,Frozen shoulder,both,Orthopedics,very_rare,chronic,mild,consultation,personal_visit
+Adjustment disorder,Adjustment disorder,both,Psychiatry,very_rare,acute_potentially_chronic,mild,self_care,video_teleconsultation
+Adrenal cancer,Adrenal cancer,both,Oncology,very_rare,chronic,severe,consultation,personal_visit
+Adverse event following immunization,Post-immunization reaction,both,Infectiology,very_rare,acute_potentially_chronic,mild,self_care,personal_visit
+African trypanosomiasis,Sleeping sickness,both,Infectiology,very_rare,acute,severe,consultation_24,personal_visit
+Agoraphobia,Agoraphobia,both,Psychiatry,very_rare,chronic,mild,consultation,audio_teleconsultation
+Alcohol poisoning,Alcohol poisoning,both,Toxicology,very_rare,acute,severe,emergency,personal_visit
+Alcohol withdrawal syndrome,Alcohol withdrawal syndrome,both,Psychiatry,very_rare,acute,moderate,consultation_24,personal_visit
+Alcoholic cerebellar degeneration,Alcoholic cerebellar degeneration,both,Toxicology,very_rare,chronic,mild,consultation,personal_visit
+Alcoholic liver disease,Alcoholic liver disease,both,Gastroenterology,very_rare,chronic,moderate,consultation,personal_visit
+Alcoholism,Alcoholism,both,Psychiatry,very_rare,chronic,moderate,consultation,video_teleconsultation
+Allergic bronchopulmonary aspergillosis,Allergic bronchopulmonary aspergillosis,both,Pulmonology,very_rare,acute_potentially_chronic,severe,consultation,personal_visit
+Allergic conjunctivitis,Allergic conjunctivitis,both,Allergology,moderate,chronic_with_exacerbations,mild,self_care,video_teleconsultation
+Allergic rhinitis,Hay fever,both,Allergology,moderate,chronic_with_exacerbations,mild,self_care,text_teleconsultation
+Alopecia,Baldness,both,Dermatology,rare,chronic,mild,consultation,personal_visit
+Amebiasis,Amebiasis,both,Infectiology,very_rare,acute,moderate,consultation_24,personal_visit
+American trypanosomiasis,Chagas disease,both,Infectiology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Ampullary cancer,Ampullary cancer,both,Oncology,very_rare,chronic,severe,consultation,personal_visit
+Amyloidosis,Amyloidosis,both,Rheumatology,very_rare,chronic,moderate,consultation,personal_visit
+Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,both,Neurology,very_rare,chronic,severe,consultation,personal_visit
+Anal cancer,Anal cancer,both,Oncology,very_rare,chronic,severe,consultation,personal_visit
+Anal fissure,Anal fissure,both,Surgery,rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Anal fistula,Anal fistula,both,Surgery,rare,chronic,severe,consultation_24,personal_visit
+Anaphylaxis,Severe allergic reaction,both,Allergology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Anemia of chronic disease,Anemia of chronic disease,both,Hematology,very_rare,chronic,moderate,consultation,audio_teleconsultation
+Angioedema,Angioedema,both,Allergology,rare,acute,severe,emergency,personal_visit
+Ankle contusion,Ankle contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Ankle joint dislocation,Dislocated ankle,both,Traumatology,very_rare,acute,moderate,consultation,personal_visit
+Ankle osteoarthritis,Ankle osteoarthritis,both,Orthopedics,very_rare,chronic,mild,consultation,personal_visit
+Ankylosing spondylitis,Ankylosing spondylitis,both,Rheumatology,very_rare,chronic,moderate,consultation,personal_visit
+Anogenital warts,Genital warts,both,Venereology,rare,chronic,mild,consultation,personal_visit
+Anorexia nervosa,Anorexia nervosa,both,Psychiatry,very_rare,chronic,moderate,consultation,video_teleconsultation
+Antibiotic associated diarrhea,Antibiotic associated diarrhea,both,Gastroenterology,very_rare,acute,mild,consultation,audio_teleconsultation
+Antiphospholipid syndrome,Antiphospholipid syndrome,both,Rheumatology,very_rare,chronic_with_exacerbations,severe,consultation_24,personal_visit
+Anxiety disorder,Anxiety disorder,both,Psychiatry,moderate,chronic_with_exacerbations,moderate,consultation,video_teleconsultation
+Anxiety disorder with panic attacks,Anxiety disorder with panic attacks,both,Psychiatry,rare,chronic_with_exacerbations,severe,consultation_24,video_teleconsultation
+Aphthous stomatitis,Canker sores,both,Dentistry,very_rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Aplastic anemia,Aplastic anemia,both,Hematology,very_rare,acute_potentially_chronic,severe,consultation,personal_visit
+Appendicitis,Appendicitis,both,Surgery,rare,acute,severe,emergency,personal_visit
+Arm contusion,Arm contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Ascariasis,Ascariasis,both,Infectiology,very_rare,acute_potentially_chronic,mild,consultation_24,personal_visit
+Asthma,Asthma,both,Pulmonology,rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Asthma exacerbation,Asthma exacerbation,both,Pulmonology,very_rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Atopic dermatitis,Eczema,both,Allergology,rare,chronic_with_exacerbations,mild,consultation,video_teleconsultation
+Atrial fibrillation,Atrial fibrillation,both,Cardiology,very_rare,chronic_with_exacerbations,severe,emergency,personal_visit
+Atrophic vaginitis,Atrophy of vagina,female,Gynecology,very_rare,chronic,mild,consultation,personal_visit
+Attention deficit hyperactivity disorder,Attention deficit hyperactivity disorder,both,Psychiatry,very_rare,chronic,moderate,consultation,video_teleconsultation
+Atypical pneumonia,Atypical pneumonia,both,Pulmonology,rare,acute,moderate,consultation_24,personal_visit
+Autoimmune hepatitis,Autoimmune hepatitis,both,Gastroenterology,very_rare,chronic_with_exacerbations,severe,consultation_24,personal_visit
+Back and pelvis contusion,Back and pelvis contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Bacterial gastroenteritis,Bacterial gastroenteritis,both,Gastroenterology,moderate,acute,moderate,consultation,audio_teleconsultation
+Bacterial meningitis,Bacterial meningitis,both,Infectiology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Bacterial vaginitis,Bacterial vaginitis,female,Gynecology,rare,acute_potentially_chronic,mild,consultation,personal_visit
+Baker's cyst,Baker's cyst of knee,both,Orthopedics,rare,chronic,mild,consultation,personal_visit
+Balanoposthitis,Balanoposthitis,male,Urology,rare,acute,moderate,consultation,personal_visit
+Bartholin's abscess,Bartholin's abscess,female,Gynecology,rare,acute,moderate,consultation_24,personal_visit
+Bartholin's cyst,Vulvar cyst,female,Gynecology,moderate,acute_potentially_chronic,mild,consultation,personal_visit
+Beeturia,Red urine after eating beets,both,Other,very_rare,acute,mild,self_care,personal_visit
+Behçet's disease,Behçet's disease,both,Rheumatology,very_rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Benign paroxysmal positional vertigo,Benign paroxysmal positional vertigo,both,Otorhinolaryngology,very_rare,chronic,mild,consultation,video_teleconsultation
+Benign prostatic hyperplasia,Benign prostatic hyperplasia,male,Urology,very_rare,chronic,mild,consultation,personal_visit
+Bipolar disorder,Bipolar disorder,both,Psychiatry,rare,chronic_with_exacerbations,severe,consultation_24,video_teleconsultation
+Biventricular heart failure,Biventricular heart failure,both,Cardiology,very_rare,chronic,severe,consultation_24,personal_visit
+Bladder cancer,Bladder cancer,both,Urology,very_rare,chronic,severe,consultation,personal_visit
+Blepharitis,Eyelid inflammation,both,Ophthalmology,moderate,chronic_with_exacerbations,mild,self_care,video_teleconsultation
+Blunt abdominal trauma,Blunt stomach trauma,both,Traumatology,very_rare,acute,moderate,consultation,personal_visit
+Botulism,Botulism,both,Infectiology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Brain abscess,Brain abscess,both,Infectiology,very_rare,acute_potentially_chronic,severe,emergency_ambulance,personal_visit
+Brain tumour,Brain tumour,both,Neurology,very_rare,chronic,severe,consultation_24,personal_visit
+Braincase fracture,Broken skull,both,Traumatology,very_rare,acute,severe,emergency,personal_visit
+Breast cancer,Breast cancer,female,Oncology,rare,chronic,severe,consultation,personal_visit
+Brucellosis,Brucellosis,both,Infectiology,very_rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Budd-Chiari syndrome,Budd-Chiari syndrome,both,Gastroenterology,very_rare,chronic,severe,consultation_24,personal_visit
+Bulimia nervosa,Bulimia,both,Psychiatry,very_rare,chronic,moderate,consultation,video_teleconsultation
+Burn,Burn,both,Traumatology,very_rare,acute,moderate,self_care,video_teleconsultation
+Bursitis,Bursitis,both,Orthopedics,rare,chronic,mild,self_care,personal_visit
+COVID-19,COVID-19,both,Infectiology,very_rare,acute,moderate,self_care,video_teleconsultation
+Carbon monoxide poisoning,Carbon monoxide poisoning,both,Toxicology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Carcinoid syndrome,Carcinoid syndrome,both,Oncology,very_rare,chronic_with_exacerbations,severe,consultation_24,personal_visit
+Cardiac syncope,Cardiac fainting,both,Cardiology,rare,chronic,moderate,consultation_24,personal_visit
+Cardiac tamponade,Cardiac tamponade,both,Cardiology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Cardiogenic shock,Cardiogenic shock,both,Cardiology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Carotid artery dissection,Carotid artery dissection,both,Neurology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Carpal tunnel syndrome,Carpal tunnel syndrome,both,Orthopedics,rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Cat-scratch disease,Cat-scratch disease,both,Infectiology,very_rare,acute,mild,consultation,personal_visit
+Cataract,Cataract,both,Ophthalmology,rare,chronic,mild,consultation,personal_visit
+Cauda equina syndrome,Cauda equina syndrome,both,Neurology,very_rare,acute,severe,emergency,personal_visit
+Cavernous sinus thrombosis,Cavernous sinus thrombosis,both,Neurology,very_rare,acute_potentially_chronic,severe,emergency,personal_visit
+Celiac disease,Celiac disease,both,Gastroenterology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Cerebellar stroke,Cerebellar stroke,both,Neurology,very_rare,acute_potentially_chronic,severe,emergency_ambulance,personal_visit
+Cerebellopontine angle syndrome,Acoustic neuroma,both,Neurology,very_rare,chronic,severe,consultation_24,personal_visit
+Cervical acceleration-deceleration syndrome,Whiplash injury,both,Traumatology,very_rare,acute,moderate,consultation_24,personal_visit
+Cervical cancer,Cervical cancer,female,Gynecology,very_rare,chronic,severe,consultation,personal_visit
+Cervical radiculopathy,Cervical neuropathy,both,Orthopedics,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Cervical strain,Neck strain,both,Orthopedics,common,acute,moderate,self_care,video_teleconsultation
+Cervical vertebra fracture,Neck fracture,both,Traumatology,very_rare,acute,severe,emergency,personal_visit
+Cervicitis,Acute inflammation of the uterine cervix,female,Gynecology,rare,acute_potentially_chronic,mild,consultation,personal_visit
+Chalazion,Chalazion,both,Ophthalmology,moderate,chronic,mild,consultation,video_teleconsultation
+"Chest pain, unspecified",Unspecific chest pain,both,Internal Medicine,common,acute_potentially_chronic,mild,self_care,personal_visit
+Chickenpox,Chickenpox,both,Infectiology,very_rare,acute,mild,consultation_24,personal_visit
+Chikungunya virus infection,Chikungunya virus infection,both,Infectiology,very_rare,acute,mild,consultation_24,audio_teleconsultation
+Chlamydial genitourinary infection,Genital Chlamydia,both,Venereology,rare,acute_potentially_chronic,mild,consultation_24,personal_visit
+Cholecystitis,Inflammation of the gallbladder,both,Surgery,very_rare,acute,severe,emergency,personal_visit
+Cholecystolithiasis,Gallstones within the gallbladder,both,Gastroenterology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Cholera,Cholera,both,Infectiology,very_rare,acute,severe,emergency,personal_visit
+Cholestasis,Cholestasis,both,Gastroenterology,rare,chronic,mild,consultation_24,personal_visit
+Cholestasis of pregnancy,Cholestasis of pregnancy,female,Gynecology,very_rare,acute,severe,consultation_24,personal_visit
+Chronic cannabinoid use,Chronic cannabinoid use,both,Toxicology,very_rare,chronic,mild,self_care,video_teleconsultation
+Chronic constipation,Chronic constipation,both,Gastroenterology,rare,chronic,mild,consultation,audio_teleconsultation
+Chronic fatigue syndrome,Chronic fatigue syndrome,both,Internal Medicine,rare,chronic,mild,self_care,audio_teleconsultation
+Chronic heart failure,Chronic heart failure,both,Cardiology,very_rare,chronic,severe,consultation,personal_visit
+Chronic intestinal ischemia,Chronic intestinal ischemia,both,Gastroenterology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Chronic kidney disease,Chronic kidney disease,both,Nephrology,very_rare,chronic,moderate,consultation,personal_visit
+Chronic lymphocytic leukemia,Chronic lymphocytic leukemia,both,Hematology,very_rare,chronic,severe,consultation,audio_teleconsultation
+Chronic myelogenous leukemia,Chronic myelogenous leukemia,both,Hematology,very_rare,chronic,severe,consultation,audio_teleconsultation
+Chronic obstructive pulmonary disease,Chronic obstructive pulmonary disease,both,Pulmonology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Chronic obstructive pulmonary disease exacerbation,Chronic obstructive pulmonary disease exacerbation,both,Pulmonology,very_rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Chronic pancreatitis,Chronic pancreatitis,both,Gastroenterology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Chronic sinusitis,Chronic sinusitis,both,Otorhinolaryngology,moderate,chronic,mild,consultation,personal_visit
+Chronic tonsillitis,Chronic tonsillitis,both,Otorhinolaryngology,very_rare,chronic,moderate,consultation,personal_visit
+Chronic urticaria,Chronic hives,both,Dermatology,rare,chronic,moderate,consultation,personal_visit
+Chronic venous insufficiency,Chronic venous insufficiency,both,Angiology,rare,chronic,mild,self_care,personal_visit
+Churg-Strauss syndrome,Churg-Strauss syndrome,both,Angiology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Cirrhosis of the liver,Cirrhosis of the liver,both,Gastroenterology,very_rare,chronic,severe,consultation,personal_visit
+Clavicle fracture,Broken collarbone,both,Traumatology,very_rare,acute,moderate,consultation,personal_visit
+Clostridium difficile-associated disease,Clostridium difficile-associated disease,both,Gastroenterology,very_rare,acute_potentially_chronic,mild,consultation_24,personal_visit
+Cluster headaches,Cluster headaches,both,Neurology,rare,chronic_with_exacerbations,mild,consultation,audio_teleconsultation
+Cold urticaria,Cold urticaria,both,Dermatology,rare,chronic_with_exacerbations,moderate,self_care,video_teleconsultation
+Colon cancer,Colon cancer,both,Gastroenterology,very_rare,chronic,severe,consultation,audio_teleconsultation
+Common cold,Common cold,both,Infectiology,common,acute,mild,self_care,text_teleconsultation
+Concussion,Concussion,both,Neurology,very_rare,acute,moderate,emergency,personal_visit
+Conjunctivitis,Pink eye,both,Ophthalmology,common,acute_potentially_chronic,mild,consultation,video_teleconsultation
+Conn's syndrome,Conn's syndrome,both,Endocrinology,very_rare,chronic,severe,consultation,personal_visit
+"Constipation, unspecified",Unspecific constipation,both,Internal Medicine,common,acute_potentially_chronic,mild,self_care,text_teleconsultation
+Contact dermatitis,Contact dermatitis,both,Dermatology,moderate,chronic_with_exacerbations,mild,consultation,video_teleconsultation
+Corneal abrasion,Corneal abrasion,both,Ophthalmology,rare,acute,severe,consultation_24,personal_visit
+Corneal ulceration,Corneal ulceration,both,Ophthalmology,rare,acute,severe,consultation_24,personal_visit
+Corns and callosities,Corns and callosities,both,Dermatology,common,chronic,mild,self_care,video_teleconsultation
+Corticotropin releasing pituitary adenoma,Corticotropin releasing pituitary adenoma,both,Endocrinology,very_rare,chronic,severe,consultation,personal_visit
+Costochondritis,Costochondritis,both,Orthopedics,moderate,acute_potentially_chronic,mild,self_care,audio_teleconsultation
+"Cough, unspecified",Unspecific cough,both,Internal Medicine,common,acute,mild,self_care,text_teleconsultation
+Crohn's disease,Crohn's disease,both,Gastroenterology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Crohn's disease exacerbation,Crohn's disease flare-up,both,Gastroenterology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Cruciate ligament injury,Cruciate ligament injury,both,Traumatology,very_rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Cushing's syndrome,Cushing's syndrome,both,Endocrinology,very_rare,chronic,severe,consultation,personal_visit
+Cystic fibrosis,Cystic fibrosis,both,Pulmonology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Cysticercosis,Cysticercosis,both,Infectiology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+De Quervain syndrome,De Quervain syndrome,both,Orthopedics,very_rare,chronic,mild,self_care,personal_visit
+De Quervain's thyroiditis,De Quervain's thyroiditis,both,Endocrinology,very_rare,acute,moderate,consultation_24,personal_visit
+Death cap poisoning,Mushroom poisoning,both,Toxicology,very_rare,acute,severe,emergency,personal_visit
+Decompression sickness,Decompression sickness,both,Other,very_rare,acute,severe,emergency_ambulance,personal_visit
+Deep vein thrombosis,Deep vein thrombosis,both,Angiology,very_rare,chronic_with_exacerbations,severe,emergency,personal_visit
+Degenerative disc disease of the cervical spine,Degenerative disc disease of the cervical spine,both,Neurology,moderate,chronic,mild,consultation,personal_visit
+Degenerative disc disease of the lumbar and sacral spine,Degenerative disc disease of the lumbar and sacral spine,both,Orthopedics,moderate,chronic_with_exacerbations,mild,consultation,personal_visit
+Degenerative disc disease of the thoracic spine,Degenerative disc disease of the thoracic spine,both,Orthopedics,rare,chronic,mild,consultation,personal_visit
+Dehydration,Dehydration,both,Internal Medicine,rare,acute_potentially_chronic,moderate,self_care,audio_teleconsultation
+Delayed onset muscle soreness,Muscle fever,both,Other,moderate,acute,mild,self_care,personal_visit
+Dementia,Dementia,both,Psychiatry,very_rare,chronic,moderate,consultation,personal_visit
+Dengue fever,Dengue fever,both,Infectiology,very_rare,acute,severe,emergency,personal_visit
+Dental caries,Dental cavities,both,Dentistry,common,chronic,mild,consultation,personal_visit
+Dental pulp gangrene,Dental pulp gangrene,both,Dentistry,rare,acute,severe,consultation_24,personal_visit
+Dental trauma,Tooth injury,both,Dentistry,very_rare,acute,moderate,consultation,personal_visit
+Dentin hypersensitivity,Tooth sensitivity,both,Dentistry,common,chronic,mild,consultation,personal_visit
+Depersonalization-derealization disorder,Depersonalization-derealization disorder,both,Psychiatry,very_rare,chronic,severe,consultation,video_teleconsultation
+Dermatomyositis,Dermatomyositis,both,Dermatology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Diabetes insipidus,Diabetes insipidus,both,Endocrinology,very_rare,chronic,moderate,consultation_24,personal_visit
+Diabetes mellitus type 1,Diabetes mellitus type 1,both,Diabetology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Diabetes mellitus type 2,Diabetes mellitus type 2,both,Diabetology,moderate,chronic_with_exacerbations,severe,consultation,personal_visit
+Diabetic foot infection,Diabetic foot infection,both,Angiology,very_rare,chronic_with_exacerbations,moderate,consultation_24,personal_visit
+Diabetic ketoacidosis,Diabetic ketoacidosis,both,Diabetology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Diabetic nephropathy,Diabetic kidney disease,both,Nephrology,very_rare,chronic,moderate,consultation,audio_teleconsultation
+Diabetic neuropathy,Diabetic neuropathy,both,Neurology,very_rare,chronic,moderate,consultation,personal_visit
+Diabetic retinopathy,Diabetic retinopathy,both,Ophthalmology,very_rare,chronic,moderate,consultation,personal_visit
+"Diarrhea, unspecified",Unspecific diarrhea,both,Gastroenterology,common,acute,mild,self_care,text_teleconsultation
+Dilated cardiomyopathy,Dilated cardiomyopathy,both,Cardiology,very_rare,chronic,severe,consultation_24,personal_visit
+"Disorder of the skin and subcutaneous tissue, unspecified",Unspecific skin disorder,both,Dermatology,common,acute_potentially_chronic,mild,self_care,video_teleconsultation
+Disulfiram-like reaction,Disulfiram-like reaction,both,Toxicology,very_rare,acute,moderate,emergency,personal_visit
+Diverticulitis,Diverticulitis,both,Gastroenterology,very_rare,chronic_with_exacerbations,mild,consultation_24,personal_visit
+Diverticulosis,Diverticulosis,both,Gastroenterology,very_rare,chronic,mild,self_care,video_teleconsultation
+Dry eye disease,Dry eye syndrome,both,Ophthalmology,moderate,chronic,mild,self_care,audio_teleconsultation
+Ear barotrauma,Ear barotrauma,both,Otorhinolaryngology,very_rare,acute,moderate,consultation,personal_visit
+Earwax blockage,Earwax blockage,both,Otorhinolaryngology,moderate,acute_potentially_chronic,mild,self_care,personal_visit
+Echinococcosis,Echinococcosis,both,Infectiology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Eclampsia,Eclampsia,female,Gynecology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Ectopic pregnancy,Ectopic pregnancy,female,Gynecology,very_rare,acute,severe,emergency,personal_visit
+Edema in pregnancy,Edema in pregnancy,female,Gynecology,very_rare,acute,mild,self_care,personal_visit
+Elbow contusion,Elbow contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Elbow dislocation,Dislocated elbow,both,Traumatology,very_rare,acute,moderate,consultation_24,personal_visit
+Electrical injury,Electrical injury,both,Traumatology,very_rare,acute,moderate,emergency,personal_visit
+Encephalitis,Encephalitis,both,Infectiology,very_rare,acute_potentially_chronic,severe,emergency,personal_visit
+Endometrial cancer,Endometrial cancer,female,Gynecology,very_rare,chronic,severe,consultation,personal_visit
+Endometrial polyp,Endometrial polyp,female,Gynecology,moderate,chronic,severe,consultation,personal_visit
+Endometriosis,Endometriosis,female,Gynecology,very_rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Enterobiasis,Pinworm infection,both,Infectiology,very_rare,acute_potentially_chronic,mild,consultation,audio_teleconsultation
+Epicondylitis,Epicondylitis,both,Orthopedics,rare,acute_potentially_chronic,mild,consultation,personal_visit
+Epiglottitis,Inflammation of the epiglottis,both,Otorhinolaryngology,very_rare,acute,severe,consultation_24,personal_visit
+Epilepsy with loss of consciousness,Epilepsy with loss of consciousness,both,Neurology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Epilepsy without loss of consciousness,Epilepsy without loss of consciousness,both,Neurology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Epistaxis,Nosebleed,both,Otorhinolaryngology,moderate,acute,mild,self_care,video_teleconsultation
+Erysipelas,Erysipelas,both,Infectiology,rare,acute,moderate,consultation_24,personal_visit
+Erythema nodosum,Erythema nodosum,both,Dermatology,rare,acute_potentially_chronic,moderate,consultation,personal_visit
+Erythroderma,Erythroderma,both,Dermatology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Esophageal cancer,Esophageal cancer,both,Gastroenterology,very_rare,chronic,severe,consultation,personal_visit
+Esophageal diverticula,Esophageal diverticula,both,Gastroenterology,rare,chronic,mild,consultation,personal_visit
+Essential thrombocytosis,Essential thrombocythemia,both,Hematology,very_rare,chronic,moderate,consultation,audio_teleconsultation
+Essential tremor,Essential tremor,both,Neurology,very_rare,chronic,mild,consultation,personal_visit
+External ear injury,Injured ear,both,Traumatology,very_rare,acute,moderate,consultation,video_teleconsultation
+Eye injury,Eye injury,both,Ophthalmology,very_rare,acute,moderate,emergency,personal_visit
+"Eyelid twitch, unspecified",Eyelid twitch,both,Ophthalmology,moderate,chronic,mild,self_care,personal_visit
+Facial bones fracture,Broken facial bones,both,Traumatology,very_rare,acute,severe,emergency,personal_visit
+Facial contusion,Facial bruise,both,Traumatology,very_rare,acute,moderate,self_care,video_teleconsultation
+Facial nerve palsy,Facial nerve palsy,both,Neurology,very_rare,acute_potentially_chronic,mild,consultation_24,personal_visit
+Fasciolosis,Fascioliasis,both,Infectiology,very_rare,chronic,mild,consultation,personal_visit
+Fatigue,Fatigue,both,Internal Medicine,moderate,acute_potentially_chronic,mild,self_care,text_teleconsultation
+Femur fracture,Broken thigh bone,both,Traumatology,very_rare,acute,moderate,emergency_ambulance,personal_visit
+Fibroadenoma of breast,Fibroadenoma of breast,female,Gynecology,rare,chronic,mild,consultation,personal_visit
+Fibrocystic breasts,Fibrocystic breasts,female,Gynecology,rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Fibromyalgia,Fibromyalgia,both,Rheumatology,very_rare,chronic,mild,consultation,personal_visit
+Finger contusion,Finger contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Finger dislocation,Dislocated finger,both,Traumatology,very_rare,acute,moderate,consultation,personal_visit
+Finger fracture,Broken finger,both,Traumatology,very_rare,acute,moderate,consultation,personal_visit
+Flatfoot,Flat feet,both,Orthopedics,rare,chronic,mild,consultation,personal_visit
+Folate-deficiency anemia,Folate-deficiency anemia,both,Hematology,very_rare,chronic,mild,consultation,audio_teleconsultation
+Food allergy,Food allergy,both,Allergology,rare,chronic_with_exacerbations,moderate,self_care,audio_teleconsultation
+Food poisoning,Food poisoning,both,Gastroenterology,common,acute,mild,self_care,audio_teleconsultation
+Foot bones fracture,Broken foot,both,Traumatology,very_rare,acute,moderate,consultation_24,personal_visit
+Foot contusion,Foot contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Foot osteoarthritis,Foot osteoarthritis,both,Orthopedics,very_rare,chronic,mild,consultation,personal_visit
+Forearm bones fracture,Broken forearm,both,Traumatology,very_rare,acute,moderate,emergency,personal_visit
+Forearm contusion,Forearm contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Foreign body aspiration,Foreign body aspiration,both,Otorhinolaryngology,very_rare,acute,severe,emergency,personal_visit
+Functional dyspepsia,Indigestion,both,Gastroenterology,common,chronic_with_exacerbations,mild,self_care,audio_teleconsultation
+Functional ovarian cyst,Cyst of an ovary,female,Gynecology,moderate,chronic,mild,consultation,personal_visit
+"Furuncles, carbuncles and cutaneous abscesses",Skin abscess,both,Dermatology,rare,acute_potentially_chronic,moderate,consultation,video_teleconsultation
+Gall bladder and bile duct cancer,Gall bladder and bile duct cancer,both,Gastroenterology,very_rare,chronic,severe,consultation,personal_visit
+Gambling addiction,Pathological gambling,both,Psychiatry,moderate,chronic,severe,consultation,video_teleconsultation
+Gastric cancer,Gastric cancer,both,Gastroenterology,very_rare,chronic,severe,consultation,personal_visit
+Gastritis,Gastritis,both,Gastroenterology,moderate,chronic_with_exacerbations,mild,consultation,audio_teleconsultation
+Gastroesophageal reflux disease,Gastroesophageal reflux disease,both,Gastroenterology,moderate,chronic_with_exacerbations,mild,consultation,audio_teleconsultation
+General anxiety disorder,General anxiety disorder,both,Psychiatry,moderate,chronic_with_exacerbations,moderate,consultation,video_teleconsultation
+Genital herpes,Genital herpes,both,Venereology,rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Genital injury,Crotch injury,both,Urology,very_rare,acute,moderate,consultation_24,personal_visit
+Geographic tongue,Geographic tongue,both,Dentistry,moderate,chronic_with_exacerbations,mild,self_care,personal_visit
+Gestational diabetes,Diabetes in pregnancy,female,Gynecology,very_rare,acute_potentially_chronic,moderate,consultation,video_teleconsultation
+Giardiasis,Giardiasis,both,Infectiology,very_rare,acute_potentially_chronic,mild,consultation_24,personal_visit
+Gilbert's syndrome,Familial nonhemolytic jaundice,both,Gastroenterology,rare,chronic,mild,consultation,text_teleconsultation
+Gingivitis,Inflammation of the gums,both,Dentistry,moderate,acute_potentially_chronic,mild,self_care,personal_visit
+Gitelman syndrome,Gitelman syndrome,both,Nephrology,very_rare,chronic,moderate,consultation,personal_visit
+Glomerulonephritis,Glomerulonephritis,both,Nephrology,very_rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Glossitis,Tongue inflammation,both,Internal Medicine,very_rare,acute_potentially_chronic,mild,self_care,video_teleconsultation
+Goiter,Goiter,both,Endocrinology,very_rare,chronic,moderate,consultation,personal_visit
+Gonorrhea,Gonorrhea,both,Venereology,rare,acute,mild,consultation,personal_visit
+Goodpasture's syndrome,Goodpasture's syndrome,both,Rheumatology,very_rare,chronic_with_exacerbations,severe,consultation_24,personal_visit
+Gout,Gout,both,Rheumatology,very_rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Granuloma annulare,Granuloma annulare,both,Dermatology,very_rare,chronic,mild,consultation,personal_visit
+Granulomatosis with polyangiitis,Granulomatosis with polyangiitis,both,Rheumatology,very_rare,chronic_with_exacerbations,moderate,consultation,video_teleconsultation
+Graves' disease,Graves' disease,both,Endocrinology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Greater trochanteric pain syndrome,Hip bursitis,both,Orthopedics,very_rare,chronic,mild,consultation,video_teleconsultation
+Guillain-Barré syndrome,Guillain-Barré syndrome,both,Neurology,very_rare,chronic,severe,emergency,personal_visit
+"Gynecomastia, unspecified",Enlargement of male breast,male,Endocrinology,very_rare,acute_potentially_chronic,mild,self_care,personal_visit
+HELLP syndrome,HELLP syndrome,female,Gynecology,very_rare,acute,severe,emergency,personal_visit
+Hand bones fracture,Broken hand bones,both,Traumatology,very_rare,acute,moderate,consultation_24,personal_visit
+Hand osteoarthritis,Hand osteoarthritis,both,Orthopedics,very_rare,chronic,mild,consultation,personal_visit
+Hangover,Hangover,both,Toxicology,very_rare,acute,mild,self_care,audio_teleconsultation
+Hashimoto's thyroiditis,Hashimoto’s disease,both,Endocrinology,rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Head and neck unspecified injury,Unspecified head and neck injury,both,Traumatology,rare,acute,moderate,consultation,personal_visit
+"Hearing loss, unspecified",Unspecific hearing loss,both,Otorhinolaryngology,moderate,chronic,moderate,consultation,personal_visit
+Heart valve disease,Heart valve disease,both,Cardiology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Heat and sun-related illness,Heat and sun-related illness,both,Other,very_rare,acute,severe,consultation_24,personal_visit
+Heavy metal poisoning,Heavy metal poisoning,both,Toxicology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Hemochromatosis,Hemochromatosis,both,Hematology,very_rare,chronic_with_exacerbations,moderate,consultation,audio_teleconsultation
+Hemolytic anemia,Hemolytic anemia,both,Hematology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,both,Nephrology,very_rare,acute,severe,emergency,personal_visit
+Hemophagocytic lymphohistiocytosis,Hemophagocytic lymphohistiocytosis,both,Hematology,very_rare,acute_potentially_chronic,severe,emergency,personal_visit
+Hemophilia,Hemophilia,male,Hematology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Hemorrhagic anemia,Acute anemia,both,Hematology,very_rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Hemorrhagic stroke,Hemorrhagic stroke,both,Neurology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Hemorrhoids,Hemorrhoids,both,Gastroenterology,rare,chronic_with_exacerbations,mild,self_care,personal_visit
+Henoch-Schönlein purpura,Henoch-Schönlein vasculitis,both,Rheumatology,very_rare,acute,moderate,consultation_24,personal_visit
+Hepatic abscess,Hepatic abscess,both,Surgery,very_rare,chronic,severe,consultation_24,personal_visit
+Hepatic encephalopathy,Hepatic encephalopathy,both,Gastroenterology,very_rare,chronic_with_exacerbations,severe,emergency,personal_visit
+Hepatitis A,Hepatitis A,both,Infectiology,very_rare,acute,moderate,consultation_24,personal_visit
+Hepatitis B,Hepatitis B,both,Infectiology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Hepatitis C,Hepatitis C,both,Infectiology,very_rare,acute_potentially_chronic,severe,consultation,audio_teleconsultation
+Herbicide poisoning,Herbicide poisoning,both,Toxicology,very_rare,acute,severe,emergency,personal_visit
+Heterochromia,Different eye colours,both,Ophthalmology,common,chronic,mild,self_care,personal_visit
+High altitude sickness,High altitude sickness,both,Other,very_rare,acute,moderate,emergency,personal_visit
+Hip contusion,Hip contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Hip dislocation,Dislocated hip,both,Traumatology,very_rare,acute,moderate,consultation_24,personal_visit
+Hip osteoarthritis,Hip osteoarthritis,both,Orthopedics,very_rare,chronic,mild,consultation,personal_visit
+Hodgkin lymphoma,Hodgkin's disease,both,Hematology,very_rare,chronic,severe,consultation,personal_visit
+Hookworm infection,Hookworm disease,both,Infectiology,very_rare,acute_potentially_chronic,mild,consultation_24,audio_teleconsultation
+Horner's syndrome,Horner's syndrome,both,Neurology,very_rare,chronic,moderate,consultation_24,personal_visit
+Humerus fracture,Broken arm,both,Traumatology,very_rare,acute,moderate,emergency,personal_visit
+Hydrocele testis,Hydrocele testis,male,Urology,rare,chronic,mild,consultation,personal_visit
+Hyperemesis gravidarum,Hyperemesis gravidarum,female,Gynecology,very_rare,acute_potentially_chronic,moderate,consultation,personal_visit
+Hyperparathyroidism,Hyperparathyroidism,both,Endocrinology,rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Hyperprolactinemia,Hyperprolactinemia,both,Endocrinology,moderate,chronic,mild,consultation,personal_visit
+Hypertension,High blood pressure,both,Cardiology,moderate,chronic_with_exacerbations,moderate,consultation,personal_visit
+Hypertensive crisis,Hypertensive crisis,both,Cardiology,very_rare,acute,severe,consultation_24,personal_visit
+Hypertensive encephalopathy,Hypertensive encephalopathy,both,Cardiology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Hyperthyroidism,Hyperthyroidism,both,Endocrinology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Hypoglycemia,Hypoglycemia,both,Internal Medicine,very_rare,acute,moderate,emergency,personal_visit
+Hypoparathyroidism,Hypoparathyroidism,both,Endocrinology,rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Hypopituitarism,Hypopituitarism,both,Endocrinology,very_rare,chronic,moderate,consultation,personal_visit
+Hypotension,Hypotension,both,Internal Medicine,moderate,chronic_with_exacerbations,mild,self_care,personal_visit
+Hypothyroidism,Hypothyroidism,both,Endocrinology,rare,chronic,moderate,consultation,video_teleconsultation
+Hypovolemic shock,Hypovolemic shock,both,Other,very_rare,acute,severe,emergency_ambulance,personal_visit
+Idiopathic pulmonary fibrosis,Idiopathic pulmonary fibrosis,both,Pulmonology,very_rare,chronic,severe,consultation,personal_visit
+Impacted wisdom tooth,Impacted wisdom tooth,both,Dentistry,moderate,acute,mild,consultation,personal_visit
+Impetigo contagiosa,Impetigo,both,Dermatology,moderate,acute,mild,consultation,personal_visit
+Improper use of sleeping pills and sedatives,Improper use of sleeping pills and sedatives,both,Toxicology,very_rare,acute_potentially_chronic,moderate,consultation,personal_visit
+Incarcerated inguinal hernia,Incarcerated inguinal hernia,both,Surgery,very_rare,acute,severe,emergency,personal_visit
+Increased intracranial pressure,Increased intracranial pressure,both,Neurology,very_rare,acute_potentially_chronic,severe,emergency_ambulance,personal_visit
+Infectious arthritis,Infectious arthritis,both,Rheumatology,very_rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Infectious mononucleosis,Mononucleosis,both,Infectiology,very_rare,acute,moderate,consultation_24,personal_visit
+Infective endocarditis,Infective endocarditis,both,Cardiology,very_rare,acute,severe,consultation_24,personal_visit
+Influenza,Flu,both,Infectiology,rare,acute,moderate,consultation,audio_teleconsultation
+Ingrown fingernail,Ingrown fingernail,both,Surgery,rare,acute_potentially_chronic,mild,consultation,personal_visit
+Ingrown toenail,Ingrown toenail,both,Surgery,moderate,acute_potentially_chronic,mild,consultation,personal_visit
+Inguinal hernia,Inguinal hernia,both,Surgery,rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Insecticide poisoning,Insecticide poisoning,both,Toxicology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Insomnia,Insomnia,both,Psychiatry,moderate,chronic_with_exacerbations,mild,consultation,audio_teleconsultation
+Insulinoma,Insulinoma,both,Endocrinology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Intercostal neuralgia,Intercostal neuralgia,both,Neurology,moderate,acute,mild,self_care,personal_visit
+Intestinal obstruction,Intestinal obstruction,both,Surgery,very_rare,acute,severe,emergency,personal_visit
+Intra-amniotic infection,Intra-amniotic infection,female,Gynecology,very_rare,acute,severe,emergency,personal_visit
+Iron deficiency anemia,Iron deficiency anemia,both,Hematology,rare,acute_potentially_chronic,moderate,consultation,audio_teleconsultation
+Irritable bowel syndrome,Irritable bowel syndrome,both,Gastroenterology,moderate,chronic_with_exacerbations,mild,consultation,audio_teleconsultation
+Ischemic stroke,Ischemic stroke,both,Neurology,very_rare,acute_potentially_chronic,severe,emergency_ambulance,personal_visit
+"Joint pain, unspecified",Unspecific joint pain,both,Orthopedics,common,acute,mild,self_care,text_teleconsultation
+Keloid,Keloid,both,Dermatology,very_rare,chronic,moderate,consultation,personal_visit
+Keratitis,Keratitis,both,Ophthalmology,rare,acute_potentially_chronic,moderate,consultation,personal_visit
+Kidney cancer,Kidney cancer,both,Nephrology,very_rare,chronic,severe,consultation,personal_visit
+Klüver-Bucy bitemporal syndrome,Klüver-Bucy bitemporal syndrome,both,Neurology,very_rare,chronic,severe,consultation,personal_visit
+Knee bursitis,Knee bursitis,both,Orthopedics,very_rare,acute_potentially_chronic,mild,consultation,personal_visit
+Knee dislocation,Dislocated knee,both,Traumatology,very_rare,acute,severe,emergency,personal_visit
+Knee osteoarthritis,Knee osteoarthritis,both,Orthopedics,rare,chronic,mild,consultation,personal_visit
+Korsakoff's syndrome,Korsakoff's syndrome,both,Psychiatry,very_rare,chronic,severe,consultation,personal_visit
+Labour,Labour,female,Gynecology,very_rare,acute,moderate,emergency,personal_visit
+Labyrinthitis,Inflammation of the inner ear,both,Otorhinolaryngology,very_rare,acute,moderate,consultation_24,personal_visit
+Lactational mastitis,Breast inflammation associated with lactation,female,Gynecology,very_rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Lactose intolerance,Lactose intolerance,both,Gastroenterology,moderate,chronic,mild,self_care,audio_teleconsultation
+Laryngeal cancer,Laryngeal cancer,both,Otorhinolaryngology,very_rare,chronic,severe,consultation,personal_visit
+Lassa fever,Lassa fever,both,Infectiology,very_rare,acute,severe,emergency,personal_visit
+Lateral medullary syndrome,Lateral medullary syndrome,both,Neurology,very_rare,chronic,moderate,consultation_24,personal_visit
+Left-sided heart failure,Left-sided heart failure,both,Cardiology,very_rare,chronic_with_exacerbations,severe,consultation_24,personal_visit
+Legionellosis,Legionellosis,both,Infectiology,very_rare,acute,severe,consultation_24,personal_visit
+Leptospirosis,Leptospirosis,both,Infectiology,very_rare,acute,moderate,consultation,audio_teleconsultation
+Leriche's syndrome,Leriche's syndrome,both,Angiology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Leukoplakia,Leukoplakia,both,Dentistry,rare,chronic,mild,consultation,video_teleconsultation
+"Limb injury, unspecified location",Limb injury of unspecified location,both,Traumatology,very_rare,acute,moderate,consultation,video_teleconsultation
+Limbic encephalitis,Limbic encephalitis,both,Neurology,very_rare,chronic_with_exacerbations,severe,emergency,personal_visit
+Lip injury,Lip injury,both,Other,rare,acute,mild,self_care,video_teleconsultation
+Lipoma,Lipoma,both,Surgery,moderate,chronic,mild,consultation,personal_visit
+Liver cancer,Liver cancer,both,Gastroenterology,very_rare,chronic,severe,consultation,personal_visit
+Lower leg contusion,Lower leg contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+"Lower limb injury, unspecified location",Lower limb injury of unspecified location,both,Traumatology,very_rare,acute,mild,consultation,personal_visit
+Lumbar vertebra fracture,Broken lumbar spine,both,Traumatology,very_rare,acute,moderate,emergency,personal_visit
+Lung cancer,Lung cancer,both,Pulmonology,very_rare,chronic,severe,consultation,personal_visit
+Lyme disease,Lyme disease,both,Infectiology,rare,acute_potentially_chronic,moderate,consultation_24,audio_teleconsultation
+Major depressive disorder,Depression,both,Psychiatry,moderate,chronic_with_exacerbations,severe,consultation,video_teleconsultation
+Major skin injury,Major wound,both,Traumatology,very_rare,acute,moderate,consultation,personal_visit
+Malaria,Malaria,both,Infectiology,very_rare,acute_potentially_chronic,severe,emergency,personal_visit
+Malnutrition,Poor nutrition,both,Internal Medicine,very_rare,chronic,mild,consultation,personal_visit
+Mandible fracture,Broken jaw,both,Traumatology,very_rare,acute,severe,emergency,personal_visit
+Manic syndrome,Mania,both,Psychiatry,rare,acute,severe,consultation_24,video_teleconsultation
+Mastocytosis,Mastocytosis,both,Hematology,very_rare,chronic_with_exacerbations,severe,consultation,audio_teleconsultation
+Measles,Measles,both,Infectiology,very_rare,acute,moderate,consultation_24,personal_visit
+Mechanical back pain,Back strain,both,Orthopedics,moderate,acute_potentially_chronic,mild,self_care,video_teleconsultation
+Mediastinitis,Inflammation of mediastinum,both,Pulmonology,very_rare,acute,severe,emergency,personal_visit
+Medulloblastoma,Medulloblastoma,both,Neurology,very_rare,chronic,severe,consultation,personal_visit
+Melanoma,Melanoma,both,Dermatology,very_rare,chronic,severe,consultation,personal_visit
+Menopause,Menopause,female,Gynecology,moderate,acute_potentially_chronic,mild,self_care,text_teleconsultation
+Meteorosensitivity and meteoropathy,Meteorosensitivity and meteoropathy,both,Other,very_rare,chronic_with_exacerbations,mild,self_care,personal_visit
+Methanol poisoning,Methyl alcohol poisoning,both,Toxicology,very_rare,acute_potentially_chronic,severe,emergency,personal_visit
+Microscopic polyangiitis,Microscopic artery inflammation,both,Rheumatology,very_rare,chronic,moderate,consultation,personal_visit
+Migraine,Migraine,both,Neurology,moderate,chronic_with_exacerbations,mild,consultation,audio_teleconsultation
+Mild cognitive impairment,Mild cognitive impairment,both,Neurology,very_rare,chronic,moderate,consultation,video_teleconsultation
+Milk-alkali syndrome,Milk-alkali syndrome,both,Gastroenterology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+"Minor head injury, unspecified",Mild head injury,both,Traumatology,very_rare,acute,moderate,self_care,video_teleconsultation
+Minor skin injury,Minor wound,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Mixed connective tissue disease,Mixed connective tissue disease,both,Rheumatology,very_rare,chronic,moderate,consultation,personal_visit
+Molluscum contagiosum,Molluscum contagiosum,both,Dermatology,rare,acute,mild,consultation,personal_visit
+Mononeuritis multiplex,Inflammation of multiple individual nerves,both,Neurology,very_rare,chronic,moderate,consultation,personal_visit
+Motion sickness,Travel sickness,both,Pediatrics,moderate,chronic_with_exacerbations,mild,self_care,text_teleconsultation
+Multiple myeloma,Multiple myeloma,both,Hematology,very_rare,chronic_with_exacerbations,severe,consultation,audio_teleconsultation
+Multiple sclerosis,Multiple sclerosis,both,Neurology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Mumps,Inflammation of parotid salivary glands,both,Infectiology,very_rare,acute,mild,consultation_24,personal_visit
+Muscular dystrophy,Muscular dystrophy,male,Genetics,very_rare,chronic,moderate,consultation,personal_visit
+Myasthenia gravis,Progressive muscle weakness,both,Neurology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Myelofibrosis,Replacement of bone marrow with scar tissue,both,Hematology,very_rare,chronic,severe,consultation,audio_teleconsultation
+Myocardial infarction,Heart attack,both,Cardiology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Myocarditis,Inflammation of heart muscle,both,Cardiology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Ménière's disease,Ménière's disease,both,Otorhinolaryngology,very_rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Ménétrier's disease,Ménétrier's disease,both,Gastroenterology,very_rare,chronic,moderate,consultation,personal_visit
+Nail injury,Nail injury,both,Traumatology,very_rare,acute,mild,self_care,personal_visit
+Nasal polyps,Nasal polyps,both,Otorhinolaryngology,moderate,chronic,mild,consultation,personal_visit
+Nasal septum deviation,Nasal septum deviation,both,Otorhinolaryngology,moderate,chronic,mild,consultation,personal_visit
+Nasolacrimal duct obstruction,Blocked tear duct,both,Ophthalmology,very_rare,acute,mild,self_care,personal_visit
+Nausea and vomiting in pregnancy,Morning sickness,female,Gynecology,very_rare,acute_potentially_chronic,mild,self_care,audio_teleconsultation
+Nephrolithiasis,Kidney stones,both,Urology,rare,chronic_with_exacerbations,moderate,consultation_24,personal_visit
+Nephrotic syndrome,Nephrotic syndrome,both,Nephrology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Neurasthenia,Neurasthenia,both,Psychiatry,very_rare,chronic_with_exacerbations,mild,consultation,audio_teleconsultation
+Nicotine dependence,Nicotine dependence,both,Psychiatry,rare,chronic,mild,consultation,audio_teleconsultation
+Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,both,Hematology,very_rare,chronic,severe,consultation_24,personal_visit
+Non-alcoholic fatty liver disease,Non-alcoholic fatty liver disease,both,Gastroenterology,rare,chronic,mild,consultation,personal_visit
+Non-allergic non-infectious rhinitis,Nonallergic rhinitis,both,Otorhinolaryngology,moderate,chronic,mild,self_care,text_teleconsultation
+Non-lactational mastitis,Inflammation of the breast,female,Surgery,rare,acute_potentially_chronic,mild,consultation,personal_visit
+Non-melanoma skin cancer,Non-melanoma skin carcinoma,both,Dermatology,very_rare,chronic,severe,consultation,personal_visit
+Non-traumatic vertebral fracture,Compression fracture of the spine,both,Orthopedics,very_rare,acute_potentially_chronic,severe,consultation,personal_visit
+Nose injury,Nose injury,both,Traumatology,very_rare,acute,mild,consultation,video_teleconsultation
+Obsessive-compulsive disorder,Obsessive-compulsive disorder,both,Psychiatry,rare,chronic_with_exacerbations,moderate,consultation,video_teleconsultation
+Obstructive jaundice,Obstructive jaundice,both,Gastroenterology,rare,acute_potentially_chronic,moderate,emergency,personal_visit
+Obstructive sleep apnea,Sleep apnea,both,Pulmonology,rare,chronic,moderate,consultation,audio_teleconsultation
+Oculomotor nerve palsy,Oculomotor nerve palsy,both,Ophthalmology,very_rare,chronic,mild,consultation,personal_visit
+Olecranon bursitis,Olecranon bursitis,both,Orthopedics,moderate,chronic,mild,consultation,personal_visit
+Onychomycosis,Fungal nail infection,both,Dermatology,common,chronic,mild,self_care,personal_visit
+Open-angle glaucoma,Open-angle glaucoma,both,Ophthalmology,very_rare,chronic,moderate,consultation,personal_visit
+Opioid withdrawal syndrome,Opioid withdrawal syndrome,both,Toxicology,very_rare,acute,severe,consultation_24,personal_visit
+Oral candidiasis,Oral thrush,both,Internal Medicine,rare,acute_potentially_chronic,mild,consultation,video_teleconsultation
+Oral herpes,Cold sore,both,Dermatology,moderate,acute_potentially_chronic,mild,self_care,video_teleconsultation
+Orchitis and epididymitis,Inflammation of testes and epididymis,male,Urology,rare,acute,moderate,consultation_24,personal_visit
+Organic mental disorder,Organic mental disorder,both,Psychiatry,very_rare,chronic,mild,consultation,personal_visit
+Osteomalacia,Osteomalacia,both,Internal Medicine,very_rare,chronic,moderate,consultation,audio_teleconsultation
+Osteomyelitis,Bone infection,both,Orthopedics,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Osteoporosis,Osteoporosis,both,Rheumatology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Otitis externa,Inflammation of the external ear,both,Otorhinolaryngology,moderate,acute_potentially_chronic,mild,consultation,personal_visit
+Ovarian cancer,Ovarian cancer,female,Gynecology,very_rare,chronic,severe,consultation,personal_visit
+Paget's disease of bone,Paget's disease of bone,both,Rheumatology,very_rare,chronic,moderate,consultation,personal_visit
+Painful ovulation,Painful ovulation,female,Gynecology,rare,chronic_with_exacerbations,mild,self_care,text_teleconsultation
+Pancoast tumor,Pancoast tumor,both,Pulmonology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Pancreatic cancer,Pancreatic cancer,both,Gastroenterology,very_rare,chronic,severe,consultation,personal_visit
+Paranoid schizophrenia,Paranoid schizophrenia,both,Psychiatry,rare,chronic_with_exacerbations,severe,consultation_24,video_teleconsultation
+Paraphimosis,Paraphimosis,male,Urology,rare,acute_potentially_chronic,severe,emergency,personal_visit
+Paronychia,Paronychia,both,Surgery,moderate,acute_potentially_chronic,mild,consultation,personal_visit
+Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria,both,Hematology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Patella fracture,Broken kneecap,both,Traumatology,very_rare,acute,moderate,consultation_24,personal_visit
+Patellofemoral pain syndrome,Runner's knee,both,Orthopedics,moderate,chronic,mild,consultation,personal_visit
+Pediculosis capitis,Head lice,both,Infectiology,rare,acute_potentially_chronic,mild,self_care,video_teleconsultation
+Pelvic inflammatory disease,Pelvic inflammatory disease,female,Gynecology,rare,acute,severe,consultation_24,personal_visit
+Pelvic organ prolapse,Uterine prolapse,female,Gynecology,rare,chronic,mild,consultation,personal_visit
+Pelvis fracture,Broken pelvis,both,Traumatology,very_rare,acute,severe,emergency,personal_visit
+Penetrating abdominal trauma,Penetrating stomach trauma,both,Traumatology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Peptic ulcer,Peptic ulcer disease,both,Gastroenterology,rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Pericarditis,Pericarditis,both,Cardiology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Perimenopause,Perimenopause,female,Gynecology,moderate,chronic,mild,self_care,text_teleconsultation
+Periodontitis,Gum disease,both,Dentistry,moderate,chronic,mild,consultation,personal_visit
+Periorbital cellulitis,Periorbital cellulitis,both,Ophthalmology,very_rare,acute,moderate,consultation_24,personal_visit
+Peripheral vascular disease,Peripheral arterial disease,both,Angiology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Peritonitis,Peritonitis,both,Surgery,very_rare,acute,severe,emergency,personal_visit
+Peritonsillar abscess,Quinsy,both,Otorhinolaryngology,very_rare,acute,severe,emergency,personal_visit
+Pernicious anemia,Pernicious anemia,both,Hematology,very_rare,chronic,mild,consultation,audio_teleconsultation
+Peroneal mononeuropathy,Peroneal neuropathy,both,Orthopedics,rare,chronic,mild,consultation,personal_visit
+Pertussis,Pertussis,both,Infectiology,very_rare,acute,moderate,consultation_24,personal_visit
+Pheochromocytoma,Pheochromocytoma,both,Endocrinology,very_rare,chronic_with_exacerbations,severe,consultation_24,personal_visit
+Phimosis,Phimosis,male,Urology,rare,chronic,mild,consultation,personal_visit
+Physical injury of unknown location,Physical injury of unknown location,both,Traumatology,very_rare,acute,severe,consultation,personal_visit
+Pilonidal cyst,Pilonidal cyst,both,Surgery,very_rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Pituitary prolactin releasing adenoma,Pituitary prolactin releasing adenoma,both,Endocrinology,very_rare,chronic,severe,consultation,personal_visit
+Pituitary tumor,Pituitary tumor,both,Endocrinology,rare,chronic,severe,consultation,personal_visit
+Pityriasis rosea,Pityriasis rosea,both,Dermatology,moderate,acute,mild,consultation,personal_visit
+Placenta previa,Placenta previa,female,Gynecology,very_rare,acute,severe,emergency,personal_visit
+Placental abruption,Premature separation of placenta,female,Gynecology,very_rare,acute,severe,emergency,personal_visit
+Plague,Plague,both,Infectiology,very_rare,acute,severe,emergency,personal_visit
+Plugged milk duct,Plugged milk duct,female,Gynecology,very_rare,acute,mild,self_care,personal_visit
+Pneumocystis jirovecii pneumonia,Pneumocystis jirovecii pneumonia,both,Pulmonology,very_rare,acute,severe,consultation_24,personal_visit
+Pneumonia,Pneumonia,both,Internal Medicine,rare,acute,severe,consultation_24,personal_visit
+Pneumothorax,Pneumothorax,both,Pulmonology,rare,acute,severe,emergency_ambulance,personal_visit
+Polyarteritis nodosa,Polyarteritis nodosa,both,Rheumatology,very_rare,chronic,severe,consultation,personal_visit
+Polycystic ovary syndrome,Polycystic ovary syndrome,female,Endocrinology,rare,chronic,moderate,consultation,personal_visit
+Polycythemia vera,Erythremia,both,Hematology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Polymyositis,Polymyositis,both,Rheumatology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Portal hypertension,Portal hypertension,both,Internal Medicine,very_rare,chronic,severe,consultation_24,personal_visit
+Post-COVID-19 syndrome,Post-COVID-19 syndrome,both,Infectiology,very_rare,chronic,moderate,consultation,personal_visit
+Post-concussion syndrome,Post-concussion syndrome,both,Neurology,very_rare,chronic,moderate,consultation,personal_visit
+Post-traumatic stress disorder,Post-traumatic stress disorder,both,Psychiatry,very_rare,chronic_with_exacerbations,moderate,consultation,video_teleconsultation
+Postinfectious cough,Postinfectious cough,both,Pulmonology,very_rare,acute,mild,self_care,personal_visit
+Postpartum depression,Post-pregnancy depression,female,Psychiatry,very_rare,acute_potentially_chronic,severe,consultation_24,video_teleconsultation
+Posttraumatic seizures,Posttraumatic seizures,both,Neurology,very_rare,acute,moderate,emergency,personal_visit
+Pre-eclampsia,Pre-eclampsia,female,Gynecology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Pregnancy,Pregnancy,female,Gynecology,rare,acute_potentially_chronic,mild,consultation,personal_visit
+Premenstrual syndrome,Premenstrual syndrome,female,Gynecology,moderate,chronic_with_exacerbations,mild,self_care,video_teleconsultation
+Prerenal acute renal failure,Prerenal acute renal failure,both,Nephrology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Presbycusis,Age-related hearing loss,both,Otorhinolaryngology,very_rare,chronic,mild,consultation,personal_visit
+Primary biliary cholangitis,Primary biliary cholangitis,both,Gastroenterology,very_rare,chronic,severe,consultation,personal_visit
+Primary dysmenorrhoea,Primary dysmenorrhoea,female,Gynecology,rare,chronic,mild,self_care,audio_teleconsultation
+Primary syphilis,Primary syphilis,both,Venereology,very_rare,acute,mild,consultation,personal_visit
+Prinzmetal's angina,Prinzmetal's angina,both,Cardiology,very_rare,chronic_with_exacerbations,severe,consultation_24,personal_visit
+Proctitis,Inflammation of the rectum,both,Gastroenterology,rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Progressive supranuclear palsy,Progressive supranuclear palsy,both,Neurology,very_rare,chronic,severe,consultation,personal_visit
+Prostate cancer,Prostate cancer,male,Urology,very_rare,chronic,severe,consultation,personal_visit
+Prostatitis,Prostatitis,male,Urology,moderate,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Pseudo gout,Pseudo gout,both,Rheumatology,very_rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Pseudo-tetany,Pseudo-tetany,both,Internal Medicine,very_rare,acute,mild,consultation,personal_visit
+Pseudobulbar palsy,Pseudobulbar palsy,both,Neurology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Psittacosis,Psittacosis,both,Infectiology,very_rare,acute,moderate,consultation_24,personal_visit
+Psoriasis,Psoriasis,both,Dermatology,rare,chronic_with_exacerbations,severe,consultation,video_teleconsultation
+Psoriasis exacerbation,Psoriasis exacerbation,both,Dermatology,very_rare,acute_potentially_chronic,moderate,consultation,video_teleconsultation
+Psoriatic arthritis,Psoriatic arthritis,both,Rheumatology,very_rare,chronic_with_exacerbations,moderate,consultation,video_teleconsultation
+Pulmonary edema,Pulmonary edema,both,Cardiology,very_rare,acute,severe,emergency,personal_visit
+Pulmonary embolism,Pulmonary embolism,both,Cardiology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Pulmonary hypertension,Pulmonary hypertension,both,Pulmonology,very_rare,chronic_with_exacerbations,severe,consultation_24,personal_visit
+Pulmonary tuberculosis,Pulmonary tuberculosis,both,Pulmonology,very_rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Pulpitis,Inflammation of the pulp,both,Dentistry,rare,acute_potentially_chronic,mild,consultation,personal_visit
+Pure hypercholesterolemia,Pure hypercholesterolemia,both,Internal Medicine,moderate,chronic,mild,consultation,audio_teleconsultation
+Pure hypertriglyceridemia,Pure hypertriglyceridemia,both,Internal Medicine,moderate,chronic,mild,consultation,audio_teleconsultation
+Pyelonephritis,Pyelonephritis,both,Nephrology,very_rare,acute,moderate,consultation_24,personal_visit
+Q fever,Q fever,both,Infectiology,very_rare,acute,severe,emergency,personal_visit
+Rabies,Rabies,both,Infectiology,very_rare,acute,severe,emergency,personal_visit
+Radial nerve neuropathy,Radial nerve neuropathy,both,Orthopedics,very_rare,chronic,mild,consultation,personal_visit
+Ramsay Hunt syndrome type II,Ramsay Hunt syndrome type II,both,Infectiology,very_rare,acute,moderate,consultation_24,personal_visit
+Raynaud's phenomenon,Raynaud disease,both,Dermatology,rare,chronic,mild,consultation,personal_visit
+Reactive arthritis,Reactive arthritis,both,Rheumatology,very_rare,chronic_with_exacerbations,moderate,consultation_24,personal_visit
+Reflex syncope,Reflex syncope,both,Internal Medicine,moderate,chronic,mild,consultation,personal_visit
+Relapsing fever,Relapsing fever,both,Infectiology,very_rare,acute_potentially_chronic,moderate,emergency,personal_visit
+Respiratory diphtheria,Respiratory diphtheria,both,Infectiology,very_rare,acute,severe,emergency,personal_visit
+Restless legs syndrome,Restless legs syndrome,both,Neurology,rare,chronic,mild,consultation,personal_visit
+Retinal detachment,Retinal detachment,both,Ophthalmology,very_rare,acute_potentially_chronic,severe,emergency,personal_visit
+Retinopathy,Retinopathy,both,Ophthalmology,rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Rheumatoid arthritis,Rheumatoid arthritis,both,Rheumatology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Rib fracture,Broken rib,both,Traumatology,very_rare,acute,moderate,consultation_24,personal_visit
+Rift Valley fever,Rift Valley fever,both,Infectiology,very_rare,acute,mild,emergency,personal_visit
+Right-sided heart failure,Right-sided heart failure,both,Cardiology,very_rare,chronic_with_exacerbations,severe,consultation_24,personal_visit
+Rocky Mountain spotted fever,Rocky Mountain spotted fever,both,Infectiology,very_rare,acute,severe,emergency,personal_visit
+Rosacea,Rosacea,both,Dermatology,common,chronic_with_exacerbations,mild,consultation,video_teleconsultation
+Rotator cuff syndrome,Rotator cuff syndrome,both,Orthopedics,rare,chronic,mild,consultation,personal_visit
+Rotor syndrome,Rotor syndrome,both,Gastroenterology,very_rare,chronic,mild,self_care,personal_visit
+Salicylate poisoning,Aspirin poisoning,both,Toxicology,very_rare,acute,severe,emergency,personal_visit
+Sarcoidosis,Sarcoidosis,both,Pulmonology,rare,chronic,severe,consultation,personal_visit
+Scabies,Scabies,both,Infectiology,rare,acute_potentially_chronic,mild,consultation,personal_visit
+Scapula fracture,Broken shoulder bone,both,Traumatology,very_rare,acute,moderate,consultation,personal_visit
+Scarlet fever,Scarlet fever,both,Infectiology,very_rare,acute,moderate,consultation_24,personal_visit
+Schizoaffective disorder - depressive type,Schizoaffective disorder - depressive type,both,Psychiatry,very_rare,chronic_with_exacerbations,severe,consultation,video_teleconsultation
+Schizoaffective disorder - manic type,Schizoaffective disorder - manic type,both,Psychiatry,very_rare,chronic_with_exacerbations,severe,consultation_24,video_teleconsultation
+Sciatica,Sciatica,both,Neurology,moderate,chronic_with_exacerbations,moderate,consultation,video_teleconsultation
+Scoliosis,Scoliosis,both,Orthopedics,moderate,chronic,mild,self_care,personal_visit
+Scrub typhus,Scrub typhus,both,Infectiology,very_rare,acute,moderate,emergency,personal_visit
+Seasonal affective disorder,Seasonal affective disorder,both,Psychiatry,rare,chronic_with_exacerbations,mild,consultation,video_teleconsultation
+Seborrheic dermatitis,Seborrheic dermatitis,both,Dermatology,moderate,chronic,mild,consultation,video_teleconsultation
+Secondary syphilis,Secondary syphilis,both,Venereology,very_rare,acute_potentially_chronic,moderate,consultation,personal_visit
+Sedatives withdrawal syndrome,Sedatives withdrawal syndrome,both,Toxicology,very_rare,acute,severe,consultation_24,personal_visit
+Sepsis,Sepsis,both,Infectiology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Sexual addiction,Sexual addiction,both,Psychiatry,rare,chronic,moderate,consultation,video_teleconsultation
+Shigellosis,Shigellosis,both,Infectiology,very_rare,acute,severe,consultation_24,personal_visit
+Shingles,Shingles,both,Dermatology,rare,acute,severe,consultation_24,video_teleconsultation
+Shoulder bursitis,Shoulder bursitis,both,Orthopedics,rare,chronic,mild,consultation,personal_visit
+Shoulder contusion,Shoulder contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Shoulder dislocation,Dislocated shoulder,both,Traumatology,very_rare,acute,moderate,emergency,personal_visit
+Shoulder impingement syndrome,Shoulder impingement syndrome,both,Orthopedics,moderate,chronic,mild,consultation,personal_visit
+Sickle cell anemia,Sickle cell anemia,both,Hematology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Sjögren's syndrome,Sjögren's syndrome,both,Rheumatology,very_rare,chronic,mild,consultation,personal_visit
+Sleep related leg cramps,Nocturnal leg cramps,both,Internal Medicine,moderate,acute_potentially_chronic,mild,self_care,personal_visit
+Small intestinal bacterial overgrowth,Small intestinal bacterial overgrowth,both,Gastroenterology,rare,acute_potentially_chronic,mild,consultation,personal_visit
+Social anxiety disorder,Social anxiety disorder,both,Psychiatry,rare,chronic_with_exacerbations,mild,consultation,audio_teleconsultation
+Solar lentigo,Age spots,both,Dermatology,rare,chronic,mild,self_care,personal_visit
+Specific phobia,Specific phobia,both,Psychiatry,very_rare,chronic_with_exacerbations,mild,self_care,audio_teleconsultation
+Spinal osteoarthritis,Degenerative arthritis of the spine,both,Orthopedics,very_rare,chronic,mild,consultation,personal_visit
+Splenic injury,Splenic injury,both,Traumatology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Sprained ankle,Sprained ankle,both,Traumatology,very_rare,acute,mild,consultation_24,personal_visit
+Sprained elbow,Sprained elbow,both,Traumatology,very_rare,acute,mild,consultation_24,personal_visit
+Sprained finger,Sprained finger,both,Traumatology,very_rare,acute,mild,self_care,personal_visit
+Sprained hip,Sprained hip,both,Traumatology,very_rare,acute_potentially_chronic,mild,consultation,personal_visit
+Sprained knee,Sprained knee,both,Traumatology,very_rare,acute_potentially_chronic,mild,consultation_24,personal_visit
+Sprained shoulder,Sprained shoulder,both,Traumatology,very_rare,acute_potentially_chronic,mild,consultation_24,personal_visit
+Sprained wrist,Sprained wrist,both,Traumatology,very_rare,acute,mild,consultation_24,personal_visit
+Stable angina pectoris,Stable angina pectoris,both,Cardiology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Stable bradyarrhythmia,Arrhythmia with slow heart rate,both,Cardiology,very_rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Stable tachyarrhythmia,Arrhythmia with fast heart rate,both,Cardiology,moderate,chronic,moderate,consultation,personal_visit
+Stress fracture of foot,Stress fracture of foot,both,Orthopedics,very_rare,acute,moderate,consultation_24,video_teleconsultation
+Stress fracture of lower leg,Stress fracture of lower leg,both,Orthopedics,very_rare,acute,moderate,consultation_24,personal_visit
+Stress urinary incontinence,Stress incontinence,both,Urology,rare,chronic,mild,consultation,personal_visit
+Stye,Stye,both,Ophthalmology,moderate,acute,mild,self_care,video_teleconsultation
+Subarachnoid hemorrhage,Subarachnoid intracranial hemorrhage,both,Surgery,very_rare,acute,severe,emergency_ambulance,personal_visit
+Sudden sensorineural hearing loss,Sudden idiopathic hearing loss,both,Otorhinolaryngology,very_rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Sun allergy,Sun allergy,both,Dermatology,rare,chronic_with_exacerbations,mild,self_care,video_teleconsultation
+Sunburn,Sunburn,both,Dermatology,very_rare,acute,mild,self_care,personal_visit
+Superficial thrombophlebitis,Inflammation of the superficial veins,both,Angiology,rare,chronic_with_exacerbations,moderate,consultation_24,personal_visit
+Superior vena cava syndrome,Superior vena cava syndrome,both,Angiology,very_rare,acute,severe,emergency,personal_visit
+Suspicious mole,Suspicious mole,both,Dermatology,moderate,chronic,severe,consultation,personal_visit
+Syndrome of inappropriate antidiuretic hormone secretion,Syndrome of inappropriate antidiuretic hormone secretion,both,Endocrinology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Systemic lupus erythematosus,Lupus,both,Rheumatology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Systemic scleroderma,Systemic scleroderma,both,Rheumatology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Taeniasis,Tapeworm infection,both,Infectiology,very_rare,acute_potentially_chronic,moderate,consultation,personal_visit
+Takayasu's disease,Takayasu's disease,both,Rheumatology,very_rare,chronic,moderate,consultation_24,personal_visit
+Temporal giant cell arteritis,Temporal giant cell arteritis,both,Rheumatology,very_rare,chronic,moderate,consultation_24,personal_visit
+Temporomandibular joint disorders,Temporomandibular joint disorders,both,Dentistry,rare,chronic,mild,consultation,personal_visit
+Tension-type headaches,Tension-type headaches,both,Neurology,common,chronic_with_exacerbations,mild,self_care,audio_teleconsultation
+Tertiary syphilis,Tertiary syphilis,both,Venereology,very_rare,chronic,moderate,consultation,personal_visit
+Testicular cancer,Testicular cancer,male,Urology,rare,chronic,severe,consultation,personal_visit
+Testicular torsion,Testicular torsion,male,Urology,very_rare,acute,severe,emergency,personal_visit
+Tetanus,Tetanus,both,Infectiology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Tetany,Tetany,both,Internal Medicine,rare,acute_potentially_chronic,severe,consultation_24,personal_visit
+Thalassemia,Thalassemia,both,Hematology,very_rare,chronic,mild,consultation,personal_visit
+Thigh contusion,Thigh contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Thoracic aortic aneurysm,Thoracic aortic aneurysm,both,Surgery,very_rare,chronic,severe,consultation_24,personal_visit
+Thoracic aortic dissection,Thoracic aortic dissection,both,Surgery,very_rare,acute,severe,emergency_ambulance,personal_visit
+Thoracic outlet syndrome,Thoracic outlet syndrome,both,Angiology,very_rare,chronic,mild,consultation,personal_visit
+Thoracic vertebra fracture,Broken thoracic spine,both,Traumatology,very_rare,acute,severe,emergency,personal_visit
+Thorax contusion,Chest contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Threatened miscarriage,Threatened miscarriage,female,Gynecology,very_rare,acute_potentially_chronic,moderate,emergency,personal_visit
+Thrombocytopathy,Thrombocytopathy,both,Hematology,very_rare,acute_potentially_chronic,moderate,consultation,personal_visit
+Thrombotic thrombocytopenic purpura,Thrombotic thrombocytopenic purpura,both,Hematology,very_rare,chronic_with_exacerbations,severe,emergency,personal_visit
+Thyroid cancer,Thyroid cancer,both,Endocrinology,very_rare,chronic,severe,consultation,personal_visit
+Thyrotoxic crisis with thyrotoxicosis,Thyrotoxic crisis with thyrotoxicosis,both,Endocrinology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Thyrotropin releasing pituitary adenoma,Thyrotropin releasing pituitary adenoma,both,Endocrinology,very_rare,chronic,severe,consultation,personal_visit
+Tibiofibular fracture,Broken calf bones,both,Traumatology,very_rare,acute,moderate,emergency,personal_visit
+Tinea capitis,Fungal infection of the scalp,both,Dermatology,rare,chronic,mild,consultation,video_teleconsultation
+Tinea corporis,Fungal skin infection,both,Dermatology,moderate,acute_potentially_chronic,mild,consultation,personal_visit
+Tinea cruris,Jock itch,both,Dermatology,rare,acute_potentially_chronic,mild,consultation,personal_visit
+Tinea pedis,Athlete's foot,both,Dermatology,common,chronic,mild,self_care,personal_visit
+Tinea versicolor,Tinea versicolor,both,Dermatology,moderate,chronic_with_exacerbations,mild,consultation,video_teleconsultation
+Toe contusion,Toe contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Toe dislocation,Toe dislocation,both,Traumatology,very_rare,acute,moderate,consultation,personal_visit
+Toe fracture,Broken toe,both,Traumatology,very_rare,acute,moderate,consultation_24,personal_visit
+Toxocariasis,Toxocariasis,both,Infectiology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Toxoplasmosis,Toxoplasmosis,both,Infectiology,rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Transient ischemic attack,Transient ischemic attack,both,Neurology,very_rare,acute,moderate,emergency,personal_visit
+Trichinosis,Trichinosis,both,Infectiology,very_rare,chronic,moderate,consultation_24,personal_visit
+Trichomoniasis,Trichomoniasis,both,Venereology,rare,acute,mild,consultation,personal_visit
+Trichuriasis,Whipworm infection,both,Infectiology,rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Trigeminal neuralgia,Trigeminal neuralgia,both,Neurology,very_rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Trigeminal neuropathy,Trigeminal nerve damage,both,Neurology,very_rare,chronic,mild,consultation,personal_visit
+Trochlear nerve palsy,Trochlear nerve palsy,both,Ophthalmology,very_rare,chronic,mild,consultation,personal_visit
+"Trunk injury, unspecified location",Trunk injury of unspecified location,both,Traumatology,very_rare,acute,mild,consultation,personal_visit
+Tularemia,Tularemia,both,Infectiology,very_rare,acute,severe,consultation,personal_visit
+Tumor lysis syndrome,Tumor lysis syndrome,both,Oncology,very_rare,acute_potentially_chronic,severe,emergency,personal_visit
+Type 1 Neurofibromatosis,Type 1 Neurofibromatosis,both,Neurology,very_rare,chronic,mild,consultation,video_teleconsultation
+Type 2 Neurofibromatosis,Type 2 Neurofibromatosis,both,Neurology,very_rare,chronic,mild,consultation,personal_visit
+Typhoid fever,Typhoid fever,both,Infectiology,very_rare,acute,severe,consultation_24,personal_visit
+Typhus,Typhus,both,Infectiology,very_rare,acute,severe,consultation_24,personal_visit
+Ulcerative colitis,Colitis ulcerosa,both,Gastroenterology,very_rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Ulcerative colitis exacerbation,Ulcerative colitis flare-up,both,Gastroenterology,very_rare,acute_potentially_chronic,severe,consultation,personal_visit
+Ulnar nerve syndrome,Ulnar nerve syndrome,both,Orthopedics,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Unstable angina pectoris,Unstable angina pectoris,both,Cardiology,very_rare,chronic_with_exacerbations,severe,emergency,personal_visit
+Unstable bradyarrhytmia,Severe arrhythmia with slow heart rate,both,Cardiology,very_rare,acute,severe,emergency_ambulance,personal_visit
+Unstable tachyarrhytmia,Severe arrhythmia with fast heart rate,both,Cardiology,rare,acute,severe,emergency_ambulance,personal_visit
+"Upper limb injury, unspecified location",Upper limb injury of unspecified location,both,Traumatology,very_rare,acute,moderate,consultation,personal_visit
+Urethritis,Urethritis,both,Urology,rare,acute,mild,consultation_24,personal_visit
+Urge urinary incontinence,Urge incontinence,both,Urology,rare,chronic_with_exacerbations,mild,self_care,personal_visit
+Uterine fibroids,Uterine fibroids,female,Gynecology,moderate,chronic,mild,consultation,personal_visit
+Uveitis,Uveitis,both,Ophthalmology,rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+VIPoma,VIPoma,both,Endocrinology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Vagus nerve palsy,Vagus nerve palsy,both,Neurology,very_rare,chronic,moderate,consultation,personal_visit
+Varicocele,Varicocele,male,Urology,moderate,chronic,mild,consultation,personal_visit
+Varicose veins of lower extremities,Varicose veins of lower extremities,both,Surgery,moderate,chronic,mild,self_care,video_teleconsultation
+Vascular hemorrhagic diathesis,Vascular hemorrhagic diathesis,both,Hematology,very_rare,acute_potentially_chronic,moderate,consultation,personal_visit
+Vasculitis,Vasculitis,both,Rheumatology,rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Vertebrobasilar insufficiency,Vertebrobasilar insufficiency,both,Neurology,very_rare,chronic_with_exacerbations,severe,consultation_24,personal_visit
+Vestibular neuronitis,Vestibular neuronitis,both,Otorhinolaryngology,very_rare,acute,moderate,consultation_24,personal_visit
+Vestibulocochlear nerve damage,Vestibulocochlear nerve damage,both,Neurology,very_rare,chronic,moderate,consultation_24,personal_visit
+Viral gastroenteritis,Viral gastroenteritis,both,Gastroenterology,common,acute,moderate,self_care,audio_teleconsultation
+Viral meningitis,Viral meningitis,both,Infectiology,very_rare,acute,severe,emergency,personal_visit
+Visceral leishmaniasis,Visceral leishmaniasis,both,Infectiology,very_rare,chronic_with_exacerbations,severe,emergency,personal_visit
+"Visual disturbance, unspecified",Sight defect,both,Ophthalmology,common,chronic,mild,self_care,video_teleconsultation
+Vitamin B12 deficiency anemia,Vitamin B12 deficiency anemia,both,Hematology,very_rare,chronic_with_exacerbations,moderate,consultation,audio_teleconsultation
+Vitiligo,Vitiligo,both,Dermatology,rare,chronic,mild,consultation,personal_visit
+"Vomiting, unspecified",Unspecific vomiting,both,Internal Medicine,common,acute,mild,self_care,text_teleconsultation
+Von Willebrand disease,Von Willebrand disease,both,Hematology,very_rare,chronic,mild,consultation,personal_visit
+Vulvar cancer,Vulvar cancer,female,Gynecology,very_rare,chronic,severe,consultation,personal_visit
+Vulvovaginal candidiasis,Vaginal thrush,female,Gynecology,moderate,acute_potentially_chronic,mild,consultation,personal_visit
+Warts,Warts,both,Dermatology,common,acute_potentially_chronic,mild,self_care,video_teleconsultation
+Wernicke's encephalopathy,Wernicke's encephalopathy,both,Neurology,very_rare,chronic,moderate,consultation,personal_visit
+West Nile Virus infection,West Nile Virus infection,both,Infectiology,very_rare,acute,severe,emergency,personal_visit
+Whitlow,Whitlow,both,Surgery,moderate,acute,severe,consultation,personal_visit
+Wilson's disease,Wilson's disease,both,Gastroenterology,very_rare,chronic_with_exacerbations,moderate,consultation,audio_teleconsultation
+Wiskott-Aldrich syndrome,Wiskott-Aldrich syndrome,both,Hematology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Wound dehiscence,Wound separation,both,Surgery,very_rare,acute,moderate,consultation_24,personal_visit
+Wound infection,Infected wound,both,Surgery,very_rare,acute,moderate,consultation_24,personal_visit
+Wrist and hand contusion,Wrist and hand contusion,both,Traumatology,very_rare,acute,mild,self_care,video_teleconsultation
+Wrist dislocation,Dislocated wrist,both,Traumatology,very_rare,acute,moderate,consultation,personal_visit
+Yellow fever,Yellow fever,both,Infectiology,very_rare,acute,severe,emergency,personal_visit
+Zika virus infection,Zika virus infection,both,Infectiology,very_rare,acute,mild,consultation,audio_teleconsultation
+Zollinger-Ellison syndrome,Zollinger-Ellison syndrome,both,Gastroenterology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Aphthous stomatitis,Canker sores,both,Dentistry,rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Atypical pneumonia,Atypical pneumonia,both,Pulmonology,moderate,acute,moderate,consultation_24,personal_visit
+Chronic tonsillitis,Chronic tonsillitis,both,Otorhinolaryngology,rare,chronic,moderate,consultation,personal_visit
+Degenerative disc disease of the cervical spine,Degenerative disc disease of the cervical spine,both,Neurology,rare,chronic,mild,consultation,personal_visit
+Degenerative disc disease of the lumbar and sacral spine,Degenerative disc disease of the lumbar and sacral spine,both,Orthopedics,rare,chronic_with_exacerbations,mild,consultation,personal_visit
+Degenerative disc disease of the thoracic spine,Degenerative disc disease of the thoracic spine,both,Orthopedics,very_rare,chronic,mild,consultation,personal_visit
+Diabetes mellitus type 2,Diabetes mellitus type 2,both,Diabetology,rare,chronic_with_exacerbations,severe,consultation,personal_visit
+Geographic tongue,Geographic tongue,both,Dentistry,common,chronic_with_exacerbations,mild,self_care,personal_visit
+Herpangina,Herpangina,both,Otorhinolaryngology,very_rare,acute,mild,consultation,personal_visit
+Hypertension,High blood pressure,both,Cardiology,very_rare,chronic_with_exacerbations,moderate,consultation,personal_visit
+Infectious mononucleosis,Mononucleosis,both,Infectiology,rare,acute,moderate,consultation_24,personal_visit
+Knee osteoarthritis,Knee osteoarthritis,both,Orthopedics,very_rare,chronic,mild,consultation,personal_visit
+Leukoplakia,Leukoplakia,both,Dentistry,very_rare,chronic,mild,consultation,video_teleconsultation
+Non-lactational mastitis,Inflammation of the breast,female,Surgery,very_rare,acute_potentially_chronic,mild,consultation_24,personal_visit
+Primary dysmenorrhoea,Primary dysmenorrhoea,female,Gynecology,moderate,chronic,mild,self_care,audio_teleconsultation
+Pure hypercholesterolemia,Pure hypercholesterolemia,both,Internal Medicine,very_rare,chronic,mild,consultation,audio_teleconsultation
+Rosacea,Rosacea,both,Dermatology,rare,chronic_with_exacerbations,mild,consultation,video_teleconsultation
+Solar lentigo,Age spots,both,Dermatology,very_rare,chronic,mild,self_care,personal_visit
+Stable tachyarrhythmia,Arrhythmia with fast heart rate,both,Cardiology,rare,chronic,moderate,consultation,personal_visit
+Stress urinary incontinence,Stress incontinence,both,Urology,very_rare,chronic,mild,consultation,personal_visit
+Sudden sensorineural hearing loss,Sudden idiopathic hearing loss,both,Otorhinolaryngology,rare,acute_potentially_chronic,moderate,consultation_24,personal_visit
+Superficial thrombophlebitis,Inflammation of the superficial veins,both,Angiology,very_rare,chronic_with_exacerbations,moderate,consultation_24,personal_visit
+Urge urinary incontinence,Urge incontinence,both,Urology,very_rare,chronic_with_exacerbations,mild,self_care,personal_visit
+Uterine fibroids,Uterine fibroids,female,Gynecology,very_rare,chronic,mild,consultation,personal_visit
+Varicose veins of lower extremities,Varicose veins of lower extremities,both,Surgery,rare,chronic,mild,self_care,video_teleconsultation
